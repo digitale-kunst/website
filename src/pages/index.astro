@@ -1,0 +1,54 @@
+---
+import dk from "../dk.svg";
+---
+
+<html lang="en" class="min-h-screen">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Digitale Kunst</title>
+  </head>
+  <body
+    class="font-bold p-10 min-h-screen antialiased flex items-center justify-center bg-primary"
+  >
+    <div
+      class="bg-black rounded-r-[13vw] duration-75 transition-all text-primary"
+    >
+      <div class="text-[4vw] font-bold p-6">
+        <div class="inline-block">
+          <img
+            src={dk.src}
+            alt=""
+            class="h-[3vw] transform -translate-y-1 inline-block"
+          />
+
+          Universität für angewandte Kunst in Wien Institut für Bildende &
+          Mediale Kunst Digitale Kunst <a
+            class="hover:opacity-40 text-secondary"
+            href="#">Studieninfo</a
+          >
+          <a class="hover:opacity-40 text-secondary" href="/zulassung"
+            >Zulassung</a
+          >
+          <a class="hover:opacity-40 text-secondary" href="#">News</a>
+          <a class="hover:opacity-40 text-secondary" href="#">Projekte</a>
+          <a class="hover:opacity-40 text-secondary" href="#">Team</a>
+          <a class="hover:opacity-40 text-secondary" href="#">Studierende</a>
+          <a class="hover:opacity-40 text-secondary" href="#">Lehrende</a>
+          <a class="hover:opacity-40 text-secondary" href="#">Schauraum</a>
+          <a class="hover:opacity-40 text-secondary" href="#">Labs</a>
+          <a class="hover:opacity-40" href="mailto:digitalekunst@uni-ak.ac.at"
+            >digitalekunst@uni-ak.ac.at</a
+          >
+          <a class="hover:opacity-40" href="tel:+43-1-71133-2640"
+            >+43-1-71133-2640</a
+          >
+          Standort Expositur Alte PSK 1.0G Georg-Coch-Platz 2 od. Rosenbursenstraße
+          3, A-1010 Wien
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
