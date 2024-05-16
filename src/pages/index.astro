@@ -1,5 +1,6 @@
 ---
 import dk from "../dk.svg";
+import { ViewTransitions } from "astro:transitions";
 ---
 
 <html lang="en" class="min-h-screen">
@@ -9,12 +10,13 @@ import dk from "../dk.svg";
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>Digitale Kunst</title>
+    <ViewTransitions />
   </head>
   <body
     class="font-bold p-10 min-h-screen antialiased flex items-center justify-center bg-primary"
   >
     <div
-      class="bg-black rounded-r-[13vw] duration-75 transition-all text-primary"
+      class="bg-black overflow-scroll h-[calc(100vh-5rem)] rounded-r-[13vw] duration-75 transition-all text-primary"
     >
       <div class="text-[4vw] font-bold p-6">
         <div class="inline-block">
@@ -29,8 +31,10 @@ import dk from "../dk.svg";
             class="hover:opacity-40 text-secondary"
             href="#">Studieninfo</a
           >
-          <a class="hover:opacity-40 text-secondary" href="/zulassung"
-            >Zulassung</a
+          <a
+            transition:name="zulassung"
+            class="hover:opacity-40 text-secondary"
+            href="/zulassung">Zulassung</a
           >
           <a class="hover:opacity-40 text-secondary" href="#">News</a>
           <a class="hover:opacity-40 text-secondary" href="#">Projekte</a>
