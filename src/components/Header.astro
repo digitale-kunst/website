@@ -1,0 +1,68 @@
+---
+import Link from "@components/Link.astro";
+import dk from "../dk.svg";
+import { SITE } from "@consts";
+import { getCollection } from "astro:content";
+
+const { hideProjects } = Astro.props;
+---
+
+<script is:inline>
+  function closeMenu() {
+    const content = document.getElementById("content");
+    const logo = document.getElementById("logo");
+    if (!content) return;
+    if (content.style.display === "none") {
+      content.style.display = "inline";
+      logo.classList.toggle("rotate-90");
+    } else {
+      content.style.display = "none";
+      logo.classList.toggle("rotate-90");
+    }
+  }
+</script>
+<header>
+  <div class="flex flex-wrap justify-between gap-y-2">
+    <div class="transform">
+      <div class="text-[4vw] font-bold p-6">
+        <div class="inline-block">
+          <img
+            transition:name="logo"
+            src={dk.src}
+            id="logo"
+            alt=""
+            onmousedown="closeMenu()"
+            class="h-[3vw] transition-all duration-150 transform -translate-y-1 inline-block"
+          />
+          <span id="content" class="leading-none">
+            Universität für angewandte Kunst in Wien Institut für Bildende &
+            Mediale Kunst Digitale Kunst <a
+              class="hover:opacity-40 text-secondary"
+              href="#">Studieninfo</a
+            >
+            <a
+              transition:name="zulassung"
+              class="hover:opacity-40 text-secondary"
+              href="/zulassung">Zulassung</a
+            >
+            <a class="hover:opacity-40 text-secondary" href="#">News</a>
+            <a class="hover:opacity-40 text-secondary" href="#">Projekte</a>
+            <a class="hover:opacity-40 text-secondary" href="#">Team</a>
+            <a class="hover:opacity-40 text-secondary" href="#">Studierende</a>
+            <a class="hover:opacity-40 text-secondary" href="#">Lehrende</a>
+            <a class="hover:opacity-40 text-secondary" href="#">Schauraum</a>
+            <a class="hover:opacity-40 text-secondary" href="#">Labs</a>
+            <a class="hover:opacity-40" href="mailto:digitalekunst@uni-ak.ac.at"
+              >digitalekunst@uni-ak.ac.at</a
+            >
+            <a class="hover:opacity-40" href="tel:+43-1-71133-2640"
+              >+43-1-71133-2640</a
+            >
+            Standort Expositur Alte PSK 1.0G Georg-Coch-Platz 2 od. Rosenbursenstraße
+            3, A-1010 Wien
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

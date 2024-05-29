@@ -1,46 +1,11 @@
 ---
 import dk from "../dk.svg";
-import { ViewTransitions } from "astro:transitions";
+import Layout from "@layouts/Layout.astro";
 ---
 
-<html lang="en" class="min-h-screen">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Digitale Kunst</title>
-    <ViewTransitions />
-  </head>
-  <body
-    class="font-bold p-10 min-h-screen antialiased flex items-center justify-center bg-primary"
-  >
-    <div
-      class="bg-black rounded-r-[13vw] duration-75 transition-all text-primary"
-    >
-      <div class="text-[4vw] font-bold p-6">
-        <div class="inline-block">
-          <a href="/">
-            <img
-              src={dk.src}
-              alt=""
-              class="h-[3vw] transform -translate-y-1 inline-block"
-            />
-          </a>
-
-          <a
-            transition:name="zulassung"
-            class="hover:opacity-40 text-secondary"
-            href="/zulassung">Zulassung</a
-          >
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-            alias veniam ex harum, obcaecati vel voluptatem nulla exercitationem
-            deleniti aut, itaque voluptatum totam amet praesentium deserunt
-            autem sint minima. Atque?
-          </p>
-        </div>
-      </div>
-    </div>
-  </body>
-</html>
+<Layout title="Zulassung" description="Test">
+  <div class="flex flex-col items-center justify-center h-screen">
+    <h1 class="text-4xl font-bold">Zulassung</h1>
+    <p class="text-lg">Test</p>
+  </div>
+</Layout>
