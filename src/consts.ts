@@ -1,7 +1,7 @@
 import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
-  NAME: "Digitale Kunst 🌐",
+  NAME: "Digitale Kunst",
   EMAIL: "digitalekunst@uni-ak.ac.at",
   NUM_POSTS_ON_HOMEPAGE: 2,
   NUM_WORKS_ON_HOMEPAGE: 3,

@@ -1,11 +1,16 @@
 ---
 import dk from "../dk.svg";
 import Layout from "@layouts/Layout.astro";
+import Container from "@layouts/Container.astro";
+import { getEntry } from "astro:content";
+const zulassung = await getEntry("pages", "zulassung");
+const { Content, headings } = await zulassung.render();
 ---
 
 <Layout title="Zulassung" description="Test">
-  <div class="flex flex-col items-center justify-center h-screen">
-    <h1 class="text-4xl font-bold">Zulassung</h1>
-    <p class="text-lg">Test</p>
+  <div class="flex text-green flex-col items-center justify-center">
+    <Container>
+      <Content />
+    </Container>
   </div>
 </Layout>

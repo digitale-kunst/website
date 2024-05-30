@@ -10,9 +10,18 @@ type Props = {
   description: string;
   blogEmpty?: boolean;
   hideProjects?: boolean;
+  open?: boolean;
+  showContact?: boolean;
 };
 
-const { title, description, blogEmpty, hideProjects } = Astro.props;
+const {
+  title,
+  description,
+  blogEmpty,
+  hideProjects,
+  open = false,
+  showContact = false,
+} = Astro.props;
 ---
 
 <html lang="en" class="min-h-screen">
@@ -25,17 +34,17 @@ const { title, description, blogEmpty, hideProjects } = Astro.props;
     <ViewTransitions />
   </head>
   <body
-    class="font-bold p-10 pb-0 min-h-screen antialiased flex flex-col items-center justify-center bg-primary"
+    class="font-bold box-border p-4 pb-0 md:p-10 md:pb-0 min-h-[calc(100vh-2.5rem)] antialiased flex flex-col items-center justify-center bg-primary"
   >
     <body class="shadow-inner">
       <div
         transition:name="bg"
         style="direction: rtl;"
-        class="bg-black w-full scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar scrollbar-thumb-primary scrollbar-track-black overflow-scroll h-[calc(100vh-6rem)] rounded-r-[13vw] text-primary"
+        class="bg-gradient-to-b from-black to-slate-800 w-full scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar scrollbar-thumb-primary scrollbar-track-black overflow-scroll h-[calc(100vh-2.5rem)] md:h-[calc(100vh-5rem)] rounded-r-[5rem] md:rounded-r-[12vw] text-primary"
       >
         <div style="direction: ltr;">
-          <Header {blogEmpty} {hideProjects} />
-          <main class="min-w-full">
+          <Header {blogEmpty} {hideProjects} {open} {showContact} />
+          <main class="min-w-full text-left">
             <slot />
           </main>
         </div>
