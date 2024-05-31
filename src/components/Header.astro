@@ -5,11 +5,10 @@ import { SITE } from "@consts";
 import { getCollection } from "astro:content";
 
 type Props = {
-  hideProjects: boolean;
   open: boolean;
   showContact: boolean;
 };
-const { hideProjects, open, showContact = false } = Astro.props;
+const { open, showContact = false } = Astro.props;
 ---
 
 <script is:inline>
