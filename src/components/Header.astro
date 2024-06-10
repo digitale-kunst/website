@@ -54,9 +54,9 @@ const { open, showContact = false } = Astro.props;
       >
         <svg
           viewBox="0 0 28 27"
-          class="h-[1.1rem] md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem] transition-all duration-100"
+          class="h-[1.1rem] cursor-pointer md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem] transition-all duration-100"
           fill="none"
-          onclick="tol()"
+          onmousedown="tol()"
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
@@ -66,13 +66,16 @@ const { open, showContact = false } = Astro.props;
             fill="#E2E823"></path>
         </svg>
 
-        <h1 class="m-0 p-0 transform duration-150 inline-block" id="title">
-          <a href="/" class="hover:opacity-40">
-            {SITE.NAME}
-          </a>
-          <span id="blinker" class="animate-blink hidden font-normal">|</span>
-        </h1>
         <span id="content">
+          <h1
+            class="m-0 p-0 cursor-pointer transform duration-150 inline-block"
+            id="title"
+          >
+            <a href="/" class="hover:opacity-40">
+              {SITE.NAME}
+            </a>
+            <span id="blinker" class="animate-blink hidden font-normal">|</span>
+          </h1>
           <a class="hover:opacity-40 text-orange" href="/af24"
             >Angewandte Festival 24</a
           >
