@@ -14,55 +14,58 @@ const { open, showContact = false } = Astro.props;
 <script is:inline>
   function closeMenu() {
     const content = document.getElementById("content");
-    const d = document.getElementById("d");
-    const k = document.getElementById("k");
-    const svg = document.getElementById("svg");
-    const title = document.getElementById("title");
     const blinker = document.getElementById("blinker");
-    if (!content) return;
+    content.style.display = "none";
+    blinker.classList.remove("hidden");
+    k.classList.toggle("rotate-180");
+  }
+  function openMenu() {
+    const content = document.getElementById("content");
+    const blinker = document.getElementById("blinker");
+    const k = document.getElementById("k");
+    content.style.display = "inline";
+    blinker.classList.add("hidden");
+    k.classList.toggle("rotate-180");
+  }
+  function tol() {
+    const content = document.getElementById("content");
     if (content.style.display === "none") {
-      content.style.display = "inline";
-      d.classList.toggle("md:opacity-0");
-      svg.classList.toggle("md:-translate-x-[3vw]");
-      title.classList.toggle("md:-translate-x-[3vw]");
-      blinker.classList.toggle("hidden");
+      openMenu();
     } else {
-      content.style.display = "none";
-      d.classList.toggle("md:opacity-0");
-      svg.classList.toggle("md:-translate-x-[3vw]");
-      title.classList.toggle("md:-translate-x-[3vw]");
-      blinker.classList.toggle("hidden");
+      closeMenu();
     }
   }
-  open && closeMenu();
 </script>
+<script define:vars={{ open }} is:inline>
+  document.addEventListener("astro:page-load", () => {
+    if (open) {
+      openMenu();
+    } else {
+      closeMenu();
+    }
+  });
+</script>
+
 <header>
   <div class="flex flex-wrap justify-between gap-y-2">
     <div class="transform">
       <div
-        class="text-2xl md:text-[4vw] relative align-baseline p-4 font-bold md:p-6 leading-none"
+        class="text-2xl md:text-5xl relative align-baseline p-4 font-bold md:p-6 leading-none"
       >
         <svg
-          viewBox="0 0 903 421"
+          viewBox="0 0 28 27"
+          class="h-[1.1rem] md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem] transition-all duration-100"
           fill="none"
-          id="svg"
-          onmousedown="closeMenu()"
-          class="h-10 md:h-[2.8vw] md:inline-block transform md:-translate-y-[0.25rem] transition-all duration-100"
+          onclick="tol()"
           xmlns="http://www.w3.org/2000/svg"
         >
-          <g clip-path="url(#clip0_4_9)">
-            <path
-              id="d"
-              class="duration-100 transform transition-all"
-              d="M0 0H316.251C344.088 0.211282 370.715 11.4006 390.334 31.1319C409.952 50.8631 420.974 77.5385 421 105.35V315.65C420.868 343.55 409.716 370.27 389.969 389.998C370.221 409.727 343.476 420.868 315.55 421H0V0Z"
-              fill="#E4E826"></path>
-            <path
-              id="k"
-              class="duration-100 relative transform transition-all origin-center-right"
-              d="M482 0H903L839.84 210.5L903 421H482V0Z"
-              fill="#E4E826"></path>
-          </g>
+          <path
+            id="k"
+            class="duration-200 origin-center relative transform transition-all origin-center-right"
+            d="M0 26.5V0H28L22.5 13L27 26.5H0Z"
+            fill="#E2E823"></path>
         </svg>
+
         <h1 class="m-0 p-0 transform duration-150 inline-block" id="title">
           <a href="/" class="hover:opacity-40">
             {SITE.NAME}

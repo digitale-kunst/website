@@ -3,14 +3,16 @@ import dk from "../dk.svg";
 import Layout from "@layouts/Layout.astro";
 import Container from "@layouts/Container.astro";
 import { getEntry } from "astro:content";
-const zulassung = await getEntry("pages", "zulassung");
-const { Content, headings } = await zulassung.render();
+const af24 = await getEntry("pages", "af24");
+const { Content, headings } = await af24.render();
 ---
 
 <Layout title="Angewandte Festival 2024" description="Test">
-  <div class="flex text-green flex-col items-center justify-center">
+  <div
+    class="flex text-orange prose-headings:text-orange flex-col items-center justify-center"
+  >
     <Container>
-      <!-- <Content /> -->
+      <Content />
     </Container>
   </div>
 </Layout>
