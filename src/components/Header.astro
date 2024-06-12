@@ -3,11 +3,12 @@ import Link from "@components/Link.astro";
 import dk from "../dk.svg";
 import { SITE } from "@consts";
 import { getCollection } from "astro:content";
-
+import Scramble from "./Scramble";
 type Props = {
   open: boolean;
   showContact: boolean;
 };
+
 const { open, showContact = false } = Astro.props;
 ---
 
@@ -15,21 +16,23 @@ const { open, showContact = false } = Astro.props;
   function closeMenu() {
     const content = document.getElementById("content");
     const blinker = document.getElementById("blinker");
-    content.style.display = "none";
     blinker.classList.remove("hidden");
+    content.classList.add("hidden");
+    content.classList.remove("inline");
     k.classList.toggle("rotate-180");
   }
   function openMenu() {
     const content = document.getElementById("content");
     const blinker = document.getElementById("blinker");
     const k = document.getElementById("k");
-    content.style.display = "inline";
     blinker.classList.add("hidden");
+    content.classList.remove("hidden");
+    content.classList.add("inline");
     k.classList.toggle("rotate-180");
   }
   function tol() {
     const content = document.getElementById("content");
-    if (content.style.display === "none") {
+    if (content.classList.contains("hidden")) {
       openMenu();
     } else {
       closeMenu();
@@ -37,7 +40,7 @@ const { open, showContact = false } = Astro.props;
   }
 </script>
 <script define:vars={{ open }} is:inline>
-  document.addEventListener("astro:page-load", () => {
+  document.addEventListener("astro:after-swap", () => {
     if (open) {
       openMenu();
     } else {
@@ -45,36 +48,68 @@ const { open, showContact = false } = Astro.props;
     }
   });
 </script>
+<!-- 
+<script>
+  import typingEffect from "typing-effect"; // when not using https://mgrsskls.github.io/typing-effect/typing-effect.js
+  document.addEventListener("astro:after-swap", () => {
+    // a single element
+    typingEffect(document.querySelector("[data-typing-effect]"));
 
+    // passing options
+    typingEffect(
+      Array.from(document.querySelectorAll("[data-typing-effect]"), {
+        speed: 200,
+        delay: 40,
+        reset: false,
+      })
+    );
+  });
+  document.addEventListener("DOMContentLoaded", () => {
+    // multiple elements
+    typingEffect(
+      Array.from(document.querySelectorAll("[data-typing-effect]")),
+      {
+        speed: 20,
+        delay: 40,
+        reset: false,
+      }
+    );
+  });
+</script>
+<style is:global>
+  [data-typing-effect] {
+    visibility: hidden;
+  }
+</style> -->
 <header>
   <div class="flex flex-wrap justify-between gap-y-2">
     <div class="transform">
       <div
-        class="text-2xl md:text-5xl relative align-baseline p-4 font-bold md:p-6 leading-none"
+        class="relative p-4 text-2xl font-bold leading-none align-baseline md:text-5xl md:p-6"
       >
         <svg
           viewBox="0 0 28 27"
-          class="h-[1.1rem] cursor-pointer md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem] transition-all duration-100"
+          class="h-[1.1rem] cursor-pointer md:h-[2.3rem] rotate-180 inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem] transition-all duration-100"
           fill="none"
           onmousedown="tol()"
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
             id="k"
-            class="duration-200 origin-center relative transform transition-all origin-center-right"
+            class="relative transition-all duration-200 origin-center transform origin-center-right"
             d="M0 26.5V0H28L22.5 13L27 26.5H0Z"
             fill="#E2E823"></path>
         </svg>
 
-        <span id="content">
+        <span id="content" data-typing-effect class={``}>
           <h1
-            class="m-0 p-0 cursor-pointer transform duration-150 inline-block"
+            class="inline-block p-0 m-0 duration-150 transform cursor-pointer"
             id="title"
           >
             <a href="/" class="hover:opacity-40">
-              {SITE.NAME}
+              <Scramble text={SITE.NAME} client:load />
             </a>
-            <span id="blinker" class="animate-blink hidden font-normal">|</span>
+            <span id="blinker" class="hidden font-normal animate-blink">|</span>
           </h1>
           <a class="hover:opacity-40 text-orange" href="/af24"
             >Angewandte Festival 24</a
@@ -93,10 +128,6 @@ const { open, showContact = false } = Astro.props;
           >
           <a class="hover:opacity-40 text-green" href="/lehrende">Lehrende</a>
           <a class="hover:opacity-40 text-green" href="/team">Team</a>
-          <a class="hover:opacity-40 text-secondary" href="/news">News</a>
-          <a class="hover:opacity-40 text-secondary" href="/projekte"
-            >Projekte</a
-          >
           <a class="hover:opacity-40 text-secondary" href="/schauraum"
             >Schauraum</a
           >
@@ -113,11 +144,11 @@ const { open, showContact = false } = Astro.props;
                 <a class="hover:opacity-40" href="tel:+43-1-71133-2640">
                   +43-1-71133-2640
                 </a>
-                Standort Expositur Alte PSK 1.0G Georg-Coch-Platz 2 od.
+                Standort Expositur Alte PSK 1.OG Georg-Coch-Platz 2 od.
                 Rosenbursenstraße 3, A-1010 Wien{" "}
               </>
             )
-          }<span class="animate-blink font-normal">|</span>
+          }<span class="font-normal animate-blink">|</span>
         </span>
       </div>
     </div>

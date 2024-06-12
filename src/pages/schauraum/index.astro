@@ -1,0 +1,48 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@layouts/Container.astro";
+import { getCollection, getEntry } from "astro:content";
+
+const schauraeume = await getCollection("schauraum");
+const schauraum = await getEntry("pages", "schauraum");
+import type { CollectionEntry } from "astro:content";
+
+interface SeasonGroup {
+  [season: string]: CollectionEntry<"schauraum">[];
+}
+//group schauraeume data by season
+const season: SeasonGroup = schauraeume.reduce((acc, item) => {
+  const key = item.data.season;
+  if (!acc[key]) {
+    acc[key] = [];
+  }
+  acc[key].push(item);
+  return acc;
+}, {});
+
+const { Content, headings } = await schauraum.render();
+---
+
+<Layout title="Zulassung" description="Test">
+  <div
+    class="flex flex-col items-center justify-center text-purple prose-headings:text-purple prose-a:text-purple"
+  >
+    <Container>
+      <Content />
+      <h2>Season 1</h2>
+      <ul class="w-full p-0 m-0">
+        {
+          season["1"].map((schauraum) => (
+            <div class="">
+              <a href={"/schauraum/" + schauraum.slug}>
+                <li class="font-sans text-2xl font-bold no-underline list-none">
+                  {schauraum.data.episode} {schauraum.data.title}
+                </li>
+              </a>
+            </div>
+          ))
+        }
+      </ul>
+    </Container>
+  </div>
+</Layout>

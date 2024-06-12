@@ -40,10 +40,10 @@ const {
       <div
         transition:name="bg"
         style="direction: rtl;"
-        class="bg-gradient-to-b from-black to-slate-800 w-full scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar scrollbar-thumb-primary scrollbar-track-black overflow-scroll h-[calc(100vh-2.5rem)] md:h-[calc(100vh-5rem)] rounded-r-[5rem] md:rounded-r-[12vw] text-primary"
+        class="bg-gradient-to-b from-black relative to-slate-800 w-full scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar scrollbar-thumb-primary scrollbar-track-black overflow-scroll h-[calc(100vh-2.5rem)] md:h-[calc(100vh-5rem)] rounded-r-[5rem] md:rounded-r-[12vw] text-primary"
       >
         <div style="direction: ltr;">
-          <Header {open} {showContact} />
+          <Header {open} {showContact} transition:persist />
           <main
             class="min-w-full text-left font-mono prose prose-green font-normal"
           >

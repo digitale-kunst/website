@@ -41,17 +41,36 @@ const person = z.object({
 
 const projects = defineCollection({
   type: "content",
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    date: z.coerce.date(),
-    draft: z.boolean().optional(),
-    demoURL: z.string().optional(),
-    repoURL: z.string().optional(),
-    archived: z.boolean().optional(),
-    featured: z.boolean().optional(),
-    slider: z.array(z.string()).optional(),
-  }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      date: z.coerce.date(),
+      draft: z.boolean().optional(),
+      archived: z.boolean().optional(),
+      featured: z.boolean().optional(),
+      slider: z
+        .array(z.object({ image: image(), caption: z.string() }))
+        .optional(),
+    }),
+});
+
+const schauraum = defineCollection({
+  type: "content",
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      date: z.coerce.date(),
+      episode: z.string().optional().or(z.number().optional()),
+      season: z.number().optional().or(z.number().optional()),
+      draft: z.boolean().optional(),
+      archived: z.boolean().optional(),
+      featured: z.boolean().optional(),
+      slider: z
+        .array(z.object({ image: image(), caption: z.string() }))
+        .optional(),
+    }),
 });
 
 const pages = defineCollection({
@@ -65,10 +84,11 @@ const pages = defineCollection({
 export const collections = {
   blog: blog,
   work: work,
-  schauraum: projects,
+  schauraum: schauraum,
   students: person,
   team: person,
   teachers: person,
   labs: projects,
+  diplome: projects,
   pages: pages,
 };

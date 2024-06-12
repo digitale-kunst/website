@@ -1,0 +1,30 @@
+---
+import dk from "../dk.svg";
+import Layout from "@layouts/Layout.astro";
+import Container from "@layouts/Container.astro";
+import { getEntry, getCollection } from "astro:content";
+const labs = await getCollection("labs");
+const lab = await getEntry("pages", "labs");
+const { Content, headings } = await lab.render();
+---
+
+<Layout title="Labs" description="Test">
+  <div
+    class="flex flex-col items-center justify-center text-green prose-headings:text-green prose-a:text-green"
+  >
+    <Container>
+      <Content />
+      <ul class="p-0 m-0">
+        {
+          labs.map((d) => (
+            <a href={"/labs/" + d.slug}>
+              <li class="font-sans text-2xl font-bold no-underline list-none">
+                {d.data.title}
+              </li>
+            </a>
+          ))
+        }
+      </ul>
+    </Container>
+  </div>
+</Layout>

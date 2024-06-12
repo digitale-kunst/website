@@ -1,0 +1,30 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@layouts/Container.astro";
+import { getEntry, getCollection } from "astro:content";
+
+const diplome = await getCollection("diplome");
+const diplom = await getEntry("pages", "diplome");
+const { Content, headings } = await diplom.render();
+---
+
+<Layout title="Angewandte Festival 2024" description="Test">
+  <div
+    class="flex flex-col items-center justify-center text-orange prose-headings:text-orange prose-a:text-orange"
+  >
+    <Container>
+      <Content />
+      <ul class="p-0 m-0">
+        {
+          diplome.map((d) => (
+            <a href={"/diplome/" + d.slug}>
+              <li class="font-sans text-2xl font-bold no-underline list-none">
+                {d.data.title}
+              </li>
+            </a>
+          ))
+        }
+      </ul>
+    </Container>
+  </div>
+</Layout>
