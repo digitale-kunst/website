@@ -63,7 +63,7 @@ const schauraum = defineCollection({
       description: z.string(),
       date: z.coerce.date(),
       episode: z.string().optional().or(z.number().optional()),
-      season: z.number().optional().or(z.number().optional()),
+      season: z.number().or(z.number()),
       draft: z.boolean().optional(),
       archived: z.boolean().optional(),
       featured: z.boolean().optional(),

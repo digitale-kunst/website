@@ -18,7 +18,7 @@ const season: SeasonGroup = schauraeume.reduce((acc, item) => {
   }
   acc[key].push(item);
   return acc;
-}, {});
+}, {} as SeasonGroup);
 
 const { Content, headings } = await schauraum.render();
 ---
