@@ -7,28 +7,36 @@ import Scramble from "./Scramble";
 type Props = {
   open: boolean;
   showContact: boolean;
+  title: string;
 };
 
-const { open, showContact = false } = Astro.props;
+const { open, showContact = false, title } = Astro.props;
+const slug = title.toLowerCase().replace(/ /g, "-");
 ---
 
 <script is:inline>
   function closeMenu() {
     const content = document.getElementById("content");
     const blinker = document.getElementById("blinker");
+    const currentElement = document.getElementById("currentElement");
+    currentElement.classList.remove("hidden");
     blinker.classList.remove("hidden");
     content.classList.add("hidden");
     content.classList.remove("inline");
     k.classList.toggle("rotate-180");
+    console.log("close");
   }
   function openMenu() {
     const content = document.getElementById("content");
     const blinker = document.getElementById("blinker");
     const k = document.getElementById("k");
+    const currentElement = document.getElementById("currentElement");
+    currentElement.classList.add("hidden");
     blinker.classList.add("hidden");
     content.classList.remove("hidden");
     content.classList.add("inline");
     k.classList.toggle("rotate-180");
+    console.log("open");
   }
   function tol() {
     const content = document.getElementById("content");
@@ -39,15 +47,21 @@ const { open, showContact = false } = Astro.props;
     }
   }
 </script>
-<script define:vars={{ open }} is:inline>
-  document.addEventListener("astro:after-swap", () => {
-    if (open) {
+<script define:vars={{ open, showContact }} is:inline>
+  document.addEventListener("astro:page-load", () => {
+    if (showContact) {
+      console.log("showContact", showContact);
       openMenu();
     } else {
-      closeMenu();
+      if (open) {
+        openMenu();
+      } else {
+        closeMenu();
+      }
     }
   });
 </script>
+
 <!-- 
 <script>
   import typingEffect from "typing-effect"; // when not using https://mgrsskls.github.io/typing-effect/typing-effect.js
@@ -107,12 +121,13 @@ const { open, showContact = false } = Astro.props;
             id="title"
           >
             <a href="/" class="hover:opacity-40">
-              <Scramble text={SITE.NAME} client:load />
+              {SITE.NAME}
             </a>
             <span id="blinker" class="hidden font-normal animate-blink">|</span>
           </h1>
-          <a class="hover:opacity-40 text-orange" href="/af24"
-            >Angewandte Festival 24</a
+          <a
+            class="hover:opacity-40 text-orange"
+            href="/angewandte-festival-2024">Angewandte Festival 24</a
           >
           <a class="hover:opacity-40 text-orange" href="/diplome">Diplome</a>
           <a
@@ -123,9 +138,9 @@ const { open, showContact = false } = Astro.props;
           <a class="hover:opacity-40 text-green" href="/studieninfo"
             >Studieninfo</a
           >
-          <a class="hover:opacity-40 text-green" href="/studierende"
+          <!-- <a class="hover:opacity-40 text-green" href="/studierende"
             >Studierende</a
-          >
+          > -->
           <a class="hover:opacity-40 text-green" href="/lehrende">Lehrende</a>
           <a class="hover:opacity-40 text-green" href="/team">Team</a>
           <a class="hover:opacity-40 text-secondary" href="/schauraum"
@@ -150,6 +165,11 @@ const { open, showContact = false } = Astro.props;
             )
           }<span class="font-normal animate-blink">|</span>
         </span>
+        <a
+          class="hidden hover:opacity-45"
+          href={title !== "Digitale Kunst" ? "/" + slug : "/"}
+          id="currentElement">{title}</a
+        >
       </div>
     </div>
   </div>

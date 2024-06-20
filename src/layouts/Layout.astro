@@ -43,7 +43,7 @@ const {
         class="bg-black relative w-full scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar scrollbar-thumb-primary scrollbar-track-black overflow-scroll h-[calc(100vh-2.5rem)] md:h-[calc(100vh-5rem)] rounded-r-[5rem] md:rounded-r-[12vw] text-primary"
       >
         <div style="direction: ltr;">
-          <Header {open} {showContact} transition:persist />
+          <Header {open} {showContact} {title} />
           <main class="min-w-full font-normal prose text-left prose-green">
             <slot />
           </main>
