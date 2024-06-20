@@ -2,8 +2,9 @@
 import dk from "../dk.svg";
 import Layout from "@layouts/Layout.astro";
 import Container from "@layouts/Container.astro";
-import { getEntry } from "astro:content";
+import { getEntry, getCollection } from "astro:content";
 const af24 = await getEntry("pages", "af24");
+const af24works = await getCollection("af24");
 const { Content, headings } = await af24.render();
 ---
 
@@ -13,6 +14,17 @@ const { Content, headings } = await af24.render();
   >
     <Container>
       <Content />
+      <ul class="p-0 m-0">
+        {
+          af24works.map((d) => (
+            <a href={"/angewandte-festival-2024/" + d.slug}>
+              <li class="font-sans text-2xl font-bold no-underline list-none">
+                {d.data.title}
+              </li>
+            </a>
+          ))
+        }
+      </ul>
     </Container>
   </div>
 </Layout>

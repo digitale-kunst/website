@@ -89,6 +89,7 @@ export const collections = {
   team: person,
   teachers: person,
   labs: projects,
+  af24: projects,
   diplome: projects,
   pages: pages,
 };

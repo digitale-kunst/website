@@ -12,4 +12,4 @@ Installation, 2024
 
 Schau, ist das eine Taube?
 
-Nein, das ist ein „hochdetaillierter Vogel im Stil einer Marmorskulptur aus der Renaissance, der auf einem Geländer sitzt“.
+Nein, das ist ein „hochdetaillierter Vogel im Stil einer Marmorskulptur aus der Renaissance, der auf einem Geländer sitzt".

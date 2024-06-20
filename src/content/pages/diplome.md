@@ -1,5 +1,5 @@
 ---
-title: „Diplome“
+title: „Diplome"
 description: ""
 ---
 # Diplome Sommersemester 2024
