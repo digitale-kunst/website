@@ -2,23 +2,13 @@
 title: Kilian Hannapi 
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 10/12/2024 #fuer sortierung
-slider: [{image: "./Stern4.png", caption: "Caption 1"},{image: "./Stern5.png", caption: "Caption 1"},{image: "./Stern6.png", caption: "Caption 1"},]
+slider: [{image: "./hannapi.png", caption: "Caption 1"}]
 ---
 
-# The Futile Corporation
-### David Obradović
 
-### 24.01. – 11.02.2024
-In der ersten Episode schaltet J. Doe versehentlich einen Stift frei, der mit ununterbrochenem Schreiben und Singen durchdreht. Machen Sie sich auf ein urkomisches Durcheinander aus Symbolik und Chaos in diesem ernsthaft albernen Abenteuer gefasst!
+### Kilian Hanappi
+looking for you
+Net Art / Video-Installation, 2024
 
-
-### 24.01. – 31.01.
-the Futile Corporation: Aliasing
-
-Aliasing beschreibt visuelle Verzerrungen oder Artefakte, die auftreten, wenn ein digitales Signal unzureichend abgetastet oder angezeigt wird. Sowohl im Digitalen als auch in der materiellen Welt bezieht Aliasing sich auf unerwünschte Effekte. Ob im Raum digitaler Darstellungen, visueller Verschmutzung oder Umweltzerstörung, die Wahrnehmung unerwünschter Artefakte bleibt immer von den Betrachtenden abhängig.
-
-### 01.02. – 11.02.
-David Obradović: Unglaublich! Orthodoxe Ikonen brechen ihr Schweigen! 
+Ein autonomer Klick-Bot tastet sich in Echtzeit durch die virtuelle Abbildung der Erde im Mapping-Dienst Google Street-View. Er ist ein Medien-Flâneur (Emilio Vavarella, 2020), eine Entität, die sich fließend durch Zentren sowie Peripherien bewegt. Das Betrachten von Welt ist delegiert an eine panoptische Kamerakonstruktion, die Raum aus neun Augen und einer Höhe von 2,5 Metern zusammensetzt. Die maschinische Topologie lässt vertraute Landstriche fremd wirken, ein ständiger Wechsel der Blicke zwischen Überwacher und Überwachtem findet statt. In welchem Spannungsverhältnis steht Googles Credo: „Die Informationen der Welt zu organisieren und zugänglich zu machen“ zur Lesbarkeit, Dechiffrierung und Deutung der Welt?
  
-David Obradovićs Installation beschäftigt sich mit der Macht des Glaubens und dessen Darstellung in der orthodoxen Kirche. Acht ausgewählte Ikonen übertragen das in Ton umgewandelte Licht von orthodoxen Kirchen. Die im Raum schwebenden Bilder formen eine ambisonische Kuppel um die Betrachter:in. Kommen Sie vorbei und lauschen Sie den erhellenden Klängen der heiligen Krieger!
-

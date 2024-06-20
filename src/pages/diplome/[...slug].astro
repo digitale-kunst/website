@@ -22,14 +22,22 @@ const { Content } = await entry.render();
   >
     <Container>
       <Content />
+    </Container>
+    <div
+      class="overflow-x-auto w-[calc(100vw-2rem)] md:w-[calc(100vw-5rem)] px-4 md:px-6 gap-8 flex"
+    >
       {
         entry.data.slider?.map((slide) => (
-          <div>
-            <img src={slide.image.src} alt={slide.caption} />
-            <p>{slide.caption}</p>
+          <div class="">
+            <img
+              src={slide.image.src}
+              class="max-h-[80vh] aspect-auto     w-auto"
+              alt={slide.caption}
+            />
+            <p class="text-sm">{slide.caption}</p>
           </div>
         ))
       }
-    </Container>
+    </div>
   </div>
 </Layout>
