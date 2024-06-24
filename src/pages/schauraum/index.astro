@@ -22,6 +22,7 @@ const season: SeasonGroup = schauraeume.reduce((acc, item) => {
 
 //sort seasons by episode Number
 Object.keys(season).forEach((key) => {
+  // @ts-ignore
   season[key].sort((a, b) => a.data.episode - b.data.episode);
 });
 
