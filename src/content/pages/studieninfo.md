@@ -17,7 +17,3 @@ Ideen dafür.
 Gespräche zur Portfoliovorbereitung im Herbst 2024. Termine werden bekanntgegeben. Die nächsten Aufnahmeprüfungen finden im Jan / Feb 2025 statt. Studienbeginn im Wintersemester 2025.
 <br/>
 <br/>
-
-
-Download
-Demo.PDF001 Memo.PDF002 Lemo.PDF003

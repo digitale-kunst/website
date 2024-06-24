@@ -10,21 +10,26 @@ const { Content, headings } = await diplom.render();
 
 <Layout title="Diplome" description="Test">
   <div
-    class="flex flex-col items-center justify-center text-orange prose-headings:text-orange prose-a:text-orange"
+    class="flex flex-col items-center justify-center text-yellow prose-headings:text-orange prose-a:text-orange"
   >
     <Container>
-      <Content />
-      <ul class="p-0 m-0">
+      <ul class="p-0 m-0 inline">
         {
-          diplome.map((d) => (
-            <a href={"/diplome/" + d.slug}>
-              <li class="font-sans text-2xl font-bold no-underline list-none">
+          diplome.map((d, i) => (
+            <a
+              href={"/diplome/" + d.slug}
+              class="no-underline hover:opacity-50"
+            >
+              <li class="font-sans inline text-5xl font-bold list-none">
                 {d.data.title}
               </li>
             </a>
           ))
         }
       </ul>
+      <br />
+      <br />
+      <Content />
     </Container>
   </div>
 </Layout>

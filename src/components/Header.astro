@@ -99,7 +99,7 @@ const slug = title.toLowerCase().replace(/ /g, "-");
   <div class="flex flex-wrap justify-between gap-y-2">
     <div class="transform">
       <div
-        class="relative p-4 text-2xl font-bold leading-none align-baseline md:text-5xl md:p-6"
+        class="relative p-4 md:pr-24 text-2xl font-bold leading-none align-baseline md:text-5xl md:p-6"
       >
         <svg
           viewBox="0 0 28 27"
@@ -129,19 +129,18 @@ const slug = title.toLowerCase().replace(/ /g, "-");
             class="hover:opacity-40 text-orange"
             href="/angewandte-festival-2024">Angewandte Festival 24</a
           >
-          <a class="hover:opacity-40 text-orange" href="/diplome">Diplome</a>
+          <a class="hover:opacity-40 text-orange" href="/diplome">Diplomas</a>
           <a
             transition:name="zulassung"
             class="hover:opacity-40 text-green"
-            href="/zulassung">Zulassung</a
+            href="/zulassung">Admission</a
           >
-          <a class="hover:opacity-40 text-green" href="/studieninfo"
+          <!-- <a class="hover:opacity-40 text-green" href="/studieninfo"
             >Studieninfo</a
-          >
+          > -->
           <!-- <a class="hover:opacity-40 text-green" href="/studierende"
             >Studierende</a
           > -->
-          <a class="hover:opacity-40 text-green" href="/lehrende">Lehrende</a>
           <a class="hover:opacity-40 text-green" href="/team">Team</a>
           <a class="hover:opacity-40 text-secondary" href="/schauraum"
             >Schauraum</a
@@ -168,7 +167,8 @@ const slug = title.toLowerCase().replace(/ /g, "-");
         <a
           class="hidden hover:opacity-45"
           href={title !== "Digitale Kunst" ? "/" + slug : "/"}
-          id="currentElement">{title}</a
+          id="currentElement"
+          >{title} <span class="font-normal animate-blink">|</span></a
         >
       </div>
     </div>

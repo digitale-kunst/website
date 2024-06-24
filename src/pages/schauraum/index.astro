@@ -31,24 +31,26 @@ const { Content, headings } = await schauraum.render();
 
 <Layout title="Schauraum" description="Test">
   <div
-    class="flex flex-col items-center justify-center text-purple prose-headings:text-purple prose-a:text-purple"
+    class="flex flex-col items-center justify-center text-yellow prose-headings:text-purple prose-a:text-purple"
   >
     <Container>
-      <Content />
-      <h2>Season 1</h2>
-      <ul class="w-full p-0 m-0">
+      <ul class="p-0 m-0 inline">
         {
-          season["1"].map((schauraum) => (
-            <div class="">
-              <a href={"/schauraum/" + schauraum.slug}>
-                <li class="font-sans text-2xl font-bold no-underline list-none">
-                  {schauraum.data.episode} {schauraum.data.title}
-                </li>
-              </a>
-            </div>
+          season["1"].map((schauraum, i) => (
+            <a
+              href={"/schauraum/" + schauraum.slug}
+              class="no-underline hover:opacity-50"
+            >
+              <li class="font-sans inline text-5xl font-bold list-none">
+                S{schauraum.data.season}E{schauraum.data.episode}{" "}
+              </li>
+            </a>
           ))
         }
       </ul>
+      <br />
+      <br />
+      <Content />
     </Container>
   </div>
 </Layout>

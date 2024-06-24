@@ -6,10 +6,11 @@ slider: [{image: "./MargoDubovska.png", caption: "Caption1"},{image: "./ElementL
 ---
 
 
-1. OG, DK Klassenräume
-EG Lager Damen-Toilette
-### TAVOLATA, Ausstellung von Studierendenarbeiten
 
+# TAVOLATA, Ausstellung von Studierendenarbeiten
+
+\1. OG, DK Klassenräume
+EG Lager Damen-Toilette
 
 ### Margo Dubovska
 ### To the one I was not let to become

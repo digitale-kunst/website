@@ -7,8 +7,8 @@ slider: [{image: "./INFORMATION@MarcinRatajczyk.jpg", caption: "Caption 1"}]
 
 
 Kassenhalle, Hochparterre
-###INFORMATION
-###Installation/Performance, 29.06.2024, 17.00
+### INFORMATION
+### Installation/Performance, 29.06.2024, 17.00
 
 
 INFORMATION ist eine Installation, die zur Teilhabe an irreführenden Erzählungen einlädt. Die am INFO-Stand präsentierten Arbeiten der Studierenden unterwandern die scheinbar neutralen Konventionen von Information, indem sie Kunst als Information verkaufen. Entwickelt im künstlerischen Seminar Vernetzter Sound von Thomas Felder. 

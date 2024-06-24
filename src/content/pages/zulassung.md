@@ -20,7 +20,7 @@ Das digitale Portfolio gibt uns einen Einblick in deine künstlerische Praxis un
 <br/>
 <br/>
 
-##Termine
+## Termine
 15.01. bis 29.01.2025 
 Online-Registrierung und Portfolio-Upload
 

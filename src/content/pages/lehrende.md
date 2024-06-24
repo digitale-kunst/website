@@ -5,7 +5,7 @@ description: "Das sind unsere Lehrenden"
 
 - [Thomas Felder](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=2835)
 - [Wolfgang Fiel](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=5542)
-- [Filip Klaus](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?reserve-mode=active&content-id=1458930944469&Pe-Id=3544&rel=de)
+- [Klaus Filip](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?reserve-mode=active&content-id=1458930944469&Pe-Id=3544&rel=de)
 - [Julian Hessenthaler](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=9267)
 - [Peter Koger](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=3055)
 - [Tina Kult](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=6862)
