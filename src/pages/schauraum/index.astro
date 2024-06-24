@@ -20,6 +20,11 @@ const season: SeasonGroup = schauraeume.reduce((acc, item) => {
   return acc;
 }, {} as SeasonGroup);
 
+//sort seasons by episode Number
+Object.keys(season).forEach((key) => {
+  season[key].sort((a, b) => a.data.episode - b.data.episode);
+});
+
 const { Content, headings } = await schauraum.render();
 ---
 
