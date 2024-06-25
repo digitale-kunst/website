@@ -1,26 +1,23 @@
 ---
-title: Unendliches Schreiben
+title: Infinite writing
 episode: 2
 season: 1
 description: Dere
 date: 10/12/2024
-slider: [{image: "./stern-pink.png", caption: "Caption 1"},{image: "./stern-pink.png", caption: "Caption 1"},{image: "./stern-pink.png", caption: "Caption 1"},]
+slider: [{image: "./stern-pink.png", caption: "Stern Pink"},]
 ---
 
 # The Futile Corporation
 ### David Obradović
 
 ### 24.01. – 11.02.2024
-In der ersten Episode schaltet J. Doe versehentlich einen Stift frei, der mit ununterbrochenem Schreiben und Singen durchdreht. Machen Sie sich auf ein urkomisches Durcheinander aus Symbolik und Chaos in diesem ernsthaft albernen Abenteuer gefasst!
-
+In the first episode, J. Doe accidentally unlocks a pen that goes berserk with nonstop writing and singing. Get ready for a hilarious jumble of symbolism and chaos in this seriously silly adventure!
 
 ### 24.01. – 31.01.
 the Futile Corporation: Aliasing
 
-Aliasing beschreibt visuelle Verzerrungen oder Artefakte, die auftreten, wenn ein digitales Signal unzureichend abgetastet oder angezeigt wird. Sowohl im Digitalen als auch in der materiellen Welt bezieht Aliasing sich auf unerwünschte Effekte. Ob im Raum digitaler Darstellungen, visueller Verschmutzung oder Umweltzerstörung, die Wahrnehmung unerwünschter Artefakte bleibt immer von den Betrachtenden abhängig.
-
+Aliasing describes visual distortions or artifacts that occur when a digital signal is inadequately sampled or displayed. In both the digital and physical worlds, aliasing refers to unwanted effects. Whether in the space of digital representations, visual pollution, or environmental degradation, the perception of unwanted artifacts always remains dependent on the viewer.
 ### 01.02. – 11.02.
-David Obradović: Unglaublich! Orthodoxe Ikonen brechen ihr Schweigen! 
- 
-David Obradovićs Installation beschäftigt sich mit der Macht des Glaubens und dessen Darstellung in der orthodoxen Kirche. Acht ausgewählte Ikonen übertragen das in Ton umgewandelte Licht von orthodoxen Kirchen. Die im Raum schwebenden Bilder formen eine ambisonische Kuppel um die Betrachter:in. Kommen Sie vorbei und lauschen Sie den erhellenden Klängen der heiligen Krieger!
+David Obradović: Unbelievable! Orthodox icons break their silence!
 
+David Obradović's installation deals with the power of faith and its representation in the Orthodox Church. Eight selected icons transmit the light of Orthodox churches converted into sound. The images floating in the room form an ambisonic dome around the viewer. Come by and listen to the illuminating sounds of the holy warriors!

@@ -79,8 +79,18 @@ const pages = defineCollection({
     title: z.string(),
     description: z.string(),
     draft: z.boolean().optional(),
+    color: z
+      .union([
+        z.literal("primary"),
+        z.literal("purple"),
+        z.literal("green"),
+        z.literal("cyan"),
+        z.literal("orange"),
+      ])
+      .optional(),
   }),
 });
+
 export const collections = {
   blog: blog,
   work: work,
@@ -90,6 +100,6 @@ export const collections = {
   teachers: person,
   labs: projects,
   af24: projects,
-  diplome: projects,
+  diplomas: projects,
   pages: pages,
 };

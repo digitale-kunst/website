@@ -27,9 +27,10 @@ Object.keys(season).forEach((key) => {
 });
 
 const { Content, headings } = await schauraum.render();
+const { title, description, color } = schauraum.data;
 ---
 
-<Layout title="Schauraum" description="Test">
+<Layout {title} {description} {color}>
   <div
     class="flex flex-col items-center justify-center text-yellow prose-headings:text-purple prose-a:text-purple"
   >
@@ -37,18 +38,15 @@ const { Content, headings } = await schauraum.render();
       <ul class="p-0 m-0 inline">
         {
           season["1"].map((schauraum, i) => (
-            <a
-              href={"/schauraum/" + schauraum.slug}
-              class="no-underline hover:opacity-50"
-            >
-              <li class="font-sans inline text-5xl font-bold list-none">
+            <a href={"/schauraum/" + schauraum.slug} class="no-underline ">
+              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
                 S{schauraum.data.season}E{schauraum.data.episode}{" "}
               </li>
             </a>
           ))
         }
       </ul>
-      <br />
+      <br class="text-purple" />
       <br />
       <Content />
     </Container>

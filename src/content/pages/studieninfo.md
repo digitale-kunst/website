@@ -1,5 +1,5 @@
 ---
-title: "Zulassung"
+title: "Admission"
 description: ""
 ---
 # DIE KLASSE DIGITALE KUNST

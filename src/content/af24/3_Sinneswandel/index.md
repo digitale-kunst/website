@@ -2,18 +2,16 @@
 title: Sinneswandel
 description: Dere
 date: 10/12/2024
-slider: [{image: "./sinneswandel.jpg", caption: "Caption 1"}]
+slider: [{image: "./sinneswandel.jpg", caption: "Sinneswandel"}]
 ---
 
 
-1. OG, DK Klassenräume
-### Sinneswandel
+### Sinneswandel – A Hacker's Guide to Perception
+## Location: Floor 1 at Postsparkasse/GCP - Department of Digitale Kunst
 
-Was wir nicht wahrnehmen, können wir nicht wirklich verstehen. Daher ist es wichtig, unsere Sinne zu schärfen und sie auch mit technischen Hilfsmitteln zu erweitern, um angemessen mit einer komplexen und dynamischen Umgebung interagieren zu können. Unsere Sinne helfen unserem Gehirn, Dinge wahrzunehmen, besonders weil sie zusammen harmonieren. Lässt man sie allein, kann uns ein einzelner Sinn leicht täuschen. Durch das Zusammenspiel der Sinne kann das Gehirn jedoch Eindrücke verarbeiten und mit zuvor gesammelten Erfahrungen kombinieren.
+What we do not perceive, we cannot truly understand. Therefore, it is important to sharpen our senses and also expand them with technical aids to be able to interact adequately with a complex and dynamic environment. Our senses help our brain to perceive things, especially because they harmonize together. Left on their own, a single sense can easily deceive us. Through the interplay of the senses, however, the brain can process impressions and combine them with previously gathered experiences.
+We present a reflection on an innovative interdisciplinary course that won the TRANSFORM – New Courses competition organised by the University of Applied Arts Vienna and the Johannes Kepler University Linz.
 
-Wir präsentieren eine Reflexion eines innovativen interdisziplinären Lehrkurses, der den Aufruf TRANSFORM – Neue Lehrveranstaltungen der Universität für angewandte Kunst Wien und der Johannes Kepler Universität Linz gewonnen hat.
-
-Studierende der Lehrveranstaltung Sinneswandel – A Hacker's Guide to Perception
-
+Participants are all students of the seminar Sinneswandel – A Hacker's Guide to Perception
 
 

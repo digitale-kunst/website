@@ -8,9 +8,10 @@ type Props = {
   open: boolean;
   showContact: boolean;
   title: string;
+  color?: string;
 };
 
-const { open, showContact = false, title } = Astro.props;
+const { open, showContact = false, title, color } = Astro.props;
 const slug = title.toLowerCase().replace(/ /g, "-");
 ---
 
@@ -24,7 +25,6 @@ const slug = title.toLowerCase().replace(/ /g, "-");
     content.classList.add("hidden");
     content.classList.remove("inline");
     k.classList.toggle("rotate-180");
-    console.log("close");
   }
   function openMenu() {
     const content = document.getElementById("content");
@@ -36,7 +36,6 @@ const slug = title.toLowerCase().replace(/ /g, "-");
     content.classList.remove("hidden");
     content.classList.add("inline");
     k.classList.toggle("rotate-180");
-    console.log("open");
   }
   function tol() {
     const content = document.getElementById("content");
@@ -99,7 +98,7 @@ const slug = title.toLowerCase().replace(/ /g, "-");
   <div class="flex flex-wrap justify-between gap-y-2">
     <div class="transform">
       <div
-        class="relative p-4 md:pr-24 text-2xl font-bold leading-none align-baseline md:text-5xl md:p-6"
+        class="relative p-4 md:pr-24 text-3xl font-bold leading-none align-baseline md:text-5xl md:p-6"
       >
         <svg
           viewBox="0 0 28 27"
@@ -120,52 +119,44 @@ const slug = title.toLowerCase().replace(/ /g, "-");
             class="inline-block p-0 m-0 duration-150 transform cursor-pointer"
             id="title"
           >
-            <a href="/" class="hover:opacity-40">
+            <a href="/" class="">
               {SITE.NAME}
             </a>
             <span id="blinker" class="hidden font-normal animate-blink">|</span>
           </h1>
-          <a
-            class="hover:opacity-40 text-orange"
-            href="/angewandte-festival-2024">Angewandte Festival 24</a
+          <a class="text-orange" href="/angewandte-festival-2024"
+            >Angewandte Festival 24</a
           >
-          <a class="hover:opacity-40 text-orange" href="/diplome">Diplomas</a>
-          <a
-            transition:name="zulassung"
-            class="hover:opacity-40 text-green"
-            href="/zulassung">Admission</a
+          <a class="text-orange" href="/diplomas">Diplomas</a>
+          <a transition:name="zulassung" class="text-green" href="/zulassung"
+            >Admission</a
           >
-          <!-- <a class="hover:opacity-40 text-green" href="/studieninfo"
+          <!-- <a class=" text-green" href="/studieninfo"
             >Studieninfo</a
           > -->
-          <!-- <a class="hover:opacity-40 text-green" href="/studierende"
+          <!-- <a class=" text-green" href="/studierende"
             >Studierende</a
           > -->
-          <a class="hover:opacity-40 text-green" href="/team">Team</a>
-          <a class="hover:opacity-40 text-secondary" href="/schauraum"
-            >Schauraum</a
-          >
-          <a class="hover:opacity-40 text-cyan" href="/labs">Labs</a>
+          <a class="text-green" href="/team">Team</a>
+          <a class="text-secondary" href="/schauraum">Schauraum</a>
+          <a class="text-cyan" href="/labs">Labs</a>
           {
             showContact && (
               <>
-                <a
-                  class="hover:opacity-40"
-                  href="mailto:digitalekunst@uni-ak.ac.at"
-                >
+                <a class="" href="mailto:digitalekunst@uni-ak.ac.at">
                   digitalekunst@uni-ak.ac.at
                 </a>
-                <a class="hover:opacity-40" href="tel:+43-1-71133-2640">
+                <a class="" href="tel:+43-1-71133-2640">
                   +43-1-71133-2640
                 </a>
-                Standort Expositur Alte PSK 1.OG Georg-Coch-Platz 2 od.
-                Rosenbursenstraße 3, A-1010 Wien{" "}
+                Location Alte PSK 1st floor Georg-Coch-Platz 2 or
+                Rosenbursenstraße 3, A-1010 Vienna
               </>
             )
           }<span class="font-normal animate-blink">|</span>
         </span>
         <a
-          class="hidden hover:opacity-45"
+          class={`hidden text-${color}`}
           href={title !== "Digitale Kunst" ? "/" + slug : "/"}
           id="currentElement"
           >{title} <span class="font-normal animate-blink">|</span></a

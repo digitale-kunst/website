@@ -1,24 +1,27 @@
 ---
-title: Unendliches Schreiben
+title: Endless Writing
 episode: 1
 season: 1
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 10/12/2024 #fuer sortierung
-slider: [{image: "./S1E1_theFutileCorporation.jpg", caption: "Caption1"},{image: "./S1E1_theFutileCorporation1.jpg",caption: "Caption1"},{image: "./S1E1_thefutileCorporation2.jpg",caption: "Caption1"},{image: "./S1E1DavidObradović03.jpg",caption: "Caption1"},{image: "./S1E1DavidObradović06.jpg",caption: "Caption1"},{image: "./S1E1DavidObradović07.jpg",caption: "Caption 1"},]
+slider: [{image: "./S1E1_theFutileCorporation.jpg", caption: "Futile Corporation"},{image: "./S1E1_theFutileCorporation1.jpg",caption: "Futile Corporation"},{image: "./S1E1_thefutileCorporation2.jpg",caption: "Futile Corporation"},{image: "./S1E1DavidObradović03.jpg",caption: "Futile Corporation"},{image: "./S1E1DavidObradović06.jpg",caption: "Futile Corporation"},{image: "./S1E1DavidObradović07.jpg",caption: "Futile Corporation"},]
 ---
 
 # S1E1: Unendliches Schreiben
 ### The Futile Corporation, David Obradović
 ### 24.01. – 11.02.2024
 		
-In der ersten Episode schaltet J. Doe versehentlich einen Stift frei, der mit ununterbrochenem Schreiben und Singen durchdreht. Machen Sie sich auf ein urkomisches Durcheinander aus Symbolik und Chaos in diesem ernsthaft albernen Abenteuer gefasst!
+In the first episode J. Doe accidentally unlocks a pen that goes berserk with non-stop writing and singing. Brace yourself for a hilarious mayhem of symbolism and chaos in this seriously silly adventure!
 
 ### 24.01.–31.01.
 ### the Futile Corporation: Aliasing
 
-Aliasing beschreibt visuelle Verzerrungen oder Artefakte, die auftreten, wenn ein digitales Signal unzureichend abgetastet oder angezeigt wird. Sowohl im Digitalen als auch in der materiellen Welt bezieht Aliasing sich auf unerwünschte Effekte. Ob im Raum digitaler Darstellungen, visueller Verschmutzung oder Umweltzerstörung, die Wahrnehmung unerwünschter Artefakte bleibt immer von den Betrachtenden abhängig.
+Aliasing refers to the visual distortion or artifacting that occurs when a digital signal is inadequately sampled or displayed. In both the digital and physical realms, aliasing describes undesirable effects. Whether in digital representations, visual pollution or environmental degradation, the perception of unwanted artifacts always remains dependent on the viewer.
 
 ### 01.02.–11.02.
 ### David Obradović: Unglaublich! Orthodoxe Ikonen brechen ihr Schweigen! 
 	
-David Obradovićs Installation beschäftigt sich mit der Macht des Glaubens und dessen Darstellung in der orthodoxen Kirche. Acht ausgewählte Ikonen übertragen das in Ton umgewandelte Licht von orthodoxen Kirchen. Die im Raum schwebenden Bilder formen eine ambisonische Kuppel um die Betrachter:in. Kommen Sie vorbei und lauschen Sie den erhellenden Klängen der heiligen Krieger!
+The installation by David Obradović deals with the power of faith and its representation in the Orthodox Church. Eight selected icons transmit the light of Orthodox churches transformed into sound. The images floating in space form an ambisonic dome around the viewer. Come and listen to the illuminating sounds of the holy warriors!
+
+
+

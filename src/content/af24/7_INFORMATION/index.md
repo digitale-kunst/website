@@ -2,15 +2,16 @@
 title: INFORMATION
 description: Dere
 date: 10/12/2024
-slider: [{image: "./INFORMATION@MarcinRatajczyk.jpg", caption: "Caption 1"}]
+slider: [{image: "./INFORMATION@MarcinRatajczyk.jpg", caption: "INFORMATION"}]
 ---
 
-
-Kassenhalle, Hochparterre
 ### INFORMATION
-### Installation/Performance, 29.06.2024, 17.00
+## Location: Kassenhalle (Hochparterre) at Postsparkasse/GCP
+
+### Installation/Performance, 29 June 2024, 17.00
 
 
-INFORMATION ist eine Installation, die zur Teilhabe an irreführenden Erzählungen einlädt. Die am INFO-Stand präsentierten Arbeiten der Studierenden unterwandern die scheinbar neutralen Konventionen von Information, indem sie Kunst als Information verkaufen. Entwickelt im künstlerischen Seminar Vernetzter Sound von Thomas Felder. 
+INFORMATION is an installation that invites visitors to get involved in confusing narratives. Artworks created by students and presented at the INFO booth subvert the seemingly neutral conventions of informing by masquerading art as information. Developed in the lecture Vernetzter Sound with Thomas Felder.
 
-Marcin Ratajczyk, David Obradovic, Carolina Rivera Arboleda, Nicolas Henao Bonnet, Sebastian Pfeifhofer (alle Digitale Kunst), Frederike Stahl Gordillo (Trans Arts), Martin Gius (Experimental Game Cultures), Julius Anatol Biswurm (Transmediale Kunst), Charles Auguste Poulet (Erasmus Student)
+Marcin Ratajczyk, David Obradovic, Carolina Rivera Arboleda, Sebastian Pfeifhofer, Nicolas Henao Bonnet (all Digitale Kunst), Frederike Stahl Gordillo (Trans Arts), Martin Gius (Experimental Game Cultures), Julius Anatol
+Biswurm (Transmediale Kunst), Charles Auguste Poulet (Erasmus student)

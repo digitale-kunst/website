@@ -5,11 +5,15 @@ date: 10/12/2024
 ---
 
 
-1. OG, DK Klassenräume, Dome Lab
 ### Deep See'n light Listening
-### Performance, 28.06.2024, 14.30, und 29.06.2024, 14.30
+## Location: Floor 1 at Postsparkasse/GCP - Department of Digitale Kunst / Dome-LAB
 
-Deep See'n light Listening ist eine performative Kollaboration. Die Performer*innen arbeiten mit Pflanzen, Piezos und Bewegung. Wir zelebrieren das Rhizomatische mit einer spektrenübergreifenden Performance aus Klang, Bewegung und Licht. Kollaborativ, feierlich.
+### Performance
+28 June 2024, 14.30 <br/>
+29 June 2024, 14.30
 
-Von Mel E. Logan mit Sara De Santis, Emanuel Andel und Studierenden
+Deep See'n Light Listening is a performance collaboration. Performers are working with plants, piezos and movement. At Digitale Kunst we are celebrating entanglement with a cross spectrum performance of sound motion light. Collaborative, celebrative.
 
+Mel E. Logan with Sara De Santis, Emanuel Andel and the students of the Deep See'n Listening Seminar.
+
+Please be aware that this is a performance - so only happening at above mentioned times!

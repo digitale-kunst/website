@@ -2,15 +2,17 @@
 title: "Tavolata Ausstellung"
 description: Dere
 date: 10/12/2024
-slider: [{image: "./MargoDubovska.png", caption: "Caption1"},{image: "./ElementLee.jpg", caption: "Caption1"},{image: "./IsidorForster.jpg", caption: "Caption1"},{image: "./IsidorForster1.jpg", caption: "Caption1"},{ image: "./LeaGander.jpg", caption: "Caption1" },{image: "./LeaGander.jpg", caption: "Caption1"},{image: "./LeaGanderMatthiasSanoll.jpg", caption: "Caption1"},{image: "./ZitaKayser.png", caption: "Caption1"},{image: "./KiarerKristlerminCULpOp_©ANSA.jpg", caption: "Caption1"},{image: "./KiarerKristler_SMNCTPENF.png", caption: "Caption1"},{image: "./DavidObradovic.png", caption: "Caption1"},{image: "./MatthiasSanoll.png", caption: "Caption1"},{image: "./theFutileCorporation.png", caption: "Caption1"},]
+slider: [{image: "./MargoDubovska.png", caption: "Margo Dubovska"},{image: "./ElementLee.jpg", caption: "Element Lee"},{image: "./IsidorForster.jpg", caption: "Isidor Forster"},{image: "./IsidorForster1.jpg", caption: "Isidor Forster"},{image: "./LeaGander.jpg", caption: "LeaGander"},{image: "./LeaGanderMatthiasSanoll.jpg", caption: "Gander & Sanoll"},{image: "./ZitaKayser.png", caption: "Zita Kayser"},{image: "./KiarerKristlerminCULpOp_©ANSA.jpg", caption: "Kiarer Kristler"},{image: "./KiarerKristler_SMNCTPENF.png", caption: "Kiarer Kristler"},{image: "./DavidObradovic.png", caption: "David Obradovic"},{image: "./MatthiasSanoll.png", caption: "Matthias Sanoll"},{image: "./theFutileCorporation.png", caption: "the Futile Corporation"},]
 ---
 
 
 
 # TAVOLATA, Ausstellung von Studierendenarbeiten
 
-\1. OG, DK Klassenräume
-EG Lager Damen-Toilette
+## Locations
+Postsparkasse, GCP - Georg-Coch-Platz 2, 1010 Wien
+Floor 1, Department of Digitale Kunst <br/>
+Ground Floor, Storage Room at the Women's Bathroom (Kiarer Kristler)
 
 ### Margo Dubovska
 ### To the one I was not let to become
@@ -87,7 +89,6 @@ Die auditive Tonskulptur Feedbackschleife symbolisiert den ständigen Austausch 
 Eine autobiografisch ungenaue Abfolge von Ereignissen, die mit wunden, nicht blinzelnden, rastlos dissoziierenden Augen beobachtet wird, während geisterhafte Verwandtschaft in den Vorzeichen lauert. Selbst in der deprimierenden Beständigkeit eines schimmeligen Gehöfts in einer dem Untergang geweihten und feindseligen Ebene zwischen dem nebligen Wald und dem verrottenden Riesenrad, in den Fieberträumen und Albträumen, kann ein winziger Funke nicht ausgelöscht werden. Stellen Sie sich vor – haben Sie schon einmal geträumt, dass Sie, ähm, dass Sie, Sie hätten, Sie würden, Sie könnten alles tun? Die Erlösung kommt – wenn man nie aufgibt.
 
 
-EG, Lager Damen-Toilette:
 ### Kiarer Kristler
 ### minCULpOp
 

@@ -4,21 +4,23 @@ episode: 8
 season: 1
 description: Short Description
 date: 10/12/2024 
-slider: [{image: "./S1E8_LARPGROUND©MaxKSuper.jpg", caption: "Caption 1"}]
+slider: [{image: "./S1E8_LARPGROUND©MaxKSuper.jpg", caption: "LARPGRO"}]
 ---
 
 # S1E8: LARPGROUND
 ### Max K Super, Kiarer Kristler, Yan Chmarau
 ### 23.05. – 06.06.2024
 		
-Nachricht der Kinda: Libe Nachban, am Mitwoch 22. Mai wollen wir länger als normal auf diesem Spielplatz spielen. Wir wollen uns für den möglichen Krach von uns entschuldigen. Bitte ruft nicht die Polizei, sondern kontaktiert uns bei Beschwerden. Ihr könnt mit uns über unsere Walkie-Talkies oder unser Telefon sprechen.
+Notice from chilldren: Deer Nayghbors, on wensday 22nd May we want to play on this playgound later then usual. We want to apologize for the possible noises from us. Pleese dont call police, contact us in case of complaints. You can talk with us on our walkie talkies or our telephone.
 
-BITTE LARPT NUR DIE STRAHLENDE ZUKUNFT!
+PLEASE LARP THE BRIGHT FUTURE ONLY!
 
-Liebe Eltern: Besucher*innen dürfen keine Schießgeräusche machen, keine Spielzeugschuss- oder andere Waffen (einschließlich Wasserpistolen) mitbringen, keine Fingerpistole machen, nicht Krieg spielen, nicht kämpfen, keine schwarze Kleidung tragen, keine Tarnmuster tragen, kein Olivgrün tragen, nicht Alpha Industries tragen, keine blinkenden Schuhe tragen, keine Prints mit Autos oder anderen motorisierten Fahrzeugen tragen, keine he/him Pronomen benutzen, nicht Doktor oder Familie spielen, keine Supermarkt-Rollenspiele (nur kleine lokale Geschäfte), keine Simulationen heteronormativer Ehe, keine Diesel-Spielzeugautos, Lastwagen oder andere Fahrzeuge mit fossilen Brennstoffen (Spielzeugfahrräder sind erlaubt), nur medikamentierte und 100x geimpfte Kinder auf diesem Spielplatz, kein Rosa, kein Blau, keine Neonfarben, keine Barbies oder Kens, keine gefährdeten Spielzeugtierspezies (z. B. Tiger, Elefanten, Dinosaurier, Bienen, Bären, Löwen, Wölfe etc.) einschließlich Gummibärchen, keine Kaugummizigaretten (nur Kaugummivapes), keine illegalen Bauten im Sandkasten, keine Sandburgen über 20 cm (diese werden zertreten), keine Softdrinks, nur Proteinshakes und Null-Kalorien-Getränke, keine Polyester-Stofftiere (nur Bio-Baumwollstoffe), kein Nagellack, kein Glitzer, keine Kreuze und keine Karabiner. Bitte beachten Sie, dass Ihre Kinder bei Verstoß gegen diese Regeln geshadowbanned werden.
+Dear Parents: Visitors are not allowed to make gun noises, bring toy guns or weapons (including water guns), make finger guns, play war, fight, wear black, wear camouflage print, wear olive green, wear Alpha Industries, wear light up shoes, wear prints featuring cars or other motorized vehicles, use he/him pronouns, play doctor, play family, no supermarket role play (small local business play only), simulate heteronormative marriage, no diesel toy cars, trucks or other fossil fuel vehicles (toy bicycles allowed), only medicated and 100x vaccinated children allowed on this playground, no pink, no blue, no neon colors, no barbies or kens, no endangered toy animal species (e.g. tigers, elephants, dinosaurs, bees, bears, lions, wolves etc.) including no gummy bears, no bubblegum cigarettes (bubblegum vapes only), no unlawful construction in the sandbox, no building sandcastles above 20cm (all others will be stomped), no soft drinks, protein shakes and zero-calorie drinks only, no polyester stuffed animals, (organic cotton fabrics only), no nail polish, no glitter, no crosses, and no carabiners.
+
+Please note that your children will be shadowbanned upon breaking any of these rules.
 
 ---
-LARPGROUND ist ein Projekt von Max K Super, Kiarer Kristler und Yan Chmarau. Es handelt von der Vergänglichkeit von Kindheit und Jugend und gibt Einblick in das, was das Trio ästhetisch denkt, wenn es über die Jugend spricht und auf eine helle, farbenfrohe Zukunft blickt, die anders ist als die, die im obigen Text skizziert wird. Acht Bilder bilden das Zentrum der Installation. Die Ausstellenden studieren Digitale Kunst.
-
+LARPGROUND is a project by Max K Super, Kiarer Kristler and Yan Chmarau. It focuses on the ephemeral nature of childhood and youth while giving the viewer a glimpse of what the trio thinks of aesthetically when speaking about youth and looking towards a bright, colorful future unlike the one outlined in the text above. Max K Super, Kiarer Kristler and Yan Chmarau are students at Digitale Kunst.
+ 
 
 

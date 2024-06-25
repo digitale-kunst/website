@@ -2,16 +2,18 @@
 title: Resonant Blech
 description: Dere
 date: 10/12/2024
-slider: [{image: "./ResonantBlech©KathrinStumreich.jpg", caption: "Caption 1"}]
+slider: [{image: "./ResonantBlech©KathrinStumreich.jpg", caption: "Resonant Blech"}]
 ---
 
 
-Kassenhalle, Hochparterre
-###Resonant Blech: Emergent sound-scapes through human AI collaboration
-###Sound/Performance, 29.06.2024, 18.00
+
+### Resonant Blech: Emergent sound-scapes through human AI collaboration
+## Location: Postsparkasse/GCP - Kassenhalle, Hochparterre
+
+### Sound/Performance, 29 June 2024, 18.00
 
 
-Resonant Blech ist ein kollaboratives Projekt von Zeynep Aksöz, Nicolaj Kirisits, Alexander Urban und Lea Karnutsch, das architektonische Objekte als autonome, soziale, nicht-menschliche Entitäten erforscht, die durch KI-Integration mit ihrer Umgebung interagieren. Eine gebogene, gefaltete Stahlstruktur verwandelt sich durch induzierte Vibrationen in ein teilweise autonomes Instrument. Durch die Integration von Piezo-Transducer-Schleifen schwingt das Objekt, Vibrationen bilden die Grundelemente einer Klangkomposition. Basierend auf Nicolaj Kirisits´ und Alexander Urbans Erforschung verschiedener Kompositionsstile erweitert ein von Zeynep Aksöz entwickeltes KI-System selbstständig bestehende Kompositionen oder generiert neue. 
+Resonant Blech is a collaborative project by Zeynep Aksöz, Nicolaj Kirisits, Alexander Urban, and Lea Karnutsch, exploring architectural objects as autonomous, social, non-human entities interacting with their environment through AI integration. A curve-folded steel structure metamorphoses into an partly autonomous instrument through induced vibrations. By integrating piezo-transducer loops, the object resonates with vibrations that form the foundational elements of the sound composition. Following an intensive exploration of diverse composition styles by Nicolaj Kirisits and Alexander Urban, an AI system crafted by Zeynep Aksöz autonomously extends existing compositions or generates new ones. 
 
-Das Projekt entstand im Rahmen des INTRA-geförderten Projekts Morphology of Sound in einer Studio-Kooperation zwischen dem ITI TUWien und der Klasse Digitale Kunst. Es wurde von Moritz Koegel, Sebastian Pfeifhofer, Lukas Piesticker und Alexander Urban unter der Leitung von Zeynep Aksöz Balzar, Nicolaj Kirisits, Klaus Filip, Alexander Karaivanov und Hans Schartner entwickelt. Material und Laserschnitt sind vom Stahlbau Verband und dem ITI TUWien gesponsert.
+The project originated as part of the INTRA funded project Morphology of Sound in a studio collaboration between ITI TUWien and the Angewandte´s Digitale Kunst Department. Designed by Moritz Koegel, Sebastian Pfeifhofer, Lukas Piesticker, and Alexander Urban, under the guidance of Zeynep Aksöz Balzar, Nicolaj Kirisits, Klaus Filip, Alexander Karaivanov, Hans Schartner, and Mark Balzar. Material and laser cutting sponsored by Stahlbau Verband and ITI TUWien.
 

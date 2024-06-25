@@ -2,19 +2,16 @@
 title: BOOK-ROOM
 description: Dere
 date: 10/12/2024
-slider: [{image: "./BOOK-ROOM©MCPoulin_and_AI.jpg", caption: "Caption 1"}]
+slider: [{image: "./BOOK-ROOM©MCPoulin_and_AI.jpg", caption: "BOOK-ROOM"}]
 ---
 
+### BOOK-ROOM: information re-embodied, or the snake biting its own tail 
+## Location: Postsparkasse/GCP - SR 35, Tiefparterre
 
-SR 35, Tiefparterre
-###BOOK-ROOM: information re-embodied, or the snake biting its own tail 
-###Durational Performance, 29.06.2024, 15.00 bis 17.00
+### Durational Performance, 29 June 2024, 15.00 to 17.00
 
+This is a performative installation revolving around a surplus of data that urgently needs to be digested: an experiment about the 'long time' of reading, as antidote to the rewriting of history; a performance-apparatus that hijacks symbols and generates all sorts of dreams. Will we manage to read each other? 
+Developed as part of the Digitally compatible body-based performance seminar, under the direction of Marie-Claude Poulin. Durational performance, visit at any time during the 15.00 – 17.00 time slot.
 
-Eine performative Installation, die sich um einen Überschuss an Daten dreht, der dringend verdaut werden muss: ein Experiment über die "lange Zeit" des Lesens, als Mittel gegen das Umschreiben der Geschichte; ein Performance-Apparat, der Symbole entführt und alle Arten von Träumen generiert. Werden wir es schaffen, uns gegenseitig zu lesen? Entwickelt im Rahmen des Seminars Digitally compatible body-based performance unter der Leitung von Marie-Claude Poulin.
-
-Durational Performance, ein Besuch ist jederzeit zwischen 15:00 und 17:00 möglich.
-
-Mahdi Bakhshi, Meta Kuzmany, Joannis Murböck, David Obradović, Charles-Auguste Poulet
-
+Mahdi Bakhshi, Meta Kuzmany, Joannis Murböck, David Obradovic, Charles-Auguste Poulet
 

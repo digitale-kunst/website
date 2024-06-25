@@ -5,10 +5,11 @@ import Container from "@layouts/Container.astro";
 import { getEntry, getCollection } from "astro:content";
 const labs = await getCollection("labs");
 const lab = await getEntry("pages", "labs");
+const { title, description, color } = lab.data;
 const { Content, headings } = await lab.render();
 ---
 
-<Layout title="Labs" description="Test">
+<Layout {title} {description} {color}>
   <div
     class="flex flex-col items-center justify-center text-yellow prose-headings:text-cyan prose-a:text-cyan"
   >
@@ -16,14 +17,16 @@ const { Content, headings } = await lab.render();
       <ul class="p-0 m-0 inline">
         {
           labs.map((d, i) => (
-            <a href={"/labs/" + d.slug} class="no-underline hover:opacity-50">
-              <li class="font-sans inline text-5xl font-bold list-none">
+            <a href={"/labs/" + d.slug} class="no-underline ">
+              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
                 {d.data.title}
               </li>
             </a>
           ))
         }
       </ul>
+      <br />
+      <br />
       <Content />
     </Container>
   </div>

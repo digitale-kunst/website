@@ -1,6 +1,7 @@
 ---
-title: "Lehrende" 
+title: "Team" 
 description: "Das sind unsere Lehrenden" 
+color: "green"
 ---
 
 - [Thomas Felder](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=2835)

@@ -8,9 +8,10 @@ import { Image } from "astro:assets";
 const af24 = await getEntry("pages", "af24");
 const af24works = await getCollection("af24");
 const { Content, headings } = await af24.render();
+const { title, description, color } = af24.data;
 ---
 
-<Layout title="Angewandte Festival 2024" description="Test">
+<Layout {title} {description} {color}>
   <div
     class="flex flex-col items-center justify-center text-yellow prose-headings:text-orange prose-a:text-orange"
   >
@@ -20,9 +21,9 @@ const { Content, headings } = await af24.render();
           af24works.map((d, i) => (
             <a
               href={"/angewandte-festival-2024/" + d.slug}
-              class="no-underline hover:opacity-50"
+              class="no-underline "
             >
-              <li class="font-sans inline text-5xl font-bold list-none">
+              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
                 {d.data.title}
               </li>
             </a>

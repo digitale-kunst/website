@@ -4,16 +4,17 @@ episode: 10
 season: 1
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 10/12/2024 #fuer sortierung
-slider: [{image: "./S1E10_©IsidorForster.jpg", caption: "Caption 1"},]
+slider: [{image: "./S1E10_©IsidorForster.jpg", caption: "Veils—Covers—Cases"},]
 ---
 
 # S1E10: : Hüllen, Veils—Covers—Cases
 ### Isidor Forster, Matthias Sanoll
 ### 19.06. – 01.07.2024
 		
-Hüllen, Veils—Covers—Cases ist eine multimediale Reise anhand von Installationen, Videos und Performance. Die Ausstellung erkundet die Schnittstelle zwischen der konsumgetriebenen Digitalisierung und Wahrnehmung von industriell und kulturell herbeigeführten Ordnungen. Sie vereint die Projekte DiscForce von Isidor Forster und Under the Surface von Matthias Sanoll. Beide Künstler versuchen durch ihre Arbeit Hüllen unserer modernen Welt zu durchbrechen und die darunterliegenden Schichten zu entdecken. Durch omnipräsente Symbole der Konsumgesellschaft, Kraftakte der Natur und Inszenierungen von Sauberkeit, werden menschliches Handeln und die Trennung von Technologien, Fortschritt und Gier hinterfragt. Die Künstler der Episode 10 studieren an der Klasse Digitale Kunst. 
-
-Das Projekt DiscForce zielt darauf ab, einen eigenen Onlineversandhandel im Stil von Branchengrößen wie Amazon zu etablieren. Es untersucht die Ästhetik und das Design großer Versandunternehmen aus einem neuen Blickwinkel und inszeniert Versandboxen als Installationen, um die Allgegenwart und Symbolik des Versandverpackungsmaterials in unserer Konsumgesellschaft zu verdeutlichen. Das Projekt hinterfragt kritisch die Präsenz und Wirkung der Logos und Designsprache großer Onlineversandhändler und nutzt
-kreative Interventionen, um neue Perspektiven zu schaffen.
-
-Under the Surface zeigt einen Einblick in Mensch-Natur-Beziehungen von der Transformation von Landschaften bis zur Dualität von Reinheit und Verschmutzung. Die Authentizität der natürlichen Umgebung liegt oft unter künstlichen Oberflächen verborgen. Inszenierungen von Sauberkeit und Ordnungen beeinflussen unsere Wahrnehmung und unser Wohlbefinden. Durch Skulpturen und Videos versucht Matthias Sanoll, einen anderen Blickwinkel auf diese komplexen Paradoxe zu schaffen.
+Hüllen, Veils—Covers—Cases is a multimedia journey through installations, videos, and performance. The exhibition explores the interface between consumption-driven digitization and perceptions of industrially and culturally induced orders. It brings together the projects DiscForce by Isidor Forster and Under the Surface by Matthias Sanoll. Both artists aim to break through the covers of our modern world and discover the underlying layers through their work. Through omnipresent symbols of consumer society, feats of nature, and depictions of cleanliness, human actions and the separation of technologies, progress, and greed are questioned. 
+ 
+The Project DiscForce aims to establish its own online retail platform in the style of industry giants like Amazon. It explores the aesthetics and design of major shipping companies from a fresh perspective, staging shipping boxes as installations to underscore the ubiquity and symbolism of shipping packaging materials in our consumer society. The project critically questions the presence and impact of logos and design language of major online retailers, employing creative interventions to foster new perspectives.
+ 
+Under the Surface provides an insight into human-nature relationships from the transformation of landscapes to the duality of cleanliness and dirt. The authenticity of the natural environment is often hidden under artificial surfaces. Stagings of cleanliness and order influence our perception and our well-being. Through sculptures and videos Matthias Sanoll wants to give a different perspective on these complex paradoxes.
+ 
+Isidor Forster and Matthias Sanoll are students Digitale Kunst.
