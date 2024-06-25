@@ -8,7 +8,7 @@ Wir sind als Klasse eine offene Plattform und ein safe- enough Space, wo Studier
 <br/>
 
 ## STUDIENINFORMATION
-Digitale Kunst ist ein Diplomstudium und dauert acht Semester. Für die Zulassung sind keine Deutschkenntnisse erforderlich, Bewerbungen von Gruppen und Kollektiven sind willkommen, sie sind unabhängig vom Schulabschluss. Im Mittelpunkt des Bewerbungsverfahrens steht die Einreichung eines digitalen Portfolios, gefolgt von einer Aufnahmeprüfung. Die Mappe gibt uns einen Einblick in deine künstlerische Praxis und in deine Welt. Im Vorfeld der Aufnahmeprüfung 2025/26 besprechen wir gerne Deine
+Digitale Kunst ist ein Diplomstudium und dauert acht Semester. Für die admissions sind keine Deutschkenntnisse erforderlich, Bewerbungen von Gruppen und Kollektiven sind willkommen, sie sind unabhängig vom Schulabschluss. Im Mittelpunkt des Bewerbungsverfahrens steht die Einreichung eines digitalen Portfolios, gefolgt von einer Aufnahmeprüfung. Die Mappe gibt uns einen Einblick in deine künstlerische Praxis und in deine Welt. Im Vorfeld der Aufnahmeprüfung 2025/26 besprechen wir gerne Deine
 Ideen dafür.
 <br/>
 <br/>

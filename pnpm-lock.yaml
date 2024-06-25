@@ -35,6 +35,9 @@ importers:
       astro:
         specifier: ^4.10.2
         version: 4.10.2(typescript@5.4.5)
+      astro-meta-tags:
+        specifier: ^0.3.0
+        version: 0.3.0(astro@4.10.2(typescript@5.4.5))
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
@@ -1072,6 +1075,11 @@ packages:
   astring@1.8.6:
     resolution: {integrity: sha512-ISvCdHdlTDlH5IpxQJIex7BWBywFWgjJSVdwst+/iQCoEYnyOaQ95+X1JGshuBjGp6nxKUy1jMgE3zPqN7fQdg==}
     hasBin: true
+
+  astro-meta-tags@0.3.0:
+    resolution: {integrity: sha512-BA8jZncOGz1DkjK4AQHt8mzXurGwhR96CZZlx2wLemRUqKTxft4N2Arg8DK/s49G/9F0g4TuxmiObVkIv/DX8g==}
+    peerDependencies:
+      astro: ^4.0.0
 
   astro@4.10.2:
     resolution: {integrity: sha512-SBdkoOanPsxKlKVU4uu/XG0G7NYAFoqmfBtq9SPMJ34B7Hr1MxVdEugERs8IwYN6UaxdDVcqA++9PvH6Onq2cg==}
@@ -3734,6 +3742,10 @@ snapshots:
   array-iterate@2.0.1: {}
 
   astring@1.8.6: {}
+
+  astro-meta-tags@0.3.0(astro@4.10.2(typescript@5.4.5)):
+    dependencies:
+      astro: 4.10.2(typescript@5.4.5)
 
   astro@4.10.2(typescript@5.4.5):
     dependencies:
