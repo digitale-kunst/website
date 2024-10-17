@@ -5,7 +5,7 @@ season: 1
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 10/12/2024 #fuer sortierung
 slider: [{ image: "./DavidObradovic.JPG", caption: "David Obradović,
-        Objective Sound (installation views)" }, { image: "./FranciKas.JPG", caption: „Franci Kas, retade body“ }]
+        Objective Sound (installation views)" }, { image: "./FranciKas.JPG", caption: "Franci Kas, retade body" }]
 ---
 
 # S1E11: Object / Body / Dream
