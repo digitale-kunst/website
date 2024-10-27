@@ -10,7 +10,7 @@ slider: [{image: "./MargoDubovska.png", caption: "Margo Dubovska"},{image: "./El
 # TAVOLATA, Ausstellung von Studierendenarbeiten
 
 ## Locations
-Postsparkasse, GCP - Georg-Coch-Platz 2, 1010 Wien
+Postsparkasse, GCP - Georg-Coch-Platz 2, 1010 Vienna
 Floor 1, Department of Digitale Kunst <br/>
 Ground Floor, Storage Room at the Women's Bathroom (Kiarer Kristler)
 
