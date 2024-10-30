@@ -2,7 +2,7 @@
 title: Bio-LAB
 description: Dere
 date: 10/12/2024
-slider: [{image: "./biolab1.jpg", caption: "Exploring biological processes ..."},{image: "./biolab2.jpg",caption: "... through artistic practices."},]
+slider: [{image: "./biolab1.jpg", caption: "Exploring biological processes"},{image: "./biolab2.jpg",caption: "through artistic practices"},]
 ---
 # Bio-LAB 
 
