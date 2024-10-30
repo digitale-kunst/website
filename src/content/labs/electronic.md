@@ -8,4 +8,4 @@ slider: [{image: "./electronicslab.jpg", caption: "Develop your technical skill!
 
 The Electronics Lab at the University of Applied Arts Vienna, Department of DIGITALE KUNST, was originally established by Patrícia Reis and is now overseen by Stefan Fischer. Situated adjacent to the 3D-LAB, the lab serves as a hub for learning and experimentation with electronic circuits, Arduino microcontrollers, and hardware manipulation. Here, students engage in hands-on activities and projects that explore the integration of electronics into artistic practices.
 
-A seminar, regularly led by Patrícia Reis, provides a structured environment for participants to delve into advanced electronics and interactive art concepts. This collaborative space gets you stared to developing your technical skill!
+A seminar, regularly led by Patrícia Reis, provides a structured environment for participants to delve into advanced electronics and interactive art concepts. This collaborative space gets you started to developing your technical skill!
