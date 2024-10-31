@@ -9,7 +9,7 @@ Our department is an open platform and a safe-enough space for experimenting wit
 <br/>
 
 ## Application
-Your digital portfolio gives us a glimpse into your artistic practice and your world. Send us concepts, sketches and works in progress, documentations and your public social media accounts. Write us in brief about your experiences, experiments, your personal approaches, struggles and obsessions, your idols, scenes and media, and why you want to study at the department of Digital Kunst. Applications from groups & collectives are welcome. Media, formats as well as forms of documentation are optional, the only condition is that your portfolio is submitted digitally and includes a short CV and a photo of you.
+Your digital portfolio gives us a glimpse into your artistic practice and your world. Send us concepts, sketches and works in progress, documentations and your public social media accounts. Write us in brief about your experiences, experiments, your personal approaches, struggles and obsessions, your idols, scenes and media, and why you want to study at the Department of Digital Kunst. Applications from groups & collectives are welcome. Media, formats as well as forms of documentation are optional, the only condition is that your portfolio is submitted digitally and includes a short CV and a photo of you.
 <br/>
 <br/>
 
@@ -23,12 +23,15 @@ Your digital portfolio gives us a glimpse into your artistic practice and your w
 
 ## Dates
 15 January 2025 – 29 January 2025
+<br/>
 Online registration and portfolio upload
 
 24 Febuary 2025 and 07 March 2025
+<br/>
 Examination week (exact times to follow; exam will be online)
 
 14 March 2025
+<br/>
 Announcement of admitted applicants
 <br/>
 <br/>
