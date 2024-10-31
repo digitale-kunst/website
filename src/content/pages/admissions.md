@@ -26,7 +26,7 @@ Your digital portfolio gives us a glimpse into your artistic practice and your w
 <br/>
 Online registration and portfolio upload
 
-24 Febuary 2025 and 07 March 2025
+24 Febuary 2025 – 07 March 2025
 <br/>
 Examination week (exact times to follow; exam will be online)
 
