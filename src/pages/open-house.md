@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/Layout.astro"
-title: Open House 2024
+title: Open House
 description: ""
 slider: [{image: "./DK_OH24_1.jpg", caption: ""},{image: "./DK_OH24_2.jpg", caption: ""},{image: "./DK_OH24_3.jpg", caption: ""},{image: "./DK_OH24_4.jpg", caption: ""},]
 color: "orange"
