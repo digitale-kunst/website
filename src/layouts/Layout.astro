@@ -13,6 +13,7 @@ type Props = {
   open?: boolean;
   showContact?: boolean;
   color?: string;
+  frontmatter?: any;
 };
 
 const {
@@ -23,6 +24,7 @@ const {
   open = false,
   showContact = false,
   color = "primary",
+  frontmatter,
 } = Astro.props;
 ---
 
@@ -33,7 +35,12 @@ const {
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
 
-    <Head title={`${title} | ${SITE.NAME}`} description={description} />
+    <Head
+      title={`${frontmatter.title ? frontmatter.title : title} | ${SITE.NAME}`}
+      description={frontmatter.description
+        ? frontmatter.description
+        : description}
+    />
     <ViewTransitions />
     <style is:global>
       /* a:hover,
@@ -63,10 +70,14 @@ const {
       class="bg-black touch-auto pointer-events-auto relative w-full antialiased scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar scrollbar-thumb-primary scrollbar-track-black overflow-auto h-[calc(100svh-3rem)] md:h-[calc(100vh-5rem)] rounded-r-[5rem] md:rounded-r-[12vw] prose-p:text-primary text-primary"
     >
       <div style="direction: ltr;">
-        <Header {open} {showContact} {title} {color} />
+        <Header
+          {open}
+          {showContact}
+          title={frontmatter.title ? frontmatter.title : title}
+          {color}
+        />
         <main
-          class="min-w-full prose-p:text-lg prose-li:pl-0 marker:text-primary md:prose-p:text-2xl prose-headings:text-2xl md:prose-headings:mt-4 md:prose-headings:text-3xl
- prose-p:max-w-6xl font-normal prose text-left prose-green"
+          class="min-w-full prose-p:text-lg prose-li:pl-0 text-yellow prose-headings:text-yellow prose-strong:text-yellow prose-li:text-yellow prose-a:text-yellow marker:text-primary md:prose-p:text-2xl prose-headings:text-2xl md:prose-headings:mt-4 md:prose-headings:text-3xl prose-p:max-w-6xl font-normal prose text-left prose-yellow"
         >
           <slot />
         </main>
