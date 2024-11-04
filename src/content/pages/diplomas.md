@@ -5,7 +5,7 @@ color: "orange"
 ---
 # Diplomas Summer Term 2024
 
-Seven diploma projects will be shown at the Digital Kunst Exhibition and as part of the Applied Festival / AAA.
+Seven diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).
 
 ## Dates
 18.06.2024, 14.00 – 18.00 <br/>
