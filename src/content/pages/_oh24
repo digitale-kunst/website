@@ -3,6 +3,7 @@
 layout: "../layouts/Layout.astro"
 title: "Open House 24"
 description: "Open House Programm"
+slider: [{image: "./tavolata.png", caption: ""}]
 color: "green"
 ---
 
