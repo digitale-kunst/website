@@ -12,5 +12,5 @@ The Schauraum hosts the Speedshow Series - a format for collaborations between s
 Students develop a curation including texts and materials for collaborative projects (episodes) that run for two weeks. Artistic processes and thoughts are concretized and achieved in a short amount of time. 
 
 # Location
-MuseumsQuartier Wien, (Fischer-von-Erlach-Trakt)
+MuseumsQuartier Wien, MQ Schauräume (Fischer-von-Erlach-Trakt)
 
