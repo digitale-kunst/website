@@ -1,7 +1,7 @@
 ---
 title: Apparatus #5
-episode: 10
-season: 12
+episode: 12
+season: 1
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 10/12/2024 #fuer sortierung
 slider: [{image: "./Luca_SABOT_Jorit_Aust.jpg", caption: "Luca Sabot: Apparatus #5"},]
