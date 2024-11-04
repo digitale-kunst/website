@@ -1,0 +1,10 @@
+
+---
+layout: "../layouts/Layout.astro"
+title: "Open House 24"
+description: "Open House Programm"
+color: "green"
+---
+
+- **oh:**
+  Neue Seite
