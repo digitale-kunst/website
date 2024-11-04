@@ -5,7 +5,7 @@ slider: [{image: "./DK_OH24_1.jpg", caption: ""},{image: "./DK_OH24_2.jpg", capt
 color: "orange"
 ---
 
-## Open House 2024
+## Welcome at the Digitale Kunst Department
 ## 05.11.2024 
 
 At the Open House the Angewandte opens its doors and is aimed at everyone who wants to get to know the courses on offer at the Angewandte or simply wants to take a look behind the scenes – into the studios, workshops and departments of the University of Applied Arts Vienna. 
