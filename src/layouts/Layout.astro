@@ -6,7 +6,7 @@ import { SITE } from "@consts";
 import { ViewTransitions } from "astro:transitions";
 
 type Props = {
-  title: string;
+  title?: string;
   description: string;
   blogEmpty?: boolean;
   hideProjects?: boolean;
@@ -26,6 +26,7 @@ const {
   color = "primary",
   frontmatter,
 } = Astro.props;
+const actualTitle = frontmatter?.title ? frontmatter.title : title;
 ---
 
 <html lang="en" class="overscroll-none">
@@ -36,8 +37,8 @@ const {
     <meta name="generator" content={Astro.generator} />
 
     <Head
-      title={`${frontmatter.title ? frontmatter.title : title} | ${SITE.NAME}`}
-      description={frontmatter.description
+      title={`${actualTitle} | ${SITE.NAME}`}
+      description={frontmatter?.description
         ? frontmatter.description
         : description}
     />
@@ -70,12 +71,7 @@ const {
       class="bg-black touch-auto pointer-events-auto relative w-full antialiased scrollbar-thumb-rounded-full scrollbar-track-rounded-full scrollbar scrollbar-thumb-primary scrollbar-track-black overflow-auto h-[calc(100svh-3rem)] md:h-[calc(100vh-5rem)] rounded-r-[5rem] md:rounded-r-[12vw] prose-p:text-primary text-primary"
     >
       <div style="direction: ltr;">
-        <Header
-          {open}
-          {showContact}
-          title={frontmatter.title ? frontmatter.title : title}
-          {color}
-        />
+        <Header {open} {showContact} title={actualTitle} {color} />
         <main
           class="min-w-full prose-p:text-lg prose-li:pl-0 text-yellow prose-headings:text-yellow prose-strong:text-yellow prose-li:text-yellow prose-a:text-yellow marker:text-primary md:prose-p:text-2xl prose-headings:text-2xl md:prose-headings:mt-4 md:prose-headings:text-3xl prose-p:max-w-6xl font-normal prose text-left prose-yellow"
         >
