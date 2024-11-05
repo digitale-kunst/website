@@ -75,20 +75,24 @@ const schauraum = defineCollection({
 
 const pages = defineCollection({
   type: "content",
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    draft: z.boolean().optional(),
-    color: z
-      .union([
-        z.literal("primary"),
-        z.literal("purple"),
-        z.literal("green"),
-        z.literal("cyan"),
-        z.literal("orange"),
-      ])
-      .optional(),
-  }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      draft: z.boolean().optional(),
+      color: z
+        .union([
+          z.literal("primary"),
+          z.literal("purple"),
+          z.literal("green"),
+          z.literal("cyan"),
+          z.literal("orange"),
+        ])
+        .optional(),
+      slider: z
+        .array(z.object({ image: image(), caption: z.string() }))
+        .optional(),
+    }),
 });
 
 export const collections = {

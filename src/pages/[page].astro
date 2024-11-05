@@ -1,0 +1,62 @@
+---
+import dk from "../dk.svg";
+import Layout from "@layouts/Layout.astro";
+import Container from "@layouts/Container.astro";
+import { getEntry } from "astro:content";
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import { cn } from "@lib/utils";
+const pages = await getCollection("pages");
+
+export async function getStaticPaths() {
+  const pages = await getCollection("pages");
+  return pages.map((entry) => ({
+    params: { page: entry.slug },
+    props: { entry },
+  }));
+}
+// 2. For your template, you can get the entry directly from the prop
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+const { title, description, color } = entry.data;
+color;
+---
+
+<Layout {title} {description} {color}>
+  <div
+    class={cn(
+      "flex flex-col items-center justify-center prose-li:pr-2 hover:prose-a:opacity-50  prose-li:inline prose-ul:inline prose-li:text-3xl md:prose-li:text-5xl prose-li:p-0 prose-ul:p-0 marker:none  prose-h2:text-2xl md:prose-h2:text-3xl  marker:hidden prose-a:no-underline prose-a:font-bold ",
+      color === "green" &&
+        "prose-li:text-green prose-strong:text-green text-green prose-headings:text-green prose-li:decoration-green prose-a:text-green",
+      color === "purple" &&
+        "prose-li:text-purple prose-strong:text-purple text-purple prose-headings:text-purple prose-li:decoration-purple prose-a:text-purple",
+      color === "orange" &&
+        "prose-li:text-orange prose-strong:text-orange text-orange prose-headings:text-orange prose-li:decoration-orange prose-a:text-orange",
+      color === "cyan" &&
+        "prose-li:text-cyan prose-strong:text-cyan text-cyan prose-headings:text-cyan prose-li:decoration-cyan prose-a:text-cyan"
+    )}
+  >
+    <Container>
+      <Content />
+    </Container>
+    <div
+      class="overflow-x-auto w-[calc(100vw-2rem)] md:w-[calc(100vw-5rem)] p-4 md:p-6"
+    >
+      <div class="gap-8 flex">
+        {
+          entry.data.slider?.map((slide) => (
+            <div class="">
+              <Image
+                src={slide.image}
+                class="max-h-[70vh] my-0 aspect-auto max-w-[calc(100vw-4rem)]  object-contain   w-auto"
+                alt={slide.caption}
+              />
+              <p class="text-sm my-0">{slide.caption}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+</Layout>
