@@ -36,8 +36,8 @@ Announcement of admitted applicants
 <br/>
 <br/>
  
-## Portfolio preparation session for application 2025
-Onsite at the department, 03 December 2024, 14:00 to 16:00. Bring questions, ideas, sketches. No registration necessary.
+## Portfolio preparation session 
+Takes place onsite at the department, 03 December 2024, 14:00 to 16:00. Bring questions, ideas, sketches. No registration necessary.
  
 We are happy to have you :)
  
