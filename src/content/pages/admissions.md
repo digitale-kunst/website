@@ -3,8 +3,12 @@ title: "Admissions"
 description: ""
 color: "green"
 ---
-# The Department of Digitale Kunst
-Our department is an open platform and a safe-enough space for experimenting with digital media in an artistic context. We offer customizable spaces, state-of-the-art technical equipment, passionate people and inclusive access to new worlds and realities. We do art, basic research, aesthetic and technology development, social and political experiments and action. Present and future facets of art, entertainment and science are imagined, discussed and applied. We value collaboration, communication, divergence, risk-taking and openness. We are hyper-contemporary in all aspects.
+# Next portfolio preparation session 
+Onsite at the department
+03 December 2024
+14:00 to 16:00
+
+Bring questions, ideas, sketches. No registration necessary.
 <br/>
 <br/>
 
@@ -35,9 +39,15 @@ Examination week (exact times to follow; exam will be online)
 Announcement of admitted applicants
 <br/>
 <br/>
+
+## The Department of Digitale Kunst
+Our department is an open platform and a safe-enough space for experimenting with digital media in an artistic context. We offer customizable spaces, state-of-the-art technical equipment, passionate people and inclusive access to new worlds and realities. We do art, basic research, aesthetic and technology development, social and political experiments and action. Present and future facets of art, entertainment and science are imagined, discussed and applied. We value collaboration, communication, divergence, risk-taking and openness. We are hyper-contemporary in all aspects.
+<br/>
+<br/>
+<br/>
+<br/>
  
-## Portfolio preparation session 
-Takes place onsite at the department, 03 December 2024, 14:00 to 16:00. Bring questions, ideas, sketches. No registration necessary.
+
  
 We are happy to have you :)
  
