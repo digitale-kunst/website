@@ -24,8 +24,8 @@ Your digital portfolio gives us a glimpse into your artistic practice and your w
 3. the practical part of the admission test takes place over 3 days
 4. final interview
 <br/>
+Dates 2025:
 <br/>
-## Application
 15 January 2025 – 29 January 2025
 Online registration and portfolio upload
 
