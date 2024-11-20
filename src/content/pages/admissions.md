@@ -5,9 +5,11 @@ color: "green"
 ---
 # Next portfolio preparation session 
 Onsite at the department
+<br/>
 03 December 2024
+<br/>
 14:00 to 16:00
-
+<br/>
 Bring questions, ideas, sketches. No registration necessary.
 <br/>
 <br/>
