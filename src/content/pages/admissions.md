@@ -36,7 +36,8 @@ Announcement of admitted applicants
 <br/>
 <br/>
  
-Portfolio preparation sessions are in the fall of 2024, dates TBA.
+## Portfolio preparation session
+Onsite at the department, 03 December 2024, 14:00 to 16:00. Bring questions, ideas, sketches. No registration necessary.
  
 We are happy to have you :)
  
