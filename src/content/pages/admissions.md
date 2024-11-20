@@ -25,7 +25,7 @@ Your digital portfolio gives us a glimpse into your artistic practice and your w
 4. final interview
 <br/>
 <br/>
-## Dates application 2025
+## Application
 15 January 2025 – 29 January 2025
 Online registration and portfolio upload
 
