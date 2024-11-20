@@ -21,7 +21,7 @@ Your digital portfolio gives us a glimpse into your artistic practice and your w
 <br/>
 <br/>
 
-## Dates
+## Dates application 2025
 15 January 2025 – 29 January 2025
 <br/>
 Online registration and portfolio upload
@@ -36,7 +36,7 @@ Announcement of admitted applicants
 <br/>
 <br/>
  
-## Portfolio preparation session
+## Portfolio preparation session for application 2025
 Onsite at the department, 03 December 2024, 14:00 to 16:00. Bring questions, ideas, sketches. No registration necessary.
  
 We are happy to have you :)
