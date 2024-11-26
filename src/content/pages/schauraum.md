@@ -1,5 +1,5 @@
 ---
-title: "SSSpeedshow"
+title: "Schauraum"
 description: ""
 color: "purple"
 ---
