@@ -9,7 +9,7 @@ slider: [{image: "./thisiswhy©MoritzWunderwald.jpg", caption: "TIWTYITYTB"}]
 ## Location: Postsparkasse/GCP, Hochparterre left, Angewandte Performance Lab
 
 
-### Performance, 28 June 2024, 18.00
+### Performance, 28 June 2048, 18.00
 
 
 Inhale: We invite you to a multi-sensory journey, where we support you on your path to unbind from a dystopian mindset and start your road to enlightenment. 
