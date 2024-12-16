@@ -4,7 +4,7 @@ title: "Imprint"
 description: ""
 color: "yellow"
 ---
-## Imprint
+# Imprint
 <br/>
 Media owner / publisher:
 Digitale Kunst Georg-Coch-Platz 2 1010 Vienna Austria
