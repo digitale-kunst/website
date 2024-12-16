@@ -3,15 +3,17 @@ title: "Admissions"
 description: ""
 color: "green"
 ---
-# Next portfolio preparation session 
-Onsite at the department
+# Open Day (Zoom) 
+Learn more about the department and our application process
 <br/>
-03 December 2024
+January 7, 2025
 <br/>
-14:00 to 16:00
+11:00 to 15:00 (CET)
 <br/>
 <br/>
-Bring questions, ideas, sketches. No registration necessary.
+Zoom Link: https://dieangewandte-at.zoom.us/j/64649575011
+<br/>
+Meeting-ID: 646 4957 5011
 <br/>
 <br/>
 ## Application
