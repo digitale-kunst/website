@@ -16,6 +16,7 @@ Department of Digitale Kunst / UBERMORGEN
 <br/>
 Liability:
 All texts on this website have been carefully reviewed. Nevertheless, no guarantee can be given for the correctness, completeness, and actuality of the information. Any liability of the Digitale Kunst department is therefore excluded.
+<br/>
 Copyright
 <br/>
 © 2024 Digitale Kunst / the respective authors and artists
