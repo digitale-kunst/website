@@ -1,14 +1,16 @@
 ---
 title: Submergence and Emergence. Exhibition at Schauraum Angewande
 episode: 0
-season: 1
+season: 0
 description: Dere
 date: 10/12/2024
-slider: [{image: "./Exhibition1_©Hans_Ramduth.jpg", caption: "Submergence"},]
+slider: [{ image: "./Exhibition1_©Hans_Ramduth.jpg", caption: "Submergence" }]
 ---
 
 # Submergence and Emergence
+
 ### Hans Ramduth
+
 ### 17.11.2023 – 15.01.2024
 
 Island aesthetics may seem strange for an Austrian art-loving public: there is no angst, it seems childish and out of fashion. Maybe this is because time happens differently there: both faster and slower. lt is always about relations, a putting into-relationship, "une poetique de la relation" as Glissant would say. Transposing this idea to the Indian Ocean from Glissant's Atlantic yields unusual results: here, around the last colonized islands of the world, are the oldest cultures of the world: the Khoisan on one side in Southern Africa, the Australian first people on the other, Sentinelese islanders in the Andaman in the North, just off the Indian subcontinent. Some of these cultures as old as the Venus of Willendorf.

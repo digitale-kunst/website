@@ -45,6 +45,7 @@ const projects = defineCollection({
     z.object({
       title: z.string(),
       description: z.string(),
+      subFolder: z.string().optional(),
       date: z.coerce.date().optional(),
       draft: z.boolean().optional(),
       archived: z.boolean().optional(),
@@ -100,7 +101,8 @@ export const collections = {
   work: work,
   schauraum: schauraum,
   labs: projects,
-  af24: projects,
+  af: projects,
   diplomas: projects,
+  students: projects,
   pages: pages,
 };

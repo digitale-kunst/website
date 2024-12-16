@@ -37,12 +37,21 @@ const { title, description, color } = schauraum.data;
     <Container>
       <ul class="p-0 m-0 inline">
         {
-          season["1"].map((schauraum, i) => (
-            <a href={"/schauraum/" + schauraum.slug} class="no-underline ">
-              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
-                S{schauraum.data.season}E{schauraum.data.episode}{" "}
-              </li>
-            </a>
+          Object.keys(season).map((seasonNum) => (
+            <div>
+              {season[seasonNum].map((schauraum, i) => (
+                <a
+                  href={
+                    "/schauraum/" + schauraum.data.season + "/" + schauraum.slug
+                  }
+                  class="no-underline "
+                >
+                  <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
+                    S{schauraum.data.season}E{schauraum.data.episode}{" "}
+                  </li>
+                </a>
+              ))}
+            </div>
           ))
         }
       </ul>

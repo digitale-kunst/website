@@ -3,11 +3,23 @@ import Layout from "@layouts/Layout.astro";
 import Container from "@layouts/Container.astro";
 import { getEntry, getCollection } from "astro:content";
 
-const diplomas = await getCollection("diplomas");
+const collection = await getCollection("diplomas");
 const diplom = await getEntry("pages", "diplomas");
-const { title, description, color } = diplom.data;
 
 const { Content, headings } = await diplom.render();
+const { title, description, color } = diplom.data;
+const uniqueSubFolders = [
+  ...new Set(
+    collection
+      .map((entry) => entry.data.subFolder)
+      .filter((subFolder) => subFolder !== undefined)
+  ),
+];
+const entriesWithNoSubFolder = collection.filter(
+  (entry) => entry.data.subFolder === undefined
+);
+const showlineBreak =
+  entriesWithNoSubFolder.length > 0 && uniqueSubFolders.length > 0;
 ---
 
 <Layout {title} {description} {color}>
@@ -17,8 +29,28 @@ const { Content, headings } = await diplom.render();
     <Container>
       <ul class="p-0 m-0 inline">
         {
-          diplomas.map((d, i) => (
-            <a href={"/diplomas/" + d.slug} class="no-underline ">
+          uniqueSubFolders.map((entry, i) => (
+            <a
+              href={`/diplomas/${entry ? entry + "/" : ""}`}
+              class="no-underline "
+            >
+              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
+                {entry}
+              </li>
+            </a>
+          ))
+        }
+        {
+          showlineBreak && (
+            <>
+              <br />
+              <br />
+            </>
+          )
+        }
+        {
+          entriesWithNoSubFolder.map((d, i) => (
+            <a href={`/diplomas/${d.slug}`} class="no-underline ">
               <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
                 {d.data.title}
               </li>

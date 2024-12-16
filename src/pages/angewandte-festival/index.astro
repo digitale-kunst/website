@@ -1,0 +1,63 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@layouts/Container.astro";
+import { getEntry, getCollection } from "astro:content";
+
+const indexPage = await getEntry("pages", "af");
+const collection = await getCollection("af");
+
+const { Content, headings } = await indexPage.render();
+const { title, description, color } = indexPage.data;
+const uniqueSubFolders = [
+  ...new Set(
+    collection
+      .map((entry) => entry.data.subFolder)
+      .filter((subFolder) => subFolder !== undefined)
+  ),
+];
+const entriesWithNoSubFolder = collection.filter(
+  (entry) => entry.data.subFolder === undefined
+);
+const showlineBreak =
+  entriesWithNoSubFolder.length > 0 && uniqueSubFolders.length > 0;
+---
+
+<Layout {title} {description} {color}>
+  <div
+    class="flex flex-col items-center justify-center text-yellow prose-headings:text-orange prose-a:text-orange"
+  >
+    <Container>
+      <ul class="p-0 m-0 inline">
+        {
+          uniqueSubFolders.map((entry, i) => (
+            <a href={`/angewandte-festival/${entry}`} class="no-underline ">
+              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
+                {entry}
+              </li>
+            </a>
+          ))
+        }
+        {
+          showlineBreak && (
+            <>
+              <br />
+              <br />
+            </>
+          )
+        }
+        {
+          entriesWithNoSubFolder.map((d, i) => (
+            <a href={`/angewandte-festival/${d.slug}`} class="no-underline ">
+              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
+                {d.data.title}
+              </li>
+            </a>
+          ))
+        }
+      </ul>
+      <br />
+      <br />
+      <Content />
+    </Container>
+  </div>
+</Layout>
