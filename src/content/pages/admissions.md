@@ -3,7 +3,7 @@ title: "Admissions"
 description: ""
 color: "green"
 ---
-# Open Day (Zoom) 
+<!--# Open Day (Zoom) 
 Learn more about the department and our application process
 <br/>
 January 7, 2025
@@ -14,6 +14,7 @@ January 7, 2025
 Zoom Link: https://dieangewandte-at.zoom.us/j/64649575011
 <br/>
 Meeting-ID: 646 4957 5011
+-->
 <br/>
 <br/>
 ## Application
