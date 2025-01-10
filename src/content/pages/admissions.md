@@ -23,7 +23,7 @@ Your digital portfolio gives us a glimpse into your artistic practice and your w
 ## The process
 1 you submit your portfolio here https://application.uni-ak.ac.at<br/>
 2 you get admitted to the entrance exam<br/>
-3 the practical part of the admission test takes place over 3 days<br/>
+3 the practical part of the admission test takes place one day<br/>
 4 final interview<br/>
 <br/>
 Dates 2025
