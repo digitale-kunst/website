@@ -30,7 +30,7 @@ Dates 2025
 <br/>
 15 January 2025 – 29 January 2025
 <br/>
-Online registration and portfolio upload
+Online registration and portfolio upload -> https://application.uni-ak.ac.at
 
 24 Febuary 2025 – 07 March 2025
 <br/>
