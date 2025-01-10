@@ -8,8 +8,8 @@ color: "orange"
 Three diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).
 
 ## Dates
-21.01.2025, 10.00 – 18.00 <br/>
-24.01. – 25.01.2025, 11.00 – 21.00 
+21.01.2025, 14.00 – 18.00 <br/>
+24.01. – 25.01.2025, 11.00 – 19.00 
 
 ## Locations
 
