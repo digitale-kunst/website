@@ -3,6 +3,7 @@ title: "Admissions"
 description: ""
 color: "green"
 ---
+<!--
 # Open Day (Zoom) 
 Learn more about the department and our application process
 <br/>
@@ -16,6 +17,7 @@ Zoom Link: https://dieangewandte-at.zoom.us/j/64649575011
 Meeting-ID: 646 4957 5011
 <br/>
 <br/>
+-->
 ## Application
 Your digital portfolio gives us a glimpse into your artistic practice and your world. Send us concepts, sketches and works in progress, documentations and your public social media accounts. Write us in brief about your experiences, experiments, your personal approaches, struggles and obsessions, your idols, scenes and media, and why you want to study at the Department of Digital Kunst. Applications from groups & collectives are welcome. Media, formats as well as forms of documentation are optional, the only condition is that your portfolio is submitted digitally and includes a short CV and a photo of you.
 <br/>
