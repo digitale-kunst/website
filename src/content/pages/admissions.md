@@ -28,18 +28,14 @@ Your digital portfolio gives us a glimpse into your artistic practice and your w
 3 the practical part of the admission test takes place one day<br/>
 4 final interview<br/>
 <br/>
-Dates 2025
-<br/>
-15 January 2025 – 29 January 2025
-<br/>
-Online registration and portfolio upload -> https://application.uni-ak.ac.at
+## Dates 2025
+15 January 2025 – 29 January 2025<br/>
+Online registration and portfolio upload -> https://application.uni-ak.ac.at<br/>
 
-24 Febuary 2025 – 07 March 2025
-<br/>
-Examination week (exact times to follow; exam will be online)
+24 Febuary 2025 – 28 Febuary 2025<br/>
+Examination week (exact times to follow; exam will be online)<br/>
 
-14 March 2025
-<br/>
+14 March 2025<br/>
 Announcement of admitted applicants
 <br/>
 <br/>
