@@ -18,7 +18,7 @@ Meeting-ID: 646 4957 5011
 <br/>
 <br/>
 -->
-## Application
+## Application 25
 Your digital portfolio gives us a glimpse into your artistic practice and your world. Send us concepts, sketches and works in progress, documentations and your public social media accounts. Write us in brief about your experiences, experiments, your personal approaches, struggles and obsessions, your idols, scenes and media, and why you want to study at the Department of Digital Kunst. Applications from groups & collectives are welcome. Media, formats as well as forms of documentation are optional, the only condition is that your portfolio is submitted digitally and contains a short CV and a photo of you as separate files.<br/>
 
 Make sure that all uploaded files are labeled with your full name!
@@ -30,7 +30,7 @@ Make sure that all uploaded files are labeled with your full name!
 3 the practical part of the admission test takes place one day<br/>
 4 final interview<br/>
 <br/>
-## Dates 2025
+## Dates 
 15 January 2025 – 29 January 2025<br/>
 Online registration and portfolio upload -> https://application.uni-ak.ac.at<br/>
 
