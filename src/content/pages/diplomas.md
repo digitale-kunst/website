@@ -7,14 +7,7 @@ color: "orange"
 
 Three diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).
 
-### Stefan Krische 
-Conflict Pattern Recognition<br/>
-### Emanuel Spurny
-Orte 1-4<br/>
-### Joanna Zabielska
-POSTGRANICZE. The Borderland of Echoes and Realities
-<br/><br/>
-
+# Stefan Krische Emanuel Spurny Joanna Zabielska
 
 ## Showings
 21.01.2025, 14.00 – 18.00 <br/>
