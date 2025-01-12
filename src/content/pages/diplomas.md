@@ -3,6 +3,8 @@ title: Diplomas
 description: ""
 color: "orange"
 ---
+<br/>
+
 # Diplomas Winter Term 2024
 Three diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).<br/>
 
@@ -10,7 +12,7 @@ Three diploma projects are on show at the Digitale Kunst exhibition and as part 
 
 ## Showings
 21.01.2025, 14.00 – 18.00 <br/>
-24.01. – 25.01.2025, 11.00 – 19.00 
+24.01. – 25.01.2025, 11.00 – 19.00 <br/>
 
 ## Locations
 
@@ -19,7 +21,7 @@ Emanuel Spurny: "Orte 1-4" // 1. OG, Raum 122/123<br/>
 Stefan Krische: "Conflict Pattern Recognition" // 1. OG, Raum 130<br/>
 
 ### Schauraum Angewandte, MQ Schauräume, Museumsplatz 1, 1070 Vienna:
-Joanna Zabielska: "POSTGRANICZE. The Borderland of Echoes and Realities" // Schauraum Angewandte, Museumsquatier
+Joanna Zabielska: "POSTGRANICZE. The Borderland of Echoes and Realities" // Schauraum Angewandte, Museumsquatier<br/>
 
 <!--
 # Diplomas Summer Term 2024
