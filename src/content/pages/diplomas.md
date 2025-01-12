@@ -4,8 +4,7 @@ description: ""
 color: "orange"
 ---
 # Diplomas Winter Term 2024
-
-Three diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).
+Three diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).<br/>
 
 # Stefan Krische Emanuel Spurny Joanna Zabielska
 
@@ -15,11 +14,11 @@ Three diploma projects are on show at the Digitale Kunst exhibition and as part 
 
 ## Locations
 
-### Postsparkasse - GCP, Georg-Coch-Platz 2, 1010 Vienna:<br/>
+### Postsparkasse - GCP, Georg-Coch-Platz 2, 1010 Vienna:
 Emanuel Spurny: "Orte 1-4" // 1. OG, Raum 122/123<br/>
 Stefan Krische: "Conflict Pattern Recognition" // 1. OG, Raum 130<br/>
 
-### Schauraum Angewandte, MQ Schauräume, Museumsplatz 1, 1070 Vienna:<br/>
+### Schauraum Angewandte, MQ Schauräume, Museumsplatz 1, 1070 Vienna:
 Joanna Zabielska: "POSTGRANICZE. The Borderland of Echoes and Realities" // Schauraum Angewandte, Museumsquatier
 
 <!--
