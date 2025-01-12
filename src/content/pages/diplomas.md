@@ -7,12 +7,14 @@ color: "orange"
 # Diplomas Winter Term 2024<br/>
 Three diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).<br/>
 
-# Stefan Krische Emanuel Spurny Joanna Zabielska<br/>
+# Stefan Krische Emanuel Spurny Joanna Zabielska
+
 ## Showings<br/>
 21.01.2025, 14.00 – 18.00 <br/>
 24.01. – 25.01.2025, 11.00 – 19.00 <br/>
 
 ## Locations<br/>
+
 ### Postsparkasse - GCP, Georg-Coch-Platz 2, 1010 Vienna:<br/>
 Emanuel Spurny: "Orte 1-4" // 1. OG, Raum 122/123<br/>
 Stefan Krische: "Conflict Pattern Recognition" // 1. OG, Raum 130<br/>
