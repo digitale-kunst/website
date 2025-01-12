@@ -4,7 +4,7 @@ description: ""
 slider: [{ image: "./tavolata.png", caption: "" }]
 color: "orange"
 ---
-## 2024
+## Angewandte Festival 2024
 ## TAVOLATA. On standing out and fitting in
 
 26.06. – 29.06.2024
