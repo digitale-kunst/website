@@ -4,7 +4,6 @@ description: ""
 slider: [{ image: "./tavolata.png", caption: "" }]
 color: "orange"
 ---
-
 ## TAVOLATA. On standing out and fitting in
 
 26.06. – 29.06.2024
