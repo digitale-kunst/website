@@ -3,7 +3,7 @@ title: Diplomas
 description: ""
 color: "orange"
 ---
-<br/>
+
 # Diplomas Winter Term 2024<br/>
 Three diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).<br/>
 
