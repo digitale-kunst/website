@@ -45,6 +45,12 @@ const { Content, headings } = await diplom.render();
   >
     <Container>
       <ul class="p-0 m-0 inline">
+        <li
+          class="font-sans inline text-3xl leading-none md:leading-none md:text-5xl text-orange font-bold list-none"
+        >
+          {subFolder}
+        </li>
+        <br />
         {
           subFolder &&
             groupedBySubFolder[subFolder].map((d: any) => (
@@ -61,7 +67,6 @@ const { Content, headings } = await diplom.render();
       </ul>
       <br />
       <br />
-      <Content />
     </Container>
   </div>
 </Layout>
