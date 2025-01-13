@@ -32,10 +32,10 @@ Make sure that all uploaded files are labeled with your full name!
 4 final interview<br/>
 <br/>
 ## Dates 
-15 January 2025 – 29 January 2025<br/>
+15 January 2025 – 29 January 2025, 1pm sharp (CET)<br/>
 Online registration and portfolio upload -> https://application.uni-ak.ac.at<br/>
 
-24 Febuary 2025 – 28 Febuary 2025<br/>
+24 February 2025 – 28 February 2025<br/>
 Examination week (exact times to follow; exam will be online)<br/>
 
 14 March 2025<br/>
