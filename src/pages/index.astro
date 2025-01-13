@@ -16,10 +16,10 @@ import News from "@components/news.html";
   <!-- UNCOMMENT THE SECTION BELOW TO SHOW THE NEWS STORED IN THE NEWS.HTML FILE IN THE COMOPONENTS FOLDER -->
 
   <!-- <div
-    class="h-screen w-screen flex items-center justify-center fixed top-0 p-6 left-0 bg-yellow text-black news prose-headings:text-black prose-p:text-black"
+    class="h-screen w-screen flex items-center flex-col justify-center fixed top-0 p-6 left-0 bg-yellow news"
   >
     <div
-      class="x text-3xl font-bold cursor-pointer w-4 h-4 fixed top-4 right-4"
+      class="text-3xl font-bold cursor-pointer w-4 h-4 fixed top-4 right-4"
       onclick="document.querySelector('.news').classList.toggle('hidden')"
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
@@ -29,6 +29,10 @@ import News from "@components/news.html";
         </path>
       </svg>
     </div>
-    <News />
+    <div
+      class="text-black prose-headings:text-black prose max-w-full prose-p:!text-black"
+    >
+      <News />
+    </div>
   </div> -->
 </Layout>

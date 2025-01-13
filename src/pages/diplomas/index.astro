@@ -2,12 +2,13 @@
 import Layout from "@layouts/Layout.astro";
 import Container from "@layouts/Container.astro";
 import { getEntry, getCollection } from "astro:content";
+import { Image } from "astro:assets";
 
 const collection = await getCollection("diplomas");
-const diplom = await getEntry("pages", "diplomas");
+const indexPage = await getEntry("pages", "diplomas");
 
-const { Content, headings } = await diplom.render();
-const { title, description, color } = diplom.data;
+const { Content, headings } = await indexPage.render();
+const { title, description, color } = indexPage.data;
 const uniqueSubFolders = [
   ...new Set(
     collection
@@ -61,6 +62,22 @@ const showlineBreak =
       <br />
       <br />
       <Content />
+      <div
+        class="overflow-x-auto w-[calc(100vw-2rem)] md:w-[calc(100vw-5rem)] px-4 md:px-6 gap-8 flex"
+      >
+        {
+          indexPage.data.slider?.map((slide) => (
+            <div class="">
+              <Image
+                src={slide.image}
+                class="max-h-[80vh] aspect-auto  min-w-[500px]  object-contain   w-auto"
+                alt={slide.caption}
+              />
+              <p class="text-sm">{slide.caption}</p>
+            </div>
+          ))
+        }
+      </div>
     </Container>
   </div>
 </Layout>
