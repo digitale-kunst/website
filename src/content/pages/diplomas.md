@@ -5,7 +5,7 @@ color: "orange"
 ---
 
 # Diplomas Winter Term 2024
-Three diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).<br/>
+Three diploma projects are on show at the Digitale Kunst exhibition and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
 Stefan Krische<br/> 
 Emanuel Spurny<br/> 
