@@ -3,7 +3,7 @@ title: Luca Sabot
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 10/12/2024 #fuer sortierung
 slider: [{ image: "./sabot.jpg", caption: "Apparatus #5" }]
-subFolder: "2024"
+subFolder: "S2024"
 ---
 
 ### Luca Sabot
