@@ -1,7 +1,7 @@
 ---
 title: "Team" 
 description: "Das sind unsere Studierende"
-color: "green"
+color: "yellow"
 ---
 - **Team:**
 - [UBER](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=9169)[MORGEN](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?reserve-mode=active&content-id=1458930944469&Pe-Id=9170&rel=de)
@@ -9,10 +9,9 @@ color: "green"
 - [Nicolaj Kirisits](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=3249)
 - [Melissa E. Logan](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=9223)
 - [Sarah Grant](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=9224)
-- [Susanne Wurm-Kukla](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=7541)
 - [Bernhard Faiss](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=9446)
 - [Patricia Koestring](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=6610)
- 
+ - [Susanne Wurm-Kukla](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=7541)
 
  # 
 - **Lecturers:**
