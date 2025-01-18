@@ -1,7 +1,7 @@
 ---
 title: Diplomas
 description: ""
-color: "orange"
+color: "cyan"
 ---
 
 # Diplomas Winter Term 2024
