@@ -3,7 +3,7 @@ title: Hanna Besenhard
 description: Short Description
 date: 10/10/2024
 slider: [{ image: "./besenhard.jpg", caption: "Exit House" }]
-subFolder: "2024"
+subFolder: "S2024"
 ---
 
 ### Hanna Besenhard
