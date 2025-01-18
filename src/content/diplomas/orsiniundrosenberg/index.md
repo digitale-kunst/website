@@ -8,7 +8,7 @@ slider:
     { image: "./13.jpg", caption: "Transit 2" },
     { image: "./15.jpg", caption: "Transit 3" },
   ]
-subFolder: "2024"
+subFolder: "S2024"
 ---
 
 ### Isabelle Orsini und Rosenberg
