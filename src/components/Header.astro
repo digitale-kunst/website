@@ -1,7 +1,7 @@
 ---
 import Link from "@components/Link.astro";
 import dk from "../dk.svg";
-import dk from "../slash.svg";
+import slash from "../slash.svg";
 import { SITE } from "@consts";
 import { getCollection } from "astro:content";
 import Scramble from "./Scramble";
@@ -127,7 +127,9 @@ const slug = title.toLowerCase().replace(/ /g, "-");
           </h1>
           <a class="text-secondary" href="/open-house">Open House</a>
 
-<img src="slash.svg" alt="">
+<svg viewBox="0 0 28 27" class="h-[1.1rem] >
+<path id="slash"> </path></svg>
+
           <a class="text-orange" href="/angewandte-festival"
             >Angewandte Festival</a
           >
