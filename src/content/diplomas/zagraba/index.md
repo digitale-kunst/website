@@ -4,7 +4,7 @@ description: Short Description
 date: 10/10/2024
 slider:
   [{ image: "./agnieska_zabraga.png", caption: "The Land of Bearing Shapes" }]
-subFolder: "2024"
+subFolder: "S2024"
 ---
 
 ### Agnieszka Zagraba
