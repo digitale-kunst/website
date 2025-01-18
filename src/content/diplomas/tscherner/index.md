@@ -8,7 +8,7 @@ slider:
     { image: "./Diplom_Doku_Web_4.jpg", caption: "entangle. deflate" },
     { image: "./Diplom_Doku_Web_8.jpg", caption: "entangle. deflate" },
   ]
-subFolder: "2024"
+subFolder: "S2024"
 ---
 
 ### Verena Tscherner
