@@ -3,7 +3,7 @@ title: Kilian Hannapi
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 10/12/2024 #fuer sortierung
 slider: [{ image: "./hannapi.png", caption: "looking for you" }]
-subFolder: "2024"
+subFolder: "S2024"
 ---
 
 ### Kilian Hanappi
