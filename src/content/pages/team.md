@@ -1,7 +1,7 @@
 ---
 title: "Team" 
 description: "Das sind unsere Studierende"
-color: "yellow"
+color: "primary"
 ---
 - **Team:**
 - [UBER](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=9169)[MORGEN](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?reserve-mode=active&content-id=1458930944469&Pe-Id=9170&rel=de)
