@@ -2,6 +2,12 @@
 title: Diplomas
 description: ""
 color: "cyan"
+slider:
+  [
+    { image: "./diplomWS24spurny", caption: "© Emanuel Spurny" },
+    { image: "./diplomWS24krische", caption: "© Stefan Krische" },
+    { image: "./diplomWS24zabielska", caption: "© Joanna Zabielska" },
+  ]
 ---
 
 # Diplomas Winter Term 2024
