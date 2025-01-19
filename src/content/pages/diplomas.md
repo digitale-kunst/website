@@ -5,7 +5,7 @@ slider:
   [
     { image: "./diplomWS24spurny.jpg", caption: "©Emanuel Spurny" },
     { image: "./diplomWS24krische.jpg", caption: "©Stefan Krische" },
-    { image: "./diplomWS24zabielska.jpg", caption: "©Joanna Zabielska" },
+    { image: "./diplomWS24zabielska.jpg", caption: "©Joanna Zabielska" }
   ]
 color: "cyan"
 ---
