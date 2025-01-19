@@ -26,7 +26,7 @@ Make sure that all uploaded files are labeled with your full name!
 <br/>
 <br/>
 ## The process
-1 you submit your portfolio here https://application.uni-ak.ac.at<br/>
+1 you submit your portfolio here: https://application.uni-ak.ac.at<br/>
 2 you get admitted to the entrance exam<br/>
 3 the practical part of the admission test takes place one day<br/>
 4 final interview<br/>
