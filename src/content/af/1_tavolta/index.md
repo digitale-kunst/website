@@ -18,7 +18,7 @@ slider:
     { image: "./KiarerKristler_SMNCTPENF.png", caption: "Kiarer Kristler" },
     { image: "./DavidObradovic.png", caption: "David Obradovic" },
     { image: "./MatthiasSanoll.png", caption: "Matthias Sanoll" },
-    { image: "./theFutileCorporation.png", caption: "the Futile Corporation" },
+    { image: "./theFutileCorporation.png", caption: "the Futile Corporation" }
   ]
 subFolder: "2024"
 ---
