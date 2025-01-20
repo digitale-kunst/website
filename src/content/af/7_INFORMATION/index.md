@@ -3,7 +3,7 @@ title: INFORMATION
 description: Dere
 date: 10/12/2024
 slider: [{ image: "./INFORMATION@MarcinRatajczyk.jpg", caption: "INFORMATION" }]
-subFolder: "2024"
+subFolder: "AF2024"
 ---
 
 ### INFORMATION
