@@ -3,7 +3,7 @@ title: Sinneswandel
 description: Dere
 date: 10/12/2024
 slider: [{ image: "./sinneswandel.jpg", caption: "Sinneswandel" }]
-subFolder: "2024"
+subFolder: "AF2024"
 ---
 
 ### Sinneswandel – A Hacker's Guide to Perception
