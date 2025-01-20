@@ -3,7 +3,7 @@ title: BOOK-ROOM
 description: Dere
 date: 10/12/2024
 slider: [{ image: "./BOOK-ROOM©MCPoulin_and_AI.jpg", caption: "BOOK-ROOM" }]
-subFolder: "2024"
+subFolder: "AF2024"
 ---
 
 ### BOOK-ROOM: information re-embodied, or the snake biting its own tail
