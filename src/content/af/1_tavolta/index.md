@@ -20,7 +20,7 @@ slider:
     { image: "./MatthiasSanoll.png", caption: "Matthias Sanoll" },
     { image: "./theFutileCorporation.png", caption: "the Futile Corporation" }
   ]
-subFolder: "2024"
+subFolder: "AF2024"
 ---
 
 # TAVOLATA – students´ works at our festival exhibition
