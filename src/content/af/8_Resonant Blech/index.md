@@ -4,7 +4,7 @@ description: Dere
 date: 10/12/2024
 slider:
   [{ image: "./ResonantBlech©KathrinStumreich.jpg", caption: "Resonant Blech" }]
-subFolder: "2024"
+subFolder: "AF2024"
 ---
 
 ### Resonant Blech: Emergent sound-scapes through human AI collaboration
