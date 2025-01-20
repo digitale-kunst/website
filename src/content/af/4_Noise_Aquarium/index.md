@@ -4,7 +4,7 @@ description: Dere
 date: 10/12/2024
 slider:
   [{ image: "./NoiseAquarium2019©GlennBristol.jpg", caption: "NoiseAquarium" }]
-subFolder: "2024"
+subFolder: "AF2024"
 ---
 
 ### NOISE AQUARIUM
