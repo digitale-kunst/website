@@ -1,7 +1,7 @@
 ---
 title: Emanuel Spurny
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
-date: 19/01/2025 #fuer sortierung
+date: 01/19/2025 #fuer sortierung
 slider: [{ image: "./diplomWS24spurny.jpg", caption: "©Emanuel Spurny" }]
 subFolder: "WS2024"
 ---

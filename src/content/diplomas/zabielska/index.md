@@ -1,7 +1,7 @@
 ---
 title: Joanna Zabielska
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
-date: 19/01/2025 #fuer sortierung
+date: 01/19/2025 #fuer sortierung
 slider: [{ image: "./diplomWS24zabielska.jpg", caption: "©Joanna Zabielska" }]
 subFolder: "WS2024"
 ---
@@ -26,4 +26,3 @@ Post-Borderland—a digital habitat of post-humans, spirits, and
 nature that dares to imagine a world free of border regimes. Post-
 granicze is both a story and a provocation—a call to imagine the
 unimaginable, rooted in the whisper of the land.
-
