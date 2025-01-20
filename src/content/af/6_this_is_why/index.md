@@ -3,7 +3,7 @@ title: this is why the yoga instructor tells you to breathe
 description: Dere
 date: 10/12/2024
 slider: [{ image: "./thisiswhy©MoritzWunderwald.jpg", caption: "TIWTYITYTB" }]
-subFolder: "2024"
+subFolder: "AF2024"
 ---
 
 ### this is why the yoga instructor tells you to breathe
