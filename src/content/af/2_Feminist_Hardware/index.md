@@ -3,7 +3,7 @@ title: "Feminist Hardware Clay PCB: Action Donau Island"
 description: "Dere"
 date: 10/12/2024
 slider: [{ image: "./feminist-hardware.jpg", caption: "Feminist Hardware" }]
-subFolder: "2024"
+subFolder: "AF2024"
 ---
 
 ### Feminist Hardware Clay PCB: Action Donau Island 
