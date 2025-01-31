@@ -29,7 +29,7 @@ Make sure that all uploaded files are labeled with your full name!<br/><br/>
 ## The process
 1 you submit your portfolio here: https://application.uni-ak.ac.at<br/>
 2 you get admitted to the entrance exam<br/>
-3 the practical part of the admission test takes place one day<br/>
+3 the practical part of the admission test takes place<br/>
 4 final interview<br/><br/>
 
 ## Dates 
@@ -37,7 +37,7 @@ Make sure that all uploaded files are labeled with your full name!<br/><br/>
 Online registration and portfolio upload: https://application.uni-ak.ac.at<br/>
 
 24 February 2025 – 28 February 2025<br/>
-Examination week (exact times to follow; exam will be online)<br/>
+Examination week (practical part and interview – exact times to follow; exam will be online)<br/>
 
 14 March 2025<br/>
 Announcement of admitted applicants<br/><br/>
