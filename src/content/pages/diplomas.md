@@ -8,8 +8,8 @@ slider: [
   ]
 color: "cyan"
 ---
-
-# WS2024: Diplomas Winter Term 2024
+# Congratulations to our graduates!
+# Diplomas Winter Term 2024
 Three diploma projects are on show at the Digitale Kunst exhibition and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
 Stefan Krische<br/> 
