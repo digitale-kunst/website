@@ -4,7 +4,7 @@ episode: 2
 season: 2
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 05/03/2025 #fuer sortierung
-slider: [{image: "./Margo Dubowska © Cristian Anutoiu.jpg", caption: "Margo Dubowska ©Cristian Anutoiu"},{ image: "./MagicEmergecnyRoom©MargoDubo.jpg", caption: "MagicEmergecnyRoom ©MargoDubo" }]
+slider: [{image: "./Margo Dubowska © Cristian Anutoiu.jpg", caption: "Margo Dubowska ©Cristian Anutoiu"},{ image: "./MagicEmergecnyRoom©MargoDubo.jpeg", caption: "MagicEmergecnyRoom ©MargoDubo" }]
 ---
 
 # S2E2: Shedding Thresholds 
