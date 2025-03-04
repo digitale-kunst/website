@@ -4,7 +4,7 @@ episode: 1
 season: 2
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 11/12/2024 #fuer sortierung
-slider: [{image: "./49minutes_01.JPG", caption: "Timna Lugstein and Denitza Zafirova"},{ image: "./49minutes_02.JPG", caption: "Timna Lugstein and Denitza Zafirova" }, { image: "./49minutes_03.JPG", caption: "Timna Lugstein and Denitza Zafirova" }]
+slider: [{ image: "./49minutes_01.JPG", caption: "Timna Lugstein and Denitza Zafirova"}, { image: "./49minutes_02.JPG", caption: "Timna Lugstein and Denitza Zafirova" }, { image: "./49minutes_03.JPG", caption: "Timna Lugstein and Denitza Zafirova" }]
 ---
 
 # S2E1: 49minutes
