@@ -4,7 +4,7 @@ episode: 3
 season: 2
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 06/03/2025 #fuer sortierung
-slider: [{image: "./S2E3_Maulwurf_01.jpg", caption: "Installation: E.Töltl, © Faiss"}, {image: "./S2E3_Maulwurf_02.jpg", caption: "Installation: E.Töltl, © Faiss"}, {image: "./S2E3_Maulwurf_03.jpg", caption: "Installation: E.Töltl, © Faiss"}, {image: "./S2E3_Maulwurf_03.jpg", caption: "Installation: E.Töltl, © Faiss"}]
+slider: [{image: "./S2E3_Maulwurf_01.jpg", caption: "Installation: E.Töltl"}, {image: "./S2E3_Maulwurf_02.jpg", caption: "Installation: E.Töltl, © Faiss"}, {image: "./S2E3_Maulwurf_03.jpg", caption: "Installation: E.Töltl, © Faiss"}, {image: "./S2E3_Maulwurf_04.jpg", caption: "Installation: E.Töltl, © Faiss"}]
 ---
 
 # S2E3: Was ein Maulwurf sonntags am Himmel hört
