@@ -3,6 +3,7 @@ title: "Contact"
 description: "Contact Digitale Kunst"
 color: "primary"
 ---
+#
 - **Contact:**
 - [digitalekunst@uni-ak.ac.at](mailto:digitalekunst@uni-ak.ac.at) 
 - [+43-1-71133-2640](tel:+43-1-71133-2640)
