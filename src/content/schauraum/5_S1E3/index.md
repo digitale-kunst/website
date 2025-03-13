@@ -14,3 +14,4 @@ slider: [{image: "./S1E3_1©MelisaEllenLogan.jpg", caption: "Horse Power"}, { im
 Drawing inspiration from the experimental writings of Pauline Oliveros, the artists offer audio-visual interpretations of the horse, each revealing its symbolic resonance and cultural significance. From ancient civilisations, horses have served as powerful symbols of strength, freedom, and control. Set against the backdrop of a former stable, and by exploring themes of domination, mobility, and coexistence, Horse Power invites us to critically reflect on the ways in which we harness and exploit the power of the horse, both literally and metaphorically.
 
 The exhibition was developed within a seminar of Melissa Logan.
+
