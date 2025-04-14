@@ -4,7 +4,7 @@ episode: 4
 season: 2
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 07/03/2025 #fuer sortierung
-slider: [{image: "./LeereStellen©Hazod_02.jpg", caption: "© Hazod"}]
+slider: [{image: "./LeereStellen©Hazod_02.jpg", caption: "© Hazod"}, {image: "./leerestellen3Hazod.jpg", caption: "© Hazod"}, {image: "./leerestellen6Hazod.jpg", caption: "© Hazod"}, {image: "./leerestellen4Hazod.jpg", caption: "© Hazod"}]
 ---
 
 # S2E4: Leere Stellen
