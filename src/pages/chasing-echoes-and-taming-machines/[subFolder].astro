@@ -20,7 +20,7 @@ export async function getStaticPaths() {
 const collection = await getCollection("chasing-echoes-and-taming-machines");
 const indexPage = await getEntry("pages", "chasing-echoes-and-taming-machines");
 interface Group {
-  [season: string]: CollectionEntry<"af">[];
+  [season: string]: CollectionEntry<"chasing-echoes-and-taming-machines">[];
 }
 const groupedBySubFolder: Group = collection.reduce((acc, item) => {
   const key = item.data.subFolder ? item.data.subFolder : "";
