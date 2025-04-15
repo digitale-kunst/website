@@ -104,5 +104,6 @@ export const collections = {
   af: projects,
   diplomas: projects,
   students: projects,
+  "chasing-echoes-and-taming-machines": projects,
   pages: pages,
 };

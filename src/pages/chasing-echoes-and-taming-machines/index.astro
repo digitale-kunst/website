@@ -1,0 +1,84 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@layouts/Container.astro";
+import { getEntry, getCollection } from "astro:content";
+import { Image } from "astro:assets";
+
+const indexPage = await getEntry("pages", "chasing-echoes-and-taming-machines");
+const collection = await getCollection("chasing-echoes-and-taming-machines");
+
+const { Content, headings } = await indexPage.render();
+const { title, description, color } = indexPage.data;
+const uniqueSubFolders = [
+  ...new Set(
+    collection
+      .map((entry) => entry.data.subFolder)
+      .filter((subFolder) => subFolder !== undefined)
+  ),
+];
+const entriesWithNoSubFolder = collection.filter(
+  (entry) => entry.data.subFolder === undefined
+);
+const showlineBreak =
+  entriesWithNoSubFolder.length > 0 && uniqueSubFolders.length > 0;
+---
+
+<Layout {title} {description} {color}>
+  <div
+    class="flex flex-col items-center justify-center text-yellow prose-headings:text-purple prose-a:text-purple"
+  >
+    <Container>
+      <Content />
+      <ul class="p-0 m-0 inline">
+        {
+          uniqueSubFolders.map((entry, i) => (
+            <a
+              href={`/chasing-echoes-and-taming-machines/${entry}`}
+              class="no-underline "
+            >
+              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
+                {entry}
+              </li>
+            </a>
+          ))
+        }
+        {
+          showlineBreak && (
+            <>
+              <br />
+              <br />
+            </>
+          )
+        }
+        {
+          entriesWithNoSubFolder.map((d, i) => (
+            <a
+              href={`/chasing-echoes-and-taming-machines/${d.slug}`}
+              class="no-underline "
+            >
+              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
+                {d.data.title}
+              </li>
+            </a>
+          ))
+        }
+      </ul>
+      <div
+        class="overflow-x-auto w-[calc(100vw-2rem)] md:w-[calc(100vw-5rem)] px-4 md:px-6 gap-8 flex"
+      >
+        {
+          indexPage.data.slider?.map((slide) => (
+            <div class="">
+              <Image
+                src={slide.image}
+                class="max-h-[80vh] aspect-auto  min-w-[500px]  object-contain   w-auto"
+                alt={slide.caption}
+              />
+              <p class="text-sm">{slide.caption}</p>
+            </div>
+          ))
+        }
+      </div>
+    </Container>
+  </div>
+</Layout>
