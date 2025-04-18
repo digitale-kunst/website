@@ -15,7 +15,7 @@ slider:
 color: "purple"
 ---
 
-## Screening im Blickle Kino, Belvedere 21 <br/> 27. April 2025, 12:15 - 13:45 Uhr
+## Screening im Blickle Kino, Belvedere 21 <br/> 27. April 2025, 12:00 - 13:45 Uhr
 
 ## Blickle Kino, Belvedere 21 <br/>Arsenalstraße 1<br/>1030 Wien
 
