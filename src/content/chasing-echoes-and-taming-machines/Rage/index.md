@@ -16,11 +16,8 @@ slider:
 ### Rage
 
 Cyborgs are jealous of me <br />
-Duration: ~3'06
+Duration: 6'21
 
-Stories of the past, inner dialog and notes of thoughts about chronic skin condition over time
-paired with a collection of skin related visuals (related in the broadest sense).
-Artworks from my past like kombucha leather/ cellulose painting (protecting what matters),
-electron microscopy(found footage), microscopy of my own wounds (under harmful and healing
-substances influence, Things that influence skin/Substances/visualized Stress like certain
-situations etc), creatures that live on the skin/with the skin, etc…
+"Cyborgs are jealous of me" reflects on the lifelong journey with neurodermatitis. It tells stories from the past and inner dialogue of recurring thoughts within a body that is suffering from the chronic skin condition. From loathing and constant devaluation, to acceptance and the ability to see the condition as a skill. One that is worth cherishing, rather than just seeing it as a limitation to the enjoyment of life and a constant burden.
+
+Rage is a multidisciplinary artist. Using a variety of media in the physical as well as the digital space. Her works aspire to allow a look into the depths of the psyche. She combines the uncanny with the melancholic, the deep calm with the steady unrest.

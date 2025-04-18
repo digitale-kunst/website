@@ -4,8 +4,8 @@ description: Binary Reflections navigates the subtle convergence of personal rec
 date: 04/15/2025
 slider:
   [
-    { image: "./ilkhan_selcuk_erdogan_1.jpg", caption: "Binary Reflections" },
-    { image: "./ilkhan_selcuk_erdogan_2.jpg", caption: "Binary Reflections" },
+    { image: "./ilkhan_selcuk_erdogan_1.jpg", caption: "" },
+    { image: "./ilkhan_selcuk_erdogan_2.jpg", caption: "" },
   ]
 ---
 

@@ -4,9 +4,9 @@ description: When the mind is an evolute of matter, 'Why day is it' opens a fiel
 date: 04/15/2025
 slider:
   [
-    { image: "./Haselbauer-Hartwin-snap1.JPG", caption: "Why day is it" },
-    { image: "./Haselbauer-Hartwin-snap2.JPG", caption: "Why day is it" },
-    { image: "./Haselbauer-Hartwin-snap3.JPG", caption: "Why day is it" },
+    { image: "./Haselbauer-Hartwin-snap1.JPG", caption: "" },
+    { image: "./Haselbauer-Hartwin-snap2.JPG", caption: "" },
+    { image: "./Haselbauer-Hartwin-snap3.JPG", caption: "" },
   ]
 ---
 

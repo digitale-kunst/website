@@ -2,7 +2,12 @@
 title: Ryta Kulyk
 description: Instruments is a short video based on found footage of a wedding contest documentation.
 date: 04/15/2025
-slider: [{ image: "./Kulyk_Instruments-filmstill.png", caption: "" }]
+slider:
+  [
+    { image: "./Kulyk_Instruments-filmstill_1.png", caption: "" },
+    { image: "./Kulyk_Instruments-filmstill_2.png", caption: "" },
+    { image: "./Kulyk_Instruments-filmstill.png", caption: "" },
+  ]
 ---
 
 ### Ryta Kulyk

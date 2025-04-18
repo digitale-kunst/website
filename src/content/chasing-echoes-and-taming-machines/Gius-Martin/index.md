@@ -4,9 +4,9 @@ description: "'memories in the present past' is a music video for the hungarian 
 date: 04/15/2025
 slider:
   [
-    { image: "./Gius-still1.png", caption: "memories in the present past" },
-    { image: "./Gius-still2.png", caption: "memories in the present past" },
-    { image: "./Gius-still3.png", caption: "memories in the present past" },
+    { image: "./Gius-still1.png", caption: "" },
+    { image: "./Gius-still2.png", caption: "" },
+    { image: "./Gius-still3.png", caption: "" },
   ]
 ---
 

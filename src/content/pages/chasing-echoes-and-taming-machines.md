@@ -15,10 +15,11 @@ slider:
 color: "purple"
 ---
 
-## Screening: Chasing Echoes and Taming Machines</br>27.04.2025 | Blickle Kino
+## Screening im Blickle Kino, Belvedere 21 <br/> 27. April 2025, 12:15 - 13:45 Uhr
 
-Wenn alles optimiert wird, was bleibt unberührt? Wenn alles durch einen Filter läuft, was ist dann noch real? Wer kontrolliert wen? Und wem gehört die Erinnerung? In Chasing Echoes and Taming Machines bewegen sich die Arbeiten der Student:innen der Universität für angewandte Kunst Wien zwischen starren Strukturen, widerständigen Algorithmen und flüchtigen Traumwelten.
+## Blickle Kino, Belvedere 21 <br/>Arsenalstraße 1<br/>1030 Wien
 
-Organisiert von: Tina Kult, Stefanie Reisinger-Poovathinkal und Anna Ewa Dyrko.
+Wenn alles optimiert wird, was bleibt unberührt? Wenn alles durch einen Filter läuft, was ist dann noch real? Wer kontrolliert wen? Und wem gehört die Erinnerung? In _Chasing Echoes and Taming Machines_ bewegen sich die Arbeiten zwischen starren Strukturen, widerständigen Algorithmen und flüchtigen Traumwelten. <br/>
+Das Screening findet im Rahmen des Open House des Belvedere 21 statt, gezeigt werden Projekte von Student:innen der Digitalen Kunst und Experimental Game Cultures. Organisation: Tina Kult, Stefanie Reisinger-Poovathinkal und Anna Ewa Dyrko.
 
 Mit Arbeiten von:

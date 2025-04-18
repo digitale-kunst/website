@@ -11,9 +11,11 @@ slider:
   ]
 ---
 
-### Andreas Rippl
+### [Andreas Rippl](https://soju.studio/)
 
-on the lookout
+on the lookout <br/>
 Duration: 4'01
 
 I'm on the lookout, actively searching and not finding anything. Too close to comfort in a comforting way. "on the lookout" uses an endoscopic camera to explore different parts of the body in an uncomfortable and disorienting manner. Flashes of familiarity which pretend to orientate the viewer pop up sparingly.
+
+Andreas Rippl is a multidisciplinary artist, designer and software engineer from Vienna, Austria.

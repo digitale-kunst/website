@@ -6,15 +6,15 @@ slider:
   [
     {
       image: "./Leyrado-NaturalContradictions_v02a_00_00_09_21_Still001.jpg",
-      caption: "Natural Contradictions v.01",
+      caption: "",
     },
     {
       image: "./Leyrado-NaturalContradictions_v02a_00_00_24_10_Still002.jpg",
-      caption: "Natural Contradictions v.01",
+      caption: "",
     },
     {
       image: "./Leyrado-NaturalContradictions_v02a_00_01_39_12_Still003.jpg",
-      caption: "Natural Contradictions v.01",
+      caption: "",
     },
   ]
 ---

@@ -3,7 +3,10 @@ title: Zita Kayser
 description: Optimize your Linked-in Profile. Optimize your Morning routine. Optimize your Gaming Setup.
 date: 04/15/2025
 slider:
-  [{ image: "./Kayser_still2.jpg", caption: "You could have done Better" }]
+  [
+    { image: "./Kayser_still1.jpg", caption: "" },
+    { image: "./Kayser_still2.jpg", caption: "" },
+  ]
 ---
 
 ### Zita Kayser
