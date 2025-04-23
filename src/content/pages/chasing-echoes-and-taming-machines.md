@@ -15,6 +15,8 @@ slider:
 color: "purple"
 ---
 
+![](./chasing-echoes-poster-2.jpg)
+
 ## Screening im Blickle Kino, Belvedere 21 <br/> 27. April 2025, 12:00 - 13:45 Uhr
 
 ## Blickle Kino, Belvedere 21 <br/>Arsenalstraße 1<br/>1030 Wien
