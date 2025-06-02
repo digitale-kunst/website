@@ -19,10 +19,10 @@ digitalekunst.click
 <br/>
 <br/>
 Responsible for the content:<br/>
-Department of Digitale Kunst / UBERMORGEN
+Department of Digitale Kunst / UBERMORGEN / Liz Haas, Luzius Bernhard
 <br/>
 <br/>
 Liability:<br/>
 All texts on this website have been carefully reviewed. Nevertheless, no guarantee can be given for the correctness, completeness, and actuality of the information. Any liability of the Digitale Kunst department is therefore excluded.
 <br/><br/>
-© 2024 Digitale Kunst / the respective authors and artists
+© 2025 Digitale Kunst / the respective authors and artists
