@@ -1,5 +1,5 @@
 ---
-title: Immersive-Lab
+title: Immersive-LAB
 description: Dere
 date: 10/12/2024
 ---
