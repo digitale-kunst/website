@@ -2,8 +2,8 @@
 title: Immersive-Lab
 description: Dere
 date: 10/12/2024
-slider: [{image: "./xxx.jpg", caption: ""},]
 ---
+
 
 # Immersive-LAB
 
