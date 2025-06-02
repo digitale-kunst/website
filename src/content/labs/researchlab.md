@@ -2,7 +2,7 @@
 title: Research-LAB
 description: Dere
 date: 10/12/2024
-slider: [{image: "./researchlab.jpg", caption: ""},{image: "./ImmersiveLab01.jpg", caption: ""}, {image: "./ImmersiveLab02.jpg", caption: ""},]
+slider: [{image: "./researchlab.jpg", caption: ""},{image: "./ResearchLab01.jpg", caption: ""}, {image: "./ResearchLab02.jpg", caption: ""},]
 
 ---
 # Research-LAB
