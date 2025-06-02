@@ -2,7 +2,7 @@
 title: Electronics-LAB
 description: Dere
 date: 10/12/2024
-slider: [{image: "./electronicslab.jpg", caption: "Develop your technical skill!"},]
+slider: [{image: "./electronicslab.jpg", caption: ""},{image: "./ElectronicLab01.jpg", caption: ""}, {image: "./ElectronicLab02.jpg", caption: ""},]
 ---
 # Electronics-LAB
 
