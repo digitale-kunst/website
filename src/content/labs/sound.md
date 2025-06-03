@@ -3,7 +3,6 @@ title: Sound-LAB
 description: Dere
 date: 10/12/2024
 slider: [{image: "./soundlab.jpg", caption: "Creating spatial sound situations"},]
-
 ---
 
 # Sound-LAB
