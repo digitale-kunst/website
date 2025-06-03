@@ -2,7 +2,7 @@
 title: Bio-LAB
 description: Dere
 date: 10/12/2024
-slider: [{image: "./biolab1.jpg", caption: ""},{image: "./BioLab03.jpg",caption: ""},{image: "./BioLab04.jpg",caption: ""},{image: "./BioLabring02.jpg",caption: ""}, {image: "./BioLabring01.jpg",caption: ""}, {image: "./BioLabring03.jpg",caption: ""},]
+slider: [{image: "./BioLab03.jpg",caption: ""},{image: "./BioLab04.jpg",caption: ""},{image: "./BioLabring02.jpg",caption: ""}, {image: "./BioLabring01.jpg",caption: ""}, {image: "./BioLabring03.jpg",caption: ""},{image: "./biolab1.jpg", caption: ""},]
 ---
 # Bio-LAB 
 
