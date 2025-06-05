@@ -1,5 +1,5 @@
 ---
-title: "EXHIBITION at Digitale Kunst"
+title: "EXHIBITION DK"
 description: Dere
 date: 05/06/2025
 slider:

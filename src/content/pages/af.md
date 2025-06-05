@@ -3,7 +3,7 @@ title: Angewandte Festival
 description: ""
 color: "orange"
 ---
-## Angewandte Festival 2025
+# Angewandte Festival 2025
 
 ## EXHIBITION at Digitale Kunst
 # It’s Just a Fantasy: A Matter of Survival and Being Truthful
