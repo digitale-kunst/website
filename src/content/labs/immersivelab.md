@@ -2,7 +2,7 @@
 title: Immersive-LAB
 description: Dere
 date: 04/06/2025
-slider: [{image: "./Electronimmersivelab.jpg", caption: ""},]
+slider: [{image: "./immersivelab.jpg", caption: ""},]
 
 ---
 

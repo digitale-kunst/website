@@ -6,7 +6,7 @@ subFolder: "AF2025"
 ---
 
 # SOUND PIECE
-## am walking in a house
+## I am walking in a house
 ## Einführung in Remote Recording
 
 In the work I am sitting in a room (1969) by Alvin Lucier (1931–2021), speech is played and re-recorded in a room
