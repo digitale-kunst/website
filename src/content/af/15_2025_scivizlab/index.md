@@ -2,10 +2,7 @@
 title: "The Big-Bug immersion"
 description: Dere
 date: 05/06/2025
-slider:
-  [
-    { image: "./groteskekrallen.jpg", caption: "" },
-  ]
+
 subFolder: "AF2025"
 ---
 
