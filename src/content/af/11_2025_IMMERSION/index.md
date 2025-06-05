@@ -1,5 +1,5 @@
 ---
-title: "IMMERSION"
+title: "IMMERSION Hybrid Happening "
 description: Dere
 date: 05/06/2025
 slider:
