@@ -1,11 +1,11 @@
 ---
-title: SV-LAB
+title: sciviz-LAB
 description: Dere
 date: 10/12/2024
 slider: [{image: "./svlab.png", caption: ""},]
 ---
 
-# SV-LAB
+# scivizlab-LAB
 
 The Science Visualization Lab at the Department of Digitale Kunst at the University of Applied Arts Vienna
 specializes in making invisible scientific phenomena visible and disseminating this visual information in
@@ -16,7 +16,7 @@ The common understanding of modern scientific research becomes more and more dif
 carried out in size and time ranges we cannot perceive with the unaided eye. The key to understanding is often
 a visualization of these hidden processes.
 
-The SV-LAB is run by Martina Fröschl.
+The scivizlab-LAB is run by Martina Fröschl.
 
 
 
