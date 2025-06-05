@@ -2,7 +2,7 @@
 title: sciviz-LAB
 description: Dere
 date: 10/12/2024
-slider: [{image: "./svlab.png", caption: ""},]
+slider: [ {image: "./svlab.png", caption: ""}, ]
 ---
 
 # scivizlab-LAB
