@@ -15,28 +15,25 @@ It's Just a Fantasy: A Matter of Survival and Being Truthful traces the line bet
 
 Immersive Lab, program everyday from 14:00
 
-## SOUND PIECE
-# I am walking in a house
+## SOUND PIECE I am walking in a house
 
 Digitale Kunst spaces and PSK Kassenhalle
 
-## WORKSHOP
-# Groteske Krallen
+## Groteske Krallen WORKSHOP
 
 Sat June 28, 12:00 (noon)
 Jungle at Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 Max. 10 participants; prior registration required.
 
-## OPEN LECTURE
-# Andy Kassier: Identity as a game
+## Andy Kassier: Identity as a game OPEN LECTURE
+
 
 Thu, June 26, 14:00
 Immersive Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 
 ## COLLABORATIONS:
 
-## SCIENCE VISUALIZATION LAB
-# The Big-Bug immersion (INTRA 2023)
+## SCIENCE VISUALIZATION LAB / The Big-Bug immersion (INTRA 2023)
 
 Science Visualization Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 
