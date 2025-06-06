@@ -4,7 +4,7 @@ description: Dere
 date: 05/06/2025
 slider:
   [
-    { image: "./bigbug.jpg", caption: "" },
+    { image: "./bigbug.jpg", caption: "" }, { image: "./microscan.jpg", caption: "" },
   ]
 subFolder: "AF2025"
 ---
