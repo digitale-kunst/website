@@ -1,5 +1,5 @@
 ---
-title: "OPEN LECTURE Andy Kassier"
+title: "Open Lecture ANDY KASSIER"
 description: Dere
 date: 05/06/2025
 

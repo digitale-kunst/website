@@ -1,5 +1,5 @@
 ---
-title: "Groteske Krallen"
+title: "Workshop GROTESKE KRALLEN"
 description: Dere
 date: 05/06/2025
 slider:
