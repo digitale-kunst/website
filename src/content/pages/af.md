@@ -5,10 +5,10 @@ color: "orange"
 ---
 # Angewandte Festival 2025
 
-## EXHIBITION at Digitale Kunst
+## ∆ EXHIBITION at Digitale Kunst
 # It’s Just a Fantasy: A Matter of Survival and Being Truthful
 
-It's Just a Fantasy: A Matter of Survival and Being Truthful traces the line between survival and truth in a world in crisis mode. Amidst AI agents, robots, and human deception, we search for figures of thought that do not capitulate. Instead of apocalypse and dystopia: glitches, contradictions, desires. The exhibition asks what remains when fantasy is not an escape, but a place where future is negotiated. </br>
+It's Just a Fantasy: A Matter of Survival and Being Truthful traces the line between survival and truth in a world in crisis mode. Amidst AI agents, robots, and human deception, we search for figures of thought that do not capitulate. Instead of apocalypse and dystopia: glitches, contradictions, desires. The exhibition asks what remains when fantasy is not an escape, but a place where future is negotiated. 
 
 ## IMMERSION
 # The Immersive Lab Presents: Hybrid Happening
