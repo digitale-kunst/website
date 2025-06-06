@@ -8,7 +8,7 @@ color: "orange"
 ## EXHIBITION at Digitale Kunst
 # It’s Just a Fantasy: A Matter of Survival and Being Truthful
 
-It's Just a Fantasy: A Matter of Survival and Being Truthful traces the line between survival and truth in a world in crisis mode. Amidst AI agents, robots, and human deception, we search for figures of thought that do not capitulate. Instead of apocalypse and dystopia: glitches, contradictions, desires. The exhibition asks what remains when fantasy is not an escape, but a place where future is negotiated. 
+It's Just a Fantasy: A Matter of Survival and Being Truthful traces the line between survival and truth in a world in crisis mode. Amidst AI agents, robots, and human deception, we search for figures of thought that do not capitulate. Instead of apocalypse and dystopia: glitches, contradictions, desires. The exhibition asks what remains when fantasy is not an escape, but a place where future is negotiated. </br>
 
 ## IMMERSION
 # The Immersive Lab Presents: Hybrid Happening
@@ -19,19 +19,16 @@ Immersive Lab, program everyday from 14:00
 
 Digitale Kunst spaces and PSK Kassenhalle
 
-## Groteske Krallen WORKSHOP
+## GROTESKE KRALLEN Workshop
 
 Sat June 28, 12:00 (noon)
 Jungle at Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 Max. 10 participants; prior registration required.
 
-## Andy Kassier: Identity as a game OPEN LECTURE
-
+## ANDY KASSIER: Identity as a game Open Lecture
 
 Thu, June 26, 14:00
 Immersive Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
-
-## COLLABORATIONS:
 
 ## SCIENCE VISUALIZATION LAB / The Big-Bug immersion (INTRA 2023)
 
