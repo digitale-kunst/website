@@ -2,13 +2,30 @@
 title: Diplomas
 description: ""
 slider: [
-    { image: "./diplomWS24spurny.jpg", caption: "Emanuel Spurny" },
-    { image: "./diplomWS24krische.jpg", caption: "Stefan Krische" },
-    { image: "./diplomWS24zabielska.jpg", caption: "Joanna Zabielska" }
+    { image: "./Guggenbichler.jpg", caption: "Michael Guggenbichler" },
+    { image: "./Pfeifhofer.jpg", caption: "Sebastian Pfeifhofer" },
   ]
 color: "cyan"
 ---
-# Congratulations to our graduates!
+# Diplomas Summer Term 2025
+Two diploma projects are on show at the Digitale Kunst exhibition and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
+
+Sebastian Pfeifhofer<br/> 
+Michael Guggenbichler<br/> 
+
+## Showings
+18.06.2025, 14.00 – 18.00 <br/>
+25.06. – 28.06.2025, 11.00 – 21.00 <br/>
+
+## Locations
+
+### Postsparkasse - GCP, Georg-Coch-Platz 2, 1010 Vienna:
+Sebastian Pfeifhofer: "Created System Cult" // 1st floor, room 123<br/>
+
+### Oskar Kokoschka Platz - OKP, Schwanzertrakt, 1010 Vienna:
+Michael Guggenbichler: "Der Umfang meines Hirns war die Grenze meiner Welt" // 3rd floor, B3<br/>
+
+<!--
 # Diplomas Winter Term 2024
 Three diploma projects are on show at the Digitale Kunst exhibition and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
@@ -28,6 +45,8 @@ Stefan Krische: "Conflict Pattern Recognition" // 1st floor, room 130<br/>
 
 ### Schauraum Angewandte, MQ Schauräume, Museumsplatz 1, 1070 Vienna:
 Joanna Zabielska: "POSTGRANICZE. The Borderland of Echoes and Realities" // Schauraum Angewandte, MuseumsQuartier<br/>
+
+-->
 
 <!--
 # Diplomas Summer Term 2024
