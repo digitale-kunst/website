@@ -3,10 +3,10 @@ title: Diplomas
 description: ""
 slider: [
     { image: "./guggenb.jpg", caption: "Michael Guggenbichler" },
-    { image: "./pfeife.jpg", caption: "Sebastian Pfeifhofer" },
-  ]
+    { image: "./pfeife.jpg", caption: "Sebastian Pfeifhofer" },]
 color: "cyan"
 ---
+
 # Diplomas Summer Term 2025
 Two diploma projects are on show at the Digitale Kunst exhibition and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
