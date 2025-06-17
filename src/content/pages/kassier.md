@@ -1,0 +1,12 @@
+---
+title: ANDY KASSIER
+description: ""
+color: "orange"
+---
+# ANDY KASSIER: Identity as a game
+
+## Open Lecture
+# Thu, June 26th, 2pm, Immersive Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
+
+In a world where the self is staged, filtered, and commercialized, identity appears less as an unchanging truth and more as a kind of performance—a space open to experimentation. In his lecture, artist Andy Kassier explores how digital culture turns the self into a malleable material and how irony, role-play, and deliberate self-staging can be used to both question and reclaim the spectacle of identity.
+
