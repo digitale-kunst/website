@@ -46,9 +46,7 @@ Stefan Krische: "Conflict Pattern Recognition" // 1st floor, room 130<br/>
 ### Schauraum Angewandte, MQ Schauräume, Museumsplatz 1, 1070 Vienna:
 Joanna Zabielska: "POSTGRANICZE. The Borderland of Echoes and Realities" // Schauraum Angewandte, MuseumsQuartier<br/>
 
--->
 
-<!--
 # Diplomas Summer Term 2024
 
 Seven diploma projects are on show at the Digitale Kunst exhibition and as part of the Angewandte Festival / AAA (Angewandte Abschluss Arbeiten).
