@@ -1,7 +1,14 @@
 ---
 title: ANDY KASSIER
 description: ""
-color: "orange"
+slider:
+  [
+    { image: "./kassier1.jpg", caption: "" },
+    { image: "./kassier2.jpg", caption: "" },
+    { image: "./kassier3.jpg", caption: "" },
+    { image: "./kassier4.jpg", caption: "" },
+  ]
+color: "green"
 ---
 # ANDY KASSIER: Identity as a game
 
