@@ -4,7 +4,7 @@ description: Short Description #for meta description only (link verschicken etc.
 date: 16/06/2025 #fuer sortierung
 slider:
   [
-    { image: "./Guggenbichler", caption: "" },
+    { image: "./Guggenbichler.jpg", caption: "" },
   ]
 subFolder: "S2025"
 ---
