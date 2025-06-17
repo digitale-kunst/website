@@ -5,6 +5,8 @@ color: "orange"
 ---
 # Angewandte Festival 2025
 
+![](./its-just-a-fantasy-poster.jpg)
+
 ## EXHIBITION at Digitale Kunst
 # It’s Just a Fantasy: A Matter of Survival and Being Truthful
 
