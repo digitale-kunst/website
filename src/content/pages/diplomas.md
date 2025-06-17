@@ -2,8 +2,8 @@
 title: Diplomas
 description: ""
 slider: [
-    { image: "./Guggenbichler.jpg", caption: "Michael Guggenbichler" },
-    { image: "./Pfeifhofer.jpg", caption: "Sebastian Pfeifhofer" },
+    { image: "./guggenb.jpg", caption: "Michael Guggenbichler" },
+    { image: "./pfeife.jpg", caption: "Sebastian Pfeifhofer" },
   ]
 color: "cyan"
 ---
