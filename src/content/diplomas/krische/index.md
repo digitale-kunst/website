@@ -1,7 +1,7 @@
 ---
 title: Stefan Krische
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
-date: 01/19/2025 #fuer sortierung
+date: 12/12/2024 #fuer sortierung
 slider: [{ image: "./diplomWS24krische.jpg", caption: "©Stefan Krische" }]
 subFolder: "WS2024"
 ---
