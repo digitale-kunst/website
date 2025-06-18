@@ -8,6 +8,9 @@ color: "cyan"
 ---
 
 # Diplomas Summer Term 2025
+
+![](./diplomeS25-poster.jpg)
+
 Two diploma projects are on show at the Digitale Kunst exhibition and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
 Sebastian Pfeifhofer<br/> 
