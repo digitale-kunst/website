@@ -17,7 +17,7 @@ Sebastian Pfeifhofer<br/>
 Michael Guggenbichler<br/> 
 
 ## Showings
-18.06.2025, 14.00 – 18.00 <br/>
+18.06.2025, 14.00 – 16.00 <br/>
 25.06. – 28.06.2025, 11.00 – 21.00 <br/>
 
 ## Locations
