@@ -10,7 +10,7 @@ slider:
   ]
 color: "green"
 ---
-# ANDY KASSIER: Identity as a game
+# ANDY KASSIER: Identity as a playground
 
 ## Open Lecture
 # Thu, June 26th, 2pm, Immersive Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor

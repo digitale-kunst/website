@@ -12,7 +12,7 @@ slider:
 subFolder: "AF2025"
 ---
 
-# ANDY KASSIER: Identity as a game
+# ANDY KASSIER: Identity as a playground
 
 ## Open Lecture
 
