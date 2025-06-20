@@ -27,7 +27,7 @@ Sat June 28, 12:00 (noon)
 Jungle at Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 Max. 10 participants; prior registration required.
 
-## ANDY KASSIER: Identity as a game Open Lecture
+## ANDY KASSIER: Identity as a playground Open Lecture
 
 Thu, June 26, 14:00
 Immersive Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
