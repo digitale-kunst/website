@@ -17,3 +17,5 @@ Based on Erik Satie's Vexations, the 840-fold repetition of a lawn sprinkler's r
 Duration: 2h13m56s
 
 ÆSR Lab with contributions from the Digitale Kunst Department (students of the “Sonic Fiction” seminar with Nicolaj Kirisits) and the ELAK / mdw
+
+Wed, June 25, and Thu, June 26, 6pm, OKP, Courtyard, Oskar-Kokoschka-Platz 1, 1010 Vienna
