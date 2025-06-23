@@ -6,7 +6,7 @@ slider: [ { image: "./flynn.jpg", caption: "Flynn by Malpractice, Memory Fails S
 subFolder: "AF2025"
 ---
 
-# EXHIBITION at Digitale Kunst
+# EXHIBITION at Digitale Kunst OPENING Wed 25/06/25, 6:00pm
 # It’s Just a Fantasy: A Matter of Survival and Being Truthful
 
 ![](./AF25-itsjustafantasy-poster.jpg)
