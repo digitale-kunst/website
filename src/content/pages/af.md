@@ -13,11 +13,11 @@ color: "orange"
 It's Just a Fantasy: A Matter of Survival and Being Truthful traces the line between survival and truth in a world in crisis mode. Amidst AI agents, robots, and human deception, we search for figures of thought that do not capitulate. Instead of apocalypse and dystopia: glitches, contradictions, desires. The exhibition asks what remains when fantasy is not an escape, but a place where future is negotiated. 
 
 ## IMMERSION
-# The Immersive Lab Presents: Hybrid Happening
+# [The Immersive Lab Presents: Hybrid Happening](https://digitalekunst.click/angewandte-festival/AF2025/11_2025_immersion/)
 
 Immersive Lab, program everyday from 14:00
 
-## SOUND PIECE I am walking in a house
+## [SOUND PIECE I am walking in a house](https://digitalekunst.click/angewandte-festival/AF2025/12_2025_sound_piece/)
 
 Digitale Kunst spaces and PSK Kassenhalle
 
@@ -27,12 +27,12 @@ Sat June 28, 12:00 (noon)
 Jungle at Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 Max. 10 participants; prior registration required.
 
-## ANDY KASSIER: Identity as a playground Open Lecture
+## [ANDY KASSIER: Identity as a playground Open Lecture](https://digitalekunst.click/angewandte-festival/AF2025/14_2025_andy_kassier/)
 
 Thu, June 26, 14:00
 Immersive Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 
-## SCIENCE VISUALIZATION LAB / The Big-Bug immersion (INTRA 2023)
+## [SCIENCE VISUALIZATION LAB / The Big-Bug immersion (INTRA 2023)](https://digitalekunst.click/angewandte-festival/AF2025/15_2025_scivizlab/)
 
 Science Visualization Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 
