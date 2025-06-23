@@ -9,7 +9,7 @@ slider:
 subFolder: "AF2025"
 ---
 
-# Groteske Krallen 
+# GROTESKE KRALLEN
 # Workshop
 
 June 28th, 12 noon
