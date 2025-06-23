@@ -36,7 +36,7 @@ Immersive Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 
 Science Visualization Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
 
-## ÆSR Lab / Digitale Kunst / mdw 
+## [ÆSR Lab / Digitale Kunst / mdw](https://digitalekunst.click/angewandte-festival/AF2025/16_2025_asr_lab/)
 Presentations
 
 
