@@ -21,7 +21,7 @@ Immersive Lab, program everyday from 14:00
 
 Digitale Kunst spaces and PSK Kassenhalle
 
-## GROTESKE KRALLEN Workshop
+## [GROTESKE KRALLEN Workshop](https://digitalekunst.click/angewandte-festival/AF2025/13_2025_ws_groteske_krallen/)
 
 Sat June 28, 12:00 (noon)
 Jungle at Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
