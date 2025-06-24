@@ -7,6 +7,7 @@ color: "orange"
 
 ## EXHIBITION at Digitale Kunst OPENING Wed 25/06/25, 6:00 pm
 # It’s Just a Fantasy: A Matter of Survival and Being Truthful
+# [Curatorial Spaces](https://digitalekunst.click/angewandte-festival/AF2025/17_af_curatorial_spaces/)
 
 ![](./AF25-itsjustafantasy-poster.jpg)
 
