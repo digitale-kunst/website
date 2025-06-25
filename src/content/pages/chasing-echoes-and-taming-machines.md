@@ -17,9 +17,8 @@ color: "purple"
 
 ![](./chasing-echoes-poster-2.jpg)
 
-## Videoscreenings »Fever Dreams« / »Chasing Echoes and Taming Machines« 
+## Videoscreenings »Fever Dreams« / »Chasing Echoes and Taming Machines« [Lecture Tina Kult] Immersive Lab
 
-## [Lecture Tina Kult] Immersive Lab
 25.06.2025 14.00  <br/>26.06.2025 11.00<br/>27.06.2025 11.00<br/>28.06.2025 11.00
 
 Wenn alles optimiert wird, was bleibt unberührt? Wenn alles durch einen Filter läuft, was ist dann noch real? Wer kontrolliert wen? Und wem gehört die Erinnerung? In _Chasing Echoes and Taming Machines_ bewegen sich die Arbeiten zwischen starren Strukturen, widerständigen Algorithmen und flüchtigen Traumwelten. <br/>
