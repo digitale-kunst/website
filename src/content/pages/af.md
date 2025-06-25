@@ -16,7 +16,10 @@ It's Just a Fantasy: A Matter of Survival and Being Truthful traces the line bet
 ## [IMMERSION](https://digitalekunst.click/angewandte-festival/AF2025/11_2025_immersion/)
 # The Immersive Lab Presents: Hybrid Happening
 
-Immersive Lab, program everyday from 14:00
+# Videoscreenings »Fever Dreams« / »Chasing Echoes and Taming Machines« [Lecture Tina Kult] Immersive Lab
+
+Immersive Lab, program everyday from 11:00 -14:00
+
 
 ## [SOUND PIECE I am walking in a house](https://digitalekunst.click/angewandte-festival/AF2025/12_2025_sound_piece/)
 
