@@ -15,7 +15,7 @@ slider:
 color: "purple"
 ---
 
-![](./chasing-echoes-poster-2.jpg)
+![](./chasing-echoes-poster-3.jpg)
 
 ## Videoscreenings »Fever Dreams« / »Chasing Echoes and Taming Machines« [Lecture Tina Kult] Immersive Lab
 
