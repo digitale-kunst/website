@@ -29,7 +29,7 @@ Digitale Kunst spaces and PSK Kassenhalle
 
 Sat June 28, 12:00 (noon)
 Jungle at Digitale Kunst, Georg-Coch-Platz 2, 1 Floor
-Max. 10 participants; prior registration required.
+Max. 10 participants; prior registration required: digitalekunst@uni-ak.ac.at
 
 ## [ANDY KASSIER: Identity as a playground Open Lecture](https://digitalekunst.click/angewandte-festival/AF2025/14_2025_andy_kassier/)
 
