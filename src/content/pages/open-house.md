@@ -3,10 +3,7 @@ title: Open House
 description: ""
 slider:
   [
-    { image: "./DK_OH25_1.jpg", caption: "" },
-    { image: "./DK_OH25_2.jpg", caption: "" },
-    { image: "./DK_OH25_3.jpg", caption: "" },
-    { image: "./DK_OH25_4.jpg", caption: "" },
+    { image: "", caption: "" },
   ]
 color: "purple"
 ---
@@ -39,6 +36,7 @@ Laboratory for the unknown – DK/Research: Open Labs
 Come and explore our Labs, Tea-Time and Snacks with our students
 
 ## From 10:00. See you there, bis dann, nos vemos, vidimo se!
+
 <!--
 ## Open House 2024</br>05.11.2024
 
