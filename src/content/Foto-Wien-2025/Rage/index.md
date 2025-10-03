@@ -11,8 +11,3 @@ slider:
 
 ### [Rage]
 
-Titel <br/>
-
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Rage  is a ......

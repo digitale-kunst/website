@@ -11,8 +11,3 @@ slider:
 
 ### [Anahi Juárez]
 
-Titel <br/>
-
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Anahi Juárez is a ......

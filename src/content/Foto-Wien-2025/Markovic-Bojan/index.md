@@ -11,8 +11,3 @@ slider:
 
 ### [Bojan Markovic]
 
-Titel <br/>
-
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Bojan Markovic  is a ......

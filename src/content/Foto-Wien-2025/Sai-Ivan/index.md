@@ -11,8 +11,3 @@ slider:
 
 ### [Ivan Sai]
 
-Titel <br/>
-
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Ivan Sai is a ......

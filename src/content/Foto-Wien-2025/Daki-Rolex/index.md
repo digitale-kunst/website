@@ -11,8 +11,4 @@ slider:
 
 ### [Daki Rolex]
 
-Titel <br/>
 
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Daki Rolex is a ......

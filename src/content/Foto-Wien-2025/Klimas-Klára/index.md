@@ -11,8 +11,3 @@ slider:
 
 ### [Klára Klimas ]
 
-Titel <br/>
-
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Klára Klimas  is a ......

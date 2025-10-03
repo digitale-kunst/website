@@ -11,8 +11,4 @@ slider:
 
 ### [Ulrike Fritzsche]
 
-Titel <br/>
 
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Ulrike Fritzsche is a ......

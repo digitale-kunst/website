@@ -11,8 +11,4 @@ slider:
 
 ### [Flynn]
 
-Titel <br/>
 
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Flynn is a ......

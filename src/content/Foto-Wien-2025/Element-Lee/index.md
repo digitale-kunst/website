@@ -11,8 +11,4 @@ slider:
 
 ### [Element Lee]
 
-Titel <br/>
 
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Element Lee Rolex is a ......

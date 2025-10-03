@@ -11,8 +11,4 @@ slider:
 
 ### [Zita Kayser]
 
-Titel <br/>
 
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Zita Kayser is a ......

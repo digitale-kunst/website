@@ -11,9 +11,3 @@ slider:
 
 ### [Matthias Sanoll und Lea Gander]
 
-Titel <br/>
-
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Matthias Sanoll is a ......
-Lea Gander is a ......

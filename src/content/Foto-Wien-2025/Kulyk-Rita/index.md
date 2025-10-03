@@ -11,8 +11,3 @@ slider:
 
 ### [Rita Kulyk]
 
-Titel <br/>
-
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Rita Kulyk  is a ......

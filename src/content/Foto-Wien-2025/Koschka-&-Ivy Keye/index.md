@@ -11,8 +11,3 @@ slider:
 
 ### [Koschka Keye]
 
-Titel <br/>
-
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Koschka Keye  is a ......

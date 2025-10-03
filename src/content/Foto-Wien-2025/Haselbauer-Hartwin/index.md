@@ -11,8 +11,3 @@ slider:
 
 ### [Hartwin Haselbauer]
 
-Titel <br/>
-
-TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText
-
-Hartwin Haselbauer is a ......
