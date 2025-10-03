@@ -2,6 +2,9 @@
 title: Open House
 description: ""
 color: "purple"
+slider: [
+    { image: "./DK_OH25_1.jpg", caption: "" },
+    ]
 ---
 
 ## Open House 2025</br>04.11.2025
