@@ -1,10 +1,6 @@
 ---
 title: Open House
 description: ""
-slider:
-  [
-    { image: "", caption: "" },
-  ]
 color: "purple"
 ---
 
