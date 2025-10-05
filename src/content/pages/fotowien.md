@@ -20,7 +20,7 @@ color: "purple"
 11–18 Uhr<br/>Fr
 11–18 Uhr
 
-„Algorithmic Vertigo“ ist Ausstellung und Hypothese. Spekulatives Storytelling wird zum Werkzeug, um Gegenwart neu zu gestalten, indem mögliche Zukünfte gedacht werden. Wir verhandeln Spannungen zwischen Kontrolle und Freiheit in einer Welt ubiquitärer digitaler Vermittlung. Wir erkennen die Erschöpfung. Wir nehmen zur Kenntnis, dass sich das Verhältnis zwischen Realität und der imaginierten Zukunft verändert. Wir prompten uns zu neuen Wegen des Erlebens (digitaler) Existenz. Neue Vorstellungen dazu, was als Wahrheit bezeichnet werden könnte, entstehen.<br>
+„Algorithmic Vertigo“ ist Ausstellung und Hypothese. Spekulatives Storytelling wird zum Werkzeug, um Gegenwart neu zu gestalten, indem mögliche Zukünfte gedacht werden. Wir verhandeln Spannungen zwischen Kontrolle und Freiheit in einer Welt ubiquitärer digitaler Vermittlung. Wir erkennen die Erschöpfung. Wir nehmen zur Kenntnis, dass sich das Verhältnis zwischen Realität und der imaginierten Zukunft verändert. Wir prompten uns zu neuen Wegen des Erlebens (digitaler) Existenz. Neue Vorstellungen dazu, was als Wahrheit bezeichnet werden könnte, entstehen.<br/>
 
 Die gezeigten Arbeiten von Studierenden der Digitalen Kunst stehen für Ansätze unserer aktuellen künstlerischen Forschung in experimentellen Lehrumgebungen. Sie wurden für die Foto Wien produziert oder adaptiert und reflektieren kritisch die Bedingungen des Post-Digitalen und dessen bildliche Repräsentationen.<br/>
 
