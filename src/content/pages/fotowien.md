@@ -3,8 +3,7 @@ title: "Foto Wien 2025"
 description: ""
 slider:
   [
-    { image: "./fotowien_plakat.jpg", caption: "" },
-   
+    { image: "./fotowien_plakat.jpg", caption: "" }, 
   ]
 color: "purple"
 ---
