@@ -4,7 +4,7 @@ import Container from "@layouts/Container.astro";
 import { getEntry, getCollection, type CollectionEntry } from "astro:content";
 
 export async function getStaticPaths() {
-  const collection = await getCollection("Foto-Wien-2025");
+  const collection = await getCollection("fotowien");
   const uniqueSubFolders = [
     ...new Set(
       collection
@@ -17,10 +17,10 @@ export async function getStaticPaths() {
     params: { subFolder },
   }));
 }
-const collection = await getCollection("Foto-Wien-2025");
-const indexPage = await getEntry("pages", "Foto-Wien-2025");
+const collection = await getCollection("fotowien");
+const indexPage = await getEntry("pages", "fotowien");
 interface Group {
-  [season: string]: CollectionEntry<"Foto-Wien-2025">[];
+  [season: string]: CollectionEntry<"fotowien">[];
 }
 const groupedBySubFolder: Group = collection.reduce((acc, item) => {
   const key = item.data.subFolder ? item.data.subFolder : "";
@@ -46,7 +46,7 @@ const { Content } = await indexPage.render();
           subFolder &&
             groupedBySubFolder[subFolder].map((d: any) => (
               <a
-                href={`/Foto-Wien-2025/${d.data.subFolder ? d.data.subFolder + "/" : ""}${d.slug}`}
+                href={`/fotowien/${d.data.subFolder ? d.data.subFolder + "/" : ""}${d.slug}`}
                 class="no-underline "
               >
                 <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">

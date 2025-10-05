@@ -3,11 +3,11 @@ import Layout from "@layouts/Layout.astro";
 import Container from "@layouts/Container.astro";
 import { getCollection, getEntry, getEntries } from "astro:content";
 
-const indexPage = await getEntry("pages", "Foto-Wien-2025"); // <- HAS TO BE CHANGED TO
+const indexPage = await getEntry("pages", "fotowien"); // <- HAS TO BE CHANGED TO
 const { title, description, color } = indexPage.data;
 
 export async function getStaticPaths() {
-  const collection = await getCollection("Foto-Wien-2025"); // <- HAS TO BE CHANGED TO
+  const collection = await getCollection("fotowien"); // <- HAS TO BE CHANGED TO
   return collection.map((entry) => ({
     params: { slug: entry.slug, subFolder: entry.data.subFolder },
     props: { entry },
