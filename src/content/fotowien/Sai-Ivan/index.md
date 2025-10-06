@@ -4,7 +4,7 @@ description: ""
 date: 10/05/2025
 slider:
   [
-    { image: "./ivan_1.jpg", caption: "" },
+    { image: "./Ivan_1.jpg", caption: "" },
   ]
 ---
 
