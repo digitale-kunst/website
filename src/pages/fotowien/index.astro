@@ -32,10 +32,7 @@ const showlineBreak =
       <ul class="p-0 m-0 inline">
         {
           uniqueSubFolders.map((entry, i) => (
-            <a
-              href={`/fotowien/${entry}`}
-              class="no-underline "
-            >
+            <a href={`/fotowien/${entry}`} class="no-underline ">
               <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
                 {entry}
               </li>
@@ -52,10 +49,7 @@ const showlineBreak =
         }
         {
           entriesWithNoSubFolder.map((d, i) => (
-            <a
-              href={`/fotowien/${d.slug}`}
-              class="no-underline "
-            >
+            <a href={`/fotowien/${d.slug}`} class="no-underline ">
               <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
                 {d.data.title}
               </li>
