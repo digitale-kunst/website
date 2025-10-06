@@ -3,12 +3,12 @@ title: "Foto Wien 2025"
 description: ""
 slider:
   [
-    { image: "./fotowien_plakat.jpg", caption: "" }, 
+    { image: "./fotowien-plakat.jpg", caption: "" }, 
   ]
 color: "purple"
 ---
 
-![](./fotowien_plakat.jpg)
+![](./fotowien-plakat.jpg)
 
 ## ALGORITHMIC VERTIGO. DISRUPTION AND UNBOUNDING IN THE POST-DIGITAL ERA
 ## DIE ANGEWANDTE / DIGITALE KUNST / UBERMORGEN AIL Kassenhalle, Alte Postsparkasse, Georg-Coch-Platz 2, 1010 Wien FREIER EINTRITT BARRIEREFREI
