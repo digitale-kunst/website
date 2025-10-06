@@ -2,6 +2,23 @@
 title: Open House
 description: ""
 color: "purple"
+slider:
+  [
+    { image: "./OH25-fotowien-anahi.jpg", caption: "" },
+    { image: "./OH25-fotowien-bojan.jpg", caption: "" },
+    { image: "./OH25-fotowien-daki.jpg", caption: "" },
+    { image: "./OH25-fotowien-element.jpg", caption: "" },
+    { image: "./OH25-fotowien-flynn.jpg", caption: "" },
+    { image: "./OH25-fotowien-hartwin.jpg", caption: "" },
+    { image: "./OH25-fotowien-Ivan.jpg", caption: "" },
+    { image: "./OH25-fotowien-klara.jpg", caption: "" },
+    { image: "./OH25-fotowien-koschka.jpg", caption: "" },
+    { image: "./OH25-fotowien-mattundlea.jpg", caption: "" },
+    { image: "./OH25-fotowien-rage.jpg", caption: "" },
+    { image: "./OH25-fotowien-rita.jpg", caption: "" },
+    { image: "./OH25-fotowien-ulrike.jpg", caption: "" },
+    { image: "./OH25-fotowien-zita.jpg", caption: "" },
+  ]
 
 ---
 
