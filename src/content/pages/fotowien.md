@@ -1,10 +1,6 @@
 ---
 title: "Foto Wien 2025"
 description: ""
-slider:
-  [
-    { image: "./fotowien-plakat.jpg", caption: "" }, 
-  ]
 color: "purple"
 ---
 
