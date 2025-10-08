@@ -33,7 +33,8 @@ Wir führen durch die Klasse und geben euch Einblicke in unsere Labs, ihr könnt
 Programme
 
 11:00 a.m. - 6:00 p.m.  
-Exhibition ALGORITHMIC VERTIGO. DISRUPTION AND UNBOUNDING IN THE POST-DIGITAL ERA, PSK Kassenhalle, Georg-Coch-Platz 2, 1010 Vienna
+Ausstellung FOTO WIEN
+Algorithmic Vertigo. Disruption and Unbounding in the Post-Digital Era, PSK Kassenhalle, Georg-Coch-Platz 2, 1010 Vienna
 https://fotowien.at/ausstellung/algorithmic-vertigo-disruption-and-unbounding-in-the-post-digital-era-foto-wien-2025/
 
 2:00 p.m. - 4:00 p.m. 
