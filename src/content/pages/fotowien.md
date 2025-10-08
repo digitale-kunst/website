@@ -9,12 +9,8 @@ color: "purple"
 ## ALGORITHMIC VERTIGO. DISRUPTION AND UNBOUNDING IN THE POST-DIGITAL ERA
 ## DIE ANGEWANDTE / DIGITALE KUNST / UBERMORGEN AIL Kassenhalle, Alte Postsparkasse, Georg-Coch-Platz 2, 1010 Wien FREIER EINTRITT BARRIEREFREI
 
-27.10.—4.11.2025  <br/>Mo
-11–18 Uhr<br/>Di
-11–18 Uhr<br/>Mi
-11–18 Uhr<br/>Do
-11–18 Uhr<br/>Fr
-11–18 Uhr
+27.10.—4.11.2025  <br/>Öffnungszeiten<br/>Mo - Fr
+9:00–17:30 Uhr<br/>Sa 10:30-17:00
 
 „Algorithmic Vertigo“ ist Ausstellung und Hypothese. Spekulatives Storytelling wird zum Werkzeug, um Gegenwart neu zu gestalten, indem mögliche Zukünfte gedacht werden. Wir verhandeln Spannungen zwischen Kontrolle und Freiheit in einer Welt ubiquitärer digitaler Vermittlung. Wir erkennen die Erschöpfung. Wir nehmen zur Kenntnis, dass sich das Verhältnis zwischen Realität und der imaginierten Zukunft verändert. Wir prompten uns zu neuen Wegen des Erlebens (digitaler) Existenz. Neue Vorstellungen dazu, was als Wahrheit bezeichnet werden könnte, entstehen.<br/>
 
