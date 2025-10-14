@@ -6,22 +6,29 @@ color: "purple"
 
 ![](./fotowien-plakat.jpg)
 
-## Ausstellung FOTO WIEN
-Algorithmic Vertigo. 
-Disruption and Unbounding in the Post-Digital Era
-## Die Angewandte / Digitale Kunst / UBERMORGEN 
+## Algorithmic Vertigo
+## A contribution to FOTO WIEN 2025: dynamic futures
 
-Alte Postsparkasse, Georg-Coch-Platz 2, 1010 Wien freier Eintritt barrierefrei
+27.10.—4.11.2025  <br/>
 
-27.10.—4.11.2025  <br/>Öffnungszeiten<br/>Mo - Fr
-9:00–17:30 Uhr<br/>Sa 10:30-17:00
+University of Applied Arts Vienna<br/>
+AIL Kassenhalle<br/>
+Otto Wagner Postsparkasse<br/>
+Georg-Coch-Platz 2<br/>
+1010 Vienna<br/><br/>
 
-„Algorithmic Vertigo“ ist Ausstellung und Hypothese. Spekulatives Storytelling wird zum Werkzeug, um Gegenwart neu zu gestalten, indem mögliche Zukünfte gedacht werden. Wir verhandeln Spannungen zwischen Kontrolle und Freiheit in einer Welt ubiquitärer digitaler Vermittlung. Wir erkennen die Erschöpfung. Wir nehmen zur Kenntnis, dass sich das Verhältnis zwischen Realität und der imaginierten Zukunft verändert. Wir prompten uns zu neuen Wegen des Erlebens (digitaler) Existenz. Neue Vorstellungen dazu, was als Wahrheit bezeichnet werden könnte, entstehen.<br/>
+Opening: 27.10.2025, 15:30<br/>
+Opening hours: Mon–Fri 9:00–17:30, Sat 10:30–17:00<br/>
 
-Die gezeigten Arbeiten von Studierenden der Digitalen Kunst stehen für Ansätze unserer aktuellen künstlerischen Forschung in experimentellen Lehrumgebungen. Sie wurden für die Foto Wien produziert oder adaptiert und reflektieren kritisch die Bedingungen des Post-Digitalen und dessen bildliche Repräsentationen.<br/>
+Algorithmic Vertigo is an exhibition that operates as an assumption. Speculative storytelling becomes a tool for remoulding the present by imagining possible futures. We address tensions between control and freedom in a world of pervasive digital mediation. We see the fatigue. We acknowledge that the relationship between reality and the imagined future is shifting, we prompt ourselves towards new ways of experiencing (digital) existence. New conceptions of what might be called truth are emerging.<br/>
+ 
+The shown pieces are rooted in current artistic research within experiment-driven learning environments. They are produced or adapted for the occasion and critically reflect on the conditions of the post-digital and its pictorial representations.<br/>
+ 
+The exhibition unfolds within PSK´s Großer Kassensaal. The works are situated in architectural interstices, at thresholds and non-places, fragmentary and resistant to the routines of viewing. They appear as ephemeral tactical gestures, micronarratives within a site shaped by representation.<br/>
 
-Die Ausstellung bespielt die Kassenhalle in Otto Wagners PSK. Die Beiträge positionieren sich in architektonischen Zwischenräumen, an Schwellen und Nicht-Orten, fragmentarisch und sich den Routinen des Betrachtens entziehend. Sie sind ephemere taktische Setzungen, Mikronarrative am von Repräsentation geprägten Ort.<br/>
+Algorithmic Vertigo features works by students of the Digital Arts Department and is part of the biennial festival FOTO WIEN, which runs from October 3 to November 2, 2025, under the main theme dynamic futures. A postcard edition will be launched in cooperation with AIL.<br/>
 
-KURATOR:IN: Bernhard Faiss, Patricia Köstring
+## digitalekunst.ac.at
+## fotowien.at
 
-Mit Arbeiten von:
+ Participating artists:
