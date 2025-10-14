@@ -12,9 +12,8 @@ slider:
 ### Matthias Sanoll & Lea Gander
 
 Liminal Nexus<br/>
-
 Photoseries & Videoinstallation,
-Portugal, 2025<br/><br/>
+Portugal, 2025<br/>
 
 It is as real as we make it.<br/>
 Here we stand in the Liminal Nexus, on the threshold between ending and beginning.<br/>

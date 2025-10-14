@@ -9,6 +9,9 @@ slider:
 ---
 
 
-### [Ulrike Fritzsche]
+### Ulrike Fritzsche
 
+Nymph nostalgia<br/>
 
+Aschenbrecher embraces their speculative digital persona, a magical nymph caught in the liminal space between model collapse and reality. These images are manifestations of a desire to transcend the post digital condition, weaving nostalgia, dreaminess, and myth into vision of self.
+The nymph becomes a vessel for reimagining identity beyond binaries of nature and technology, illusion and authenticity.@dieaschenbrecher
