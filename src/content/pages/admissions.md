@@ -33,7 +33,7 @@ Make sure that all uploaded files are labeled with your full name!<br/><br/>
 4 <br/>final interview<br/><br/>
 
 ## Dates 
-08 January 2026 – 22 January 2022, 1pm sharp (CET)<br/>
+08 January 2026 – 22 January 2026, 1pm sharp (CET)<br/>
 Online registration and portfolio upload: https://application.uni-ak.ac.at<br/>
 
 02 March 2026 – 06 March 2026<br/>
