@@ -28,7 +28,8 @@ The exhibition unfolds within PSK´s Großer Kassensaal. The works are situated 
 
 Algorithmic Vertigo features works by students of the Digital Arts Department and is part of the biennial festival FOTO WIEN, which runs from October 3 to November 2, 2025, under the main theme dynamic futures. A postcard edition will be launched in cooperation with AIL.<br/>
 
-- [digitalekunst.ac.at](https://digitalekunst.click)
+KuratorInnen: Patricia Köstring und Bernhard Faiss
+
 - [fotowien.at](https://fotowien.at)
 
 
