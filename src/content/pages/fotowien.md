@@ -30,7 +30,7 @@ Algorithmic Vertigo features works by students of the Digital Arts Department an
 
 KuratorInnen: Patricia Köstring und Bernhard Faiss
 
-- [fotowien.at](https://fotowien.at)
+## fotowien.at
 
 
  Participating artists:
