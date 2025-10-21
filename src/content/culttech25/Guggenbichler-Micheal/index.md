@@ -1,7 +1,7 @@
 ---
 title: "Michael Guggenbichler"
 description: "Der Umfang meines Hirns war die Grenze meiner Welt"
-date: 10/20/2025
+date: 04/15/2025
 slider:
   [
     { image: "./Guggenbichler-Michael.png", caption: "©Jorit Aust" },

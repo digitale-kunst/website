@@ -1,7 +1,7 @@
 ---
 title: "Aeon Gawa (Hartwin Haselbauer)"
 description: "Survivalism through Replication"
-date: 10/20/2025
+date: 04/15/2025
 slider:
   [
     { image: "./Aeon-Gawa.png", caption: "on the lookout" },
@@ -11,7 +11,6 @@ slider:
 ### Aeon Gawa [Hartwin Haselbauer] haselwin@gmail.com 
 
 Survivalism through Replication <br/>
-
 
 Short<br/>
 

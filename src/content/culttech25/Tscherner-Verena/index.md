@@ -1,7 +1,7 @@
 ---
 title: "Verena Tscherner"
 description: "nie game over"
-date: 10/20/2025
+date: 04/15/2025
 slider:
   [
     { image: "./Tscherner-Verena.png", caption: "©JoannaPianka" },

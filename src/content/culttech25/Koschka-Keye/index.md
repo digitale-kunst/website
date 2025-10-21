@@ -1,7 +1,7 @@
 ---
 title: "Koschka Keye "
 description: "#IVYCORE"
-date: 10/20/2025
+date: 04/15/2025
 slider:
   [
     { image: "./Koschka-Keye.png", caption: "" },

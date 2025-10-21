@@ -1,7 +1,7 @@
 ---
 title: "Klára Klimas"
 description: "A Bird That Mistook a Street Lamp for the Sun, 2025"
-date: 10/20/2025
+date: 04/15/2025
 slider:
   [
     { image: "./Klimas-Klara.png", caption: "" },

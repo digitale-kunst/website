@@ -1,7 +1,7 @@
 ---
 title: "Anahí Juárez"
 description: "Geisterjagd"
-date: 10/20/2025
+date: 04/15/2025
 slider:
   [
     { image: "./Juarez-Suarez-Anahi.png", caption: "" },

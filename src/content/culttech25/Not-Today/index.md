@@ -1,7 +1,7 @@
 ---
 title: "NotToday"
 description: "BitRot"
-date: 10/20/2025
+date: 04/15/2025
 slider:
   [
     { image: "./Martinez-Bonnet.png", caption: "" },

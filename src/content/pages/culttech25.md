@@ -1,5 +1,5 @@
 ---
-title: "Angewandte Digital Arts Showcase "
+title: "culttech25"
 description: ""
 slider:
   [
