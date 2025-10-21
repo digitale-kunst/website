@@ -1,5 +1,5 @@
 ---
-title: "NotToday"
+title: "NotToday (Sara Martínez and Nicolás Henao-Bonnet)"
 description: "BitRot"
 date: 04/15/2025
 slider:
