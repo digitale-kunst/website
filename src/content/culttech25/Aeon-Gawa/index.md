@@ -8,6 +8,7 @@ slider:
   ]
 ---
 
+## Angewandte Digital Arts Showcase 
 ### Aeon Gawa [Hartwin Haselbauer] haselwin@gmail.com 
 
 Survivalism through Replication <br/>
