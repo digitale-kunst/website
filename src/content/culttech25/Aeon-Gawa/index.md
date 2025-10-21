@@ -11,9 +11,7 @@ slider:
 ## CultTech Summit - Angewandte Digital Arts Showcase 
 ### Aeon Gawa [Hartwin Haselbauer]  
 
-"Survivalism through Replication" 
-
-Short<br/>
+"Survivalism through Replication" <br/>
 
 “ The absurd act of self-replication—printers having sex. <br/>
 
