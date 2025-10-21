@@ -106,5 +106,6 @@ export const collections = {
   students: projects,
   "chasing-echoes-and-taming-machines": projects,
   fotowien: projects,
+  culttech25: projects,
   pages: pages,
 };
