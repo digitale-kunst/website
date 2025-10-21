@@ -16,7 +16,7 @@ color: "purple"
 
 ## Angewandte Digital Arts Showcase 
 
-Curated by Luzius Bernhard & Liz Haas<br/>
+Curated by UBERMORGEN/Luzius Bernhard & Liz Haas<br/>
 
 A collaboration between the CultTech Summit and the Digital Arts Department of the University of Applied Arts Vienna (Angewandte)<br/>
 
