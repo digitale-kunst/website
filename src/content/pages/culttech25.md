@@ -1,5 +1,5 @@
 ---
-title: "Angewandte Digital Arts Showcase "
+title: "CultTech Summit"
 description: ""
 slider:
   [
@@ -14,6 +14,7 @@ slider:
 color: "purple"
 ---
 
+## Research and Educational Advances in Culture and Technology (REACT 2025)
 ## Angewandte Digital Arts Showcase 
 
 Curated by UBERMORGEN/Luzius Bernhard & Liz Haas<br/>
