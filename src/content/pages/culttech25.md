@@ -1,6 +1,6 @@
 ---
 title: "Angewandte Digital Arts Showcase "
-description: "Culttech Summit 2025"
+description: ""
 slider:
   [
     { image: "./culttech25-Aeon-Gawa.png", caption: "" },
