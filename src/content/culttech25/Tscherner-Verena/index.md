@@ -7,8 +7,8 @@ slider:
     { image: "./Tscherner-Verena.png", caption: "©JoannaPianka" },
   ]
 ---
-
-### Verena Tscherner, studio@verenatscherner.com 
+## CultTech Summit - Angewandte Digital Arts Showcase 
+### Verena Tscherner
 
 nie game over<br/>
 Deflateable, Readymades, Electronics
@@ -23,4 +23,5 @@ intense rhythm. It aims to make visible — and address — the sense of arbitra
 feeling of sometimes being at the mercy of it all. Frustration tolerance and resilience are required
 — and demanded anew every single day.
 
-<br/>
+
+## studio@verenatscherner.com 

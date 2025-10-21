@@ -7,8 +7,8 @@ slider:
     { image: "./Klimas-Klara.png", caption: "" },
   ]
 ---
-
-### Klára Klimas, klimasovaklara@gmail.com 
+## CultTech Summit - Angewandte Digital Arts Showcase 
+### Klára Klimas 
 
 A Bird That Mistook a Street Lamp for the Sun, 2025 <br/>
 
@@ -22,5 +22,7 @@ Dust to dust, welcome to the world without us.<br/>
 Are you obsessed with beginnings?<br/>
 Yes × yes.
 <br/>
+
+## klimasovaklara@gmail.com
 
 
