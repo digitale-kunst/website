@@ -14,7 +14,7 @@ slider:
 color: "primary"
 ---
 
-## Research and Educational Advances in Culture and Technology (REACT 2025)
+## CultTech Summit - Research and Educational Advances in Culture and Technology (REACT 2025)
 ## Angewandte Digital Arts Showcase 
 
 Curated by UBERMORGEN/Luzius Bernhard & Liz Haas
