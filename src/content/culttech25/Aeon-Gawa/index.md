@@ -8,10 +8,10 @@ slider:
   ]
 ---
 
-## Angewandte Digital Arts Showcase 
+## CultTech Summit - Angewandte Digital Arts Showcase 
 ### Aeon Gawa [Hartwin Haselbauer]  
 
-### Survivalism through Replication 
+"Survivalism through Replication" 
 
 Short<br/>
 
