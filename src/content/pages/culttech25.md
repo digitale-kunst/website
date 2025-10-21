@@ -11,7 +11,7 @@ slider:
     { image: "./culttech25-Martinez-Bonnet.png", caption: "" },
     { image: "./culttech25-Tscherner-Verena.png", caption: "" },
   ]
-color: "yellow"
+color: "primary"
 ---
 
 ## Research and Educational Advances in Culture and Technology (REACT 2025)
