@@ -9,9 +9,9 @@ slider:
 ---
 
 ## Angewandte Digital Arts Showcase 
-### Aeon Gawa [Hartwin Haselbauer] haselwin@gmail.com 
+### Aeon Gawa [Hartwin Haselbauer]  
 
-Survivalism through Replication <br/>
+### Survivalism through Replication 
 
 Short<br/>
 
@@ -35,4 +35,6 @@ Seen as one whole object the work reminds of organs of a stem cell, copy and rep
 The absurd act of self-replication—printers having sex. If you will—the work satirizes the heated discourse of machine learning, maintaining privacy, data generation or generate incorrectly, self degradation and loss of diversity. <br/>
 
 Responding to Denton et al.’s critique of dataset genealogy and the ethical discourse around fairness, transparency, and consent, the project imagines a speculative method of data collection that is hyper-local, consensual, and organically inspired. (On the Genealogy of Machine Learning Datasets, 2021, p.9)
+
+## haselwin@gmail.com
 
