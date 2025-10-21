@@ -1,0 +1,63 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Container from "@layouts/Container.astro";
+import { getEntry, getCollection, type CollectionEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const collection = await getCollection("culttech25"); // <- HAS TO BE CHANGED TO
+  const uniqueSubFolders = [
+    ...new Set(
+      collection
+        .map((entry) => entry.data.subFolder)
+        .filter((subFolder) => subFolder !== undefined)
+    ),
+  ];
+  return uniqueSubFolders.map((subFolder) => ({
+    params: { subFolder },
+  }));
+}
+const collection = await getCollection("culttech25"); // <- HAS TO BE CHANGED TO
+const indexPage = await getEntry("pages", "culttech25"); // <- HAS TO BE CHANGED TO
+
+interface Group {
+  [season: string]: CollectionEntry<"culttech25">[]; // <- HAS TO BE CHANGED TO
+}
+const groupedBySubFolder: Group = collection.reduce((acc, item) => {
+  const key = item.data.subFolder ? item.data.subFolder : "";
+
+  if (!acc[key]) {
+    acc[key] = [];
+  }
+  acc[key].push(item);
+  return acc;
+}, {} as Group);
+const { title, description, color } = indexPage.data;
+const subFolder = Astro.params.subFolder;
+const { Content } = await indexPage.render();
+---
+
+<Layout {title} {description} {color}>
+  <div
+    class="flex flex-col items-center justify-center text-yellow prose-headings:text-orange prose-a:text-orange"
+  >
+    <Container>
+      <ul class="p-0 m-0 inline">
+        { subFolder &&
+          groupedBySubFolder[subFolder].map((d, i) => (
+            <a
+              href={`/culttech25/${d.data.subFolder ? d.data.subFolder + "/" : ""}${d.slug}`} // <- HAS TO BE CHANGED TO
+              class="no-underline "
+            >
+              <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
+                {d.data.title}
+              </li>
+            </a>
+          ))
+        }
+      </ul>
+      <br />
+      <br />
+      <Content />
+    </Container>
+  </div>
+</Layout>
