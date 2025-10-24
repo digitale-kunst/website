@@ -4,7 +4,7 @@ episode: 1
 season: 1
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 10/12/2024 #fuer sortierung
-slider: [{image: "./S1E1_theFutileCorporation.jpg", caption: "Futile Corporation"},{image: "./S1E1_theFutileCorporation1.jpg",caption: "Futile Corporation"},{image: "./S1E1_thefutileCorporation2.jpg",caption: "Futile Corporation"},{image: "./S1E1DavidObradović03.jpg",caption: "Futile Corporation"},{image: "./S1E1DavidObradović06.jpg",caption: "Futile Corporation"},{image: "./S1E1DavidObradović07.jpg",caption: "Futile Corporation"},]
+slider: [{image: "./S1E1_theFutileCorporation.jpg", caption: "Futile Corporation"},{image: "./S1E1_theFutileCorporation1.jpg",caption: "Futile Corporation"},{image: "./S1E1_thefutileCorporation2.jpg",caption: "Futile Corporation"},{image: "./S1E1DavidObradović03.jpg",caption: "David Obradovic"},{image: "./S1E1DavidObradović06.jpg",caption: "David Obradovic"},{image: "./S1E1DavidObradović07.jpg",caption: "David Obradovic"},]
 ---
 
 # S1E1: Unendliches Schreiben
