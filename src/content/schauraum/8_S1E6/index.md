@@ -4,7 +4,7 @@ episode: 6
 season: 1
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
 date: 10/12/2024 #fuer sortierung
-slider: [{image: "./S1E6_1©LamflGroup.jpg", caption: "LAMFL"}, {image: "./S1E6_2©LamflGroup.jpg", caption: "LAMFL"}, {image: "./S1E6_3©LamflGroup.jpg", caption: "LAMFL"}, {image: "./S1E6_4©LamflGroup.jpg", caption: "LAMFL"}, {image: "./S1E6_5©LamflGroup.jpg", caption: "LAMFL"},]
+slider: [{image: "./S1E6_1©LamflGroup.jpg", caption: ""}, {image: "./S1E6_2©LamflGroup.jpg", caption: ""}, {image: "./S1E6_3©LamflGroup.jpg", caption: ""}, {image: "./S1E6_4©LamflGroup.jpg", caption: ""}, {image: "./S1E6_5©LamflGroup.jpg", caption: ""},]
 ---
 
 # S1E6: Look at me for long
