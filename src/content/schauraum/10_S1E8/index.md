@@ -4,7 +4,7 @@ episode: 8
 season: 1
 description: Short Description
 date: 10/12/2024 
-slider: [{image: "./S1E8_LARPGROUND©MaxKSuper.jpg", caption: "LARPGRO"}]
+slider: [{image: "./S1E8_LARPGROUND©MaxKSuper.jpg", caption: "Max K Super"}]
 ---
 
 # S1E8: LARPGROUND
