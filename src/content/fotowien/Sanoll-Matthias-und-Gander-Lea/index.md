@@ -4,7 +4,8 @@ description: ""
 date: 10/05/2025
 slider:
   [
-    { image: "./mattundlea_1.jpg", caption: "" },
+    { image: "./mattundlea_1.jpg", caption: "Liminal Nexus (Screenshot)"},
+    { image: "./corridore.jpg", caption: "Il corridore dell´ombra (Screenshot)"},
   ]
 ---
 
