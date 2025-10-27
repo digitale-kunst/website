@@ -35,3 +35,16 @@ In the hope it will make the breakup less painful, we shared another Snickers.<b
 It tasted good.<br/>
 Goodbye Madeira.<br/>
 A goodbye in Madeira.<br/>
+
+
+### Lea Gander &  Matthias Sanoll with Alma Ragot and Sebastian Wieser 
+Il corridore dell´ombra <br/>
+
+The short film focuses on the shadow as a different kind of silhouette. One that emerges from within and shapes our perception of ourselves and others.
+Suppressed desires and unacknowledged needs find expression through projection.
+The dream state becomes a stage for these hidden dimensions, where they reveal themselves through fleeting images, distorted figures, and archetypal symbols.
+The work portrays a community of such unconscious beings.
+ It shows characters that do not exist in waking life, yet take shape in the way we perceive our surroundings, reflecting aspects of ourselves we may not always recognize as our own.<br/>
+ 
+## @leagndr @mndlss_mntg 
+
