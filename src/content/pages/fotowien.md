@@ -30,7 +30,7 @@ Algorithmic Vertigo features works by students of the Digital Arts Department an
 
 KuratorInnen: Patricia Köstring und Bernhard Faiss
 
-## https://fotowien.at
+## https://fotowien.at/en/ausstellung/algorithmic-vertigo-disruption-and-unbounding-in-the-post-digital-era-foto-wien-2025/
 
 
  Participating artists:
