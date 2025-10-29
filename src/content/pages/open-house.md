@@ -32,6 +32,31 @@ Wir führen durch die Klasse und geben euch Einblicke in unsere Labs, ihr könnt
 
 Programme
 
+OPEN LECTURES @ Digitale Kunst, room 167
+11:00 am – noonMark Making / Making MarksMichelle Kasprzak
+2:00 pm – 3:30 pmKunst als System und ProzessWolfgang Fiel
+3:30 pm – 5:00 pmHuman Interface DesignWolfgang Fiel
+
+LABORATORIES FOR THE UNKNOWN @ Digitale Kunst, lab spaces
+10:00 am – 6:00 pmElectronics Lab, 3D Lab
+1:00 pm – 3:00 pmSound Studio
+1:00 pm – 3:00 pmResearch Lab
+2:00 pm – 6:00 pmImmersive Lab, Science Visualization Lab
+
+4:30 p.m. – 5:30 p.m.
+Laboratory for the unknown – DK/Research: Open Labs
+Come and explore our Labs, Tea-Time and Snacks with our students
+
+PORTFOLIO REVIEWS @ Digitale Kunst, room 124, and Zoom
+2:00 pm – 4:00 pmHybrid portfolio reviews via Zoom and on site: https://dieangewandte-at.zoom.us/j/66392087820 Meeting ID: 663 9208 7820
+
+EXHIBITION @ KASSENHALLE, Mezzanine
+10:00 am – 6:00 pm Exhibition Algorithmic Vertigo, as part of FOTO WIEN 2025.
+https://fotowien.at/ausstellung/algorithmic-vertigo-disruption-and-unbounding-in-the-post-digital-era-foto-wien-2025/
+
+## From 10:00. See you there, bis dann, nos vemos, vidimo se!
+
+<!--
 11:00 a.m. - 6:00 p.m.  
 Ausstellung FOTO WIEN
 Algorithmic Vertigo. Disruption and Unbounding in the Post-Digital Era, PSK Kassenhalle, Georg-Coch-Platz 2, 1010 Vienna
@@ -54,7 +79,7 @@ Come and explore our Labs, Tea-Time and Snacks with our students
 
 ## From 10:00. See you there, bis dann, nos vemos, vidimo se!
 
-<!--
+
 ## Open House 2024</br>05.11.2024
 
 At the Open House the Angewandte opens its doors and is aimed at everyone who wants to get to know the courses on offer at the Angewandte or simply wants to take a look behind the scenes – into the studios, workshops and departments of the University of Applied Arts Vienna.
