@@ -26,8 +26,6 @@ slider:
 
 ## Open House 2025</br>04.11.2025
 
-At the Open House the Angewandte opens its doors and is aimed at everyone who wants to get to know the courses on offer at the Angewandte or simply wants to take a look behind the scenes – into the studios, workshops and departments of the University of Applied Arts Vienna.
-
 Wir führen durch die Klasse und geben euch Einblicke in unsere Labs, ihr könnt in eine Lehrveranstaltung hineinschnuppern, es gibt Mappengespräche, Austausch mit Lehrenden und Studierenden der Digitalen Kunst, Snacks und jede Menge Interessantes. We will guide you through the class and give you insights into our labs, you can get a taste of a lecture, there will be portfolio discussions, exchanges with teachers and students of digital art, snacks and lots of interesting things. Os guiaremos por la clase y os daremos una visión general de nuestros laboratorios, podréis echar un vistazo a una clase, habrá charlas sobre carpetas, intercambio con profesores y estudiantes de arte digital, aperitivos y muchas cosas interesantes.
 
 Programme
