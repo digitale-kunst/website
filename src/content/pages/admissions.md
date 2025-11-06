@@ -45,6 +45,17 @@ Announcement of admitted applicants<br/><br/>
 ## The Department of Digitale Kunst
 Our department is an open platform and a safe-enough space for experimenting with digital media in an artistic context. We offer customizable spaces, state-of-the-art technical equipment, passionate people and inclusive access to new worlds and realities. We do art, basic research, aesthetic and technology development, social and political experiments and action. Present and future facets of art, entertainment and science are imagined, discussed and applied. We value collaboration, communication, divergence, risk-taking and openness. We are hyper-contemporary in all aspects.
 <br/>
+
+## Portfolio Reviews in advance
+In the run-up to your entrance examination, we offer two online portfolio consultation appointments where you can obtain feedback on your portfolios from lecturers in the department.
+These will take place on:
+
+19 November 2025, 2:00 p.m. - 4:00 p.m.
+10 December 2025, 2:00 p.m. - 4:00 p.m.
+
+Zoom link:
+https://dieangewandte-at.zoom.us/j/66392087820
+Meeting ID: 663 9208 7820
 <br/>
 
  
