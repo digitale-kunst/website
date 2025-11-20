@@ -126,28 +126,28 @@ const slug = title.toLowerCase().replace(/ /g, "-");
             </a>
             <span id="blinker" class="hidden font-normal animate-blink">|</span>
           </h1>
+          <a transition:name="admissions" class="text-green" href="/admissions">Admission</a>
+          <a class="text-primary" href="/team">Team</a>
+          <!-- <a class=" text-green" href="/studierende"
+            >dkTalents</a
+          > -->
+          <a class="text-cyan" href="/labs">Labs</a>
           <a class="text-secondary" href="/open-house">Open House</a>
-          <a class="text-orange" href="/angewandte-festival">Angewandte Festival</a>
-          <a class="text-cyan" href="/diplomas">Diplomas</a>
           <a href="https://www.instagram.com/digitalekunstklasse/" target="_blank" rel="noreferrer"­><img
             src={dotGELB.src}
             class="h-[1.7rem] cursor-pointer md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem]"></a>
-          <a transition:name="admissions" class="text-green" href="/admissions">Admission</a>
+          <a class="text-orange" href="/angewandte-festival">Angewandte Festival</a>
+          <a class="text-cyan" href="/diplomas">Diplomas</a>
+          <a href="https://www.instagram.com/ssspeedshows/" target="_blank" rel="noreferrer"­><img
+            src={dotPINK.src}
+            class="h-[1.7rem] cursor-pointer md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem]"></a>
+          <a href="https://objkt.com/galleries/department-dk" target="_blank" rel="noreferrer"­>NFT Gallery</a>
+          <a class="text-secondary" href="/ssspeedshows">SSSpeedshows</a>
 
           <!-- <a class=" text-green" href="/studieninfo"
             >Studieninfo</a
           > -->
-          <!-- <a class=" text-green" href="/studierende"
-            >Studierende</a
-          > -->
-         
-          <a class="text-primary" href="/team">Team</a>
-          <a class="text-secondary" href="/ssspeedshows">SSSpeedshows</a>
-            <a href="https://objkt.com/galleries/department-dk" target="_blank" rel="noreferrer"­>NFT Gallery</a>
-          <a class="text-cyan" href="/labs">Labs</a>
-          <a href="https://www.instagram.com/ssspeedshows/" target="_blank" rel="noreferrer"­><img
-            src={dotPINK.src}
-            class="h-[1.7rem] cursor-pointer md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem]"></a>
+          
           <a class="text-primary" href="/contact">Contact</a>
 
           <!-- {
@@ -161,10 +161,10 @@ const slug = title.toLowerCase().replace(/ /g, "-");
                 </a>
                 Location Alte PSK Georg-Coch-Platz 2, 1st floor, A-1010 Vienna 
               </>
-            )} -->
+            )} 
 
           <span class="font-normal animate-blink">|</span>
-        </span>
+        </span>-->
         <a
           class={`hidden text-${color}`}
           href={title !== "Digitale Kunst" ? "/" + slug : "/"}
