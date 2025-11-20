@@ -4,11 +4,11 @@ import Layout from "@layouts/Layout.astro";
 import Container from "@layouts/Container.astro";
 import { getCollection, getEntry, getEntries } from "astro:content";
 import { Image } from "astro:assets";
-const student = await getEntry("pages", "dkTalents");
+const dkTalents = await getEntry("pages", "dkTalents");
 
 export async function getStaticPaths() {
-  const students = await getCollection("dkTalents");
-  return students.map((entry) => ({
+  const dkTalents = await getCollection("dkTalents");
+  return dkTalents.map((entry) => ({
     params: {
       slug: entry.slug,
       subFolder: entry.data.subFolder ? entry.data.subFolder : undefined,
@@ -20,7 +20,7 @@ export async function getStaticPaths() {
 // 2. For your template, you can get the entry directly from the prop
 const { entry } = Astro.props;
 const { Content } = await entry.render();
-const { title, description, color } = student.data;
+const { title, description, color } = dkTalents.data;
 ---
 
 <Layout {title} {description} {color}>
