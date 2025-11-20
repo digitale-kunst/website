@@ -4,11 +4,11 @@ import Layout from "@layouts/Layout.astro";
 import Container from "@layouts/Container.astro";
 import { getCollection, getEntry, getEntries } from "astro:content";
 import { Image } from "astro:assets";
-const dkTalents = await getEntry("pages", "dkTalents");
+const indexPage = await getEntry("pages", "dkTalents");
 
 export async function getStaticPaths() {
-  const dkTalents = await getCollection("dkTalents");
-  return dkTalents.map((entry) => ({
+  const collection = await getCollection("dkTalents");
+  return collection.map((entry) => ({
     params: {
       slug: entry.slug,
       subFolder: entry.data.subFolder ? entry.data.subFolder : undefined,
@@ -21,6 +21,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const { title, description, color } = dkTalents.data;
+import { Image } from "astro:assets";
 ---
 
 <Layout {title} {description} {color}>
