@@ -1,5 +1,5 @@
 ---
 title: "Students" 
-description: "Das ist unsere Studierenden"
+description: "Das sind unsere Studierenden"
 color: "primary"
 ---
