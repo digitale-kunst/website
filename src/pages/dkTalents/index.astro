@@ -3,8 +3,8 @@ import Layout from "@layouts/Layout.astro";
 import Container from "@layouts/Container.astro";
 import { getEntry, getCollection } from "astro:content";
 
-const indexPage = await getEntry("pages", "students");
-const collection = await getCollection("students");
+const indexPage = await getEntry("pages", "dkTalents");
+const collection = await getCollection("dkTalents");
 
 const { Content, headings } = await indexPage.render();
 const { title, description, color } = indexPage.data;
@@ -47,7 +47,7 @@ const showlineBreak =
         }
         {
           entriesWithNoSubFolder.map((d, i) => (
-            <a href={`/students/${d.slug}`} class="no-underline ">
+            <a href={`/dkTalents/${d.slug}`} class="no-underline ">
               <li class="font-sans inline text-3xl leading-none md:leading-none  md:text-5xl font-bold list-none">
                 {d.data.title}
               </li>

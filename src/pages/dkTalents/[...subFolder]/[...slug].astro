@@ -4,10 +4,10 @@ import Layout from "@layouts/Layout.astro";
 import Container from "@layouts/Container.astro";
 import { getCollection, getEntry, getEntries } from "astro:content";
 import { Image } from "astro:assets";
-const student = await getEntry("pages", "students");
+const student = await getEntry("pages", "dkTalents");
 
 export async function getStaticPaths() {
-  const students = await getCollection("students");
+  const students = await getCollection("dkTalents");
   return students.map((entry) => ({
     params: {
       slug: entry.slug,
