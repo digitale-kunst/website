@@ -18,4 +18,4 @@ As a European abroad, one is usually confronted with the mistakes of the past, p
 To cultivate a climate of reflection is an act of confronting the past: it demands awareness of how privilege and history are intertwined. Yet not everyone is willing or able to grasp how deeply South Africa’s coal-fired power plants and European life in the twenty-first century are entangled.
 
 ## @zitakayser
-## zitakayser.com
+## [zitakayser.com](https://www.zitakayser.com)

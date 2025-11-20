@@ -19,4 +19,4 @@ The series Niceland captures Kyiv in a moment of suspended animation—a city pa
  
  In Niceland, absence becomes the main material. Human systems persist—heating, housing, construction—but no one is left to inhabit them. The result is a meditation on stasis, fragility, and the surreal perfection of abandoned infrastructure. The world hasn’t ended—it’s just been quietly evacuated, and left running without us.
 
- ## niceland, @sa1
+ ## [niceland, @sa1](https://www.instagram.com/sa1/)

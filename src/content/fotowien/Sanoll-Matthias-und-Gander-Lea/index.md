@@ -47,5 +47,6 @@ The dream state becomes a stage for these hidden dimensions, where they reveal t
 The work portrays a community of such unconscious beings.
  It shows characters that do not exist in waking life, yet take shape in the way we perceive our surroundings, reflecting aspects of ourselves we may not always recognize as our own.<br/>
  
-## @leagndr @mndlss_mntg 
+## [@leagndr](https://www.instagram.com/leagndr/)
+## [@mndlss_mntg](https://www.instagram.com/mndlss_mntg/)
 

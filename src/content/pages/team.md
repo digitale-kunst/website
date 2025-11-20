@@ -1,6 +1,6 @@
 ---
 title: "Team" 
-description: "Das sind unsere Studierende"
+description: "Das ist unser Team"
 color: "primary"
 ---
 - **Team:**

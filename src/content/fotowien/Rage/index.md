@@ -15,7 +15,8 @@ Paramygdala<br/>
 
 Gibellula, or zombie fungus, infects arachnids by attaching spores, manipulating their movements. It drives the spider upward to a high point before it dies. The fungus grows from the carcass, releasing spores to spread. This work deals with the beauty of gruesomeness, the naturality of rawness and human ways of interpreting brutality into perfectly normal evolutionary systems.
 
-## @r.a.g.e_
+## [@r.a.g.e_](https://www.instagram.com/r.a.g.e_/)
+
 
 
 
