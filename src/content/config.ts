@@ -103,7 +103,6 @@ export const collections = {
   labs: projects,
   af: projects,
   diplomas: projects,
-  dkTalents: projects,
   "chasing-echoes-and-taming-machines": projects,
   fotowien: projects,
   culttech25: projects,
