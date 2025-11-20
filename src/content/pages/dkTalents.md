@@ -1,6 +1,13 @@
 ---
 title: "dkTalents" 
 description: "Das sind unsere Talents"
+slider:
+  [
+    { image: "./", caption: "" },
+    { image: "./", caption: "" },
+    { image: "./", caption: "" },
+    { image: "./", caption: "" },
+  ]
 color: "primary"
 ---
 - **dkTalents:**
