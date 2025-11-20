@@ -7,8 +7,8 @@ color: "primary"
 
 - **dkTalents:**
 
-- [Klara Klimas](https://@exkkkkkkcese)
-- [Malpractice](https://i-am-flynn.web.app)
+- [Klara Klimas](https://www.instagram.com/exkkkkkkcese/)
+- [Malpractice](https://www.instagram.com/hiii.flynn/)
 - [Zita Kayser](https://zitakayser.com)
 
 
