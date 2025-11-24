@@ -4,7 +4,6 @@ description: "Das sind unsere Talents"
 color: "primary"
 ---
 
-
 - **dkTalents:**
 
 - [Klara Klimas](https://www.instagram.com/exkkkkkkcese/)
