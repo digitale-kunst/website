@@ -4,12 +4,12 @@ description: ""
 color: "purple"
 slider:
   [
-    { image: "./AT-WS25-Billuart1.jpg", caption: "" },
+    { image: "./at-ws25-billuart1.jpg", caption: "" },
   ]
 
 ---
 
-![](./AT-WS25-Billuart.jpg)
+![](./at-ws25-billuart.jpg)
 
 ## Morgane Billuart</br>04.11.2025
 
