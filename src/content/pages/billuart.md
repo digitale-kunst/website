@@ -11,7 +11,7 @@ slider:
 
 ![](./billuart.jpg)
 
-## Morgane Billuart</br>04.11.2025
+## Morgane Billuart 04.11.2025
 
 # Blurb presentation  
 
