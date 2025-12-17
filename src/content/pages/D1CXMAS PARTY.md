@@ -11,9 +11,9 @@ slider:
 
 ![](./D1CXMAS-Party.jpg)
 
-## DJ Mel & DJ Mehl
+# DJ Mel & DJ Mehl
 
-## DK/D1CXMAS PARTY 
+# DK/D1CXMAS PARTY 
 18 December  22:00—02:00
 Dress Code: ST. MORITZ 1980s GLITCHED LUXURY & NET SCHIZO ENERGY! 
 
@@ -25,7 +25,7 @@ Dress Code: ST. MORITZ 1980s GLITCHED LUXURY & NET SCHIZO ENERGY!
 
 
 
-# * Bojan’s key data for the videos for the DK/D1CXMAS party:
+## * Bojan’s key data for the videos for the DK/D1CXMAS party:
 
 1. files should be in format hap/mp4
 2. size/resolution should be 1920x1080 (16:9 landscape)
