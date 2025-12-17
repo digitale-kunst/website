@@ -30,7 +30,7 @@ const { title, description, color } = lab.data;
       <Content />
       {
         entry.data.slider?.map((slide) => (
-          <div>
+          <div class="img-tint-primary">
             <Image src={slide.image} alt={slide.caption} />
             <p>{slide.caption}</p>
           </div>

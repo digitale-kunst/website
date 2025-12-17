@@ -30,18 +30,18 @@ const { title, description, color } = schauraum.data;
       class="overflow-x-auto w-[calc(100vw-2rem)] md:w-[calc(100vw-5rem)] p-4 md:p-6"
     >
       <div class="gap-8 flex">
-        {
-          entry.data.slider?.map((slide) => (
-            <div class="">
-              <Image
-                src={slide.image}
-                class="max-h-[70vh] my-0 aspect-auto max-w-[calc(100vw-4rem)]  object-contain   w-auto"
-                alt={slide.caption}
-              />
-              <p class="text-sm my-0">{slide.caption}</p>
-            </div>
-          ))
-        }
+      {
+        entry.data.slider?.map((slide) => (
+          <div class="img-tint-primary">
+            <Image
+              src={slide.image}
+              class="max-h-[70vh] my-0 aspect-auto max-w-[calc(100vw-4rem)]  object-contain   w-auto"
+              alt={slide.caption}
+            />
+            <p class="text-sm my-0">{slide.caption}</p>
+          </div>
+        ))
+      }
       </div>
     </div>
   </div>

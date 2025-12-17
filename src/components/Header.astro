@@ -18,27 +18,135 @@ const slug = title.toLowerCase().replace(/ /g, "-");
 ---
 
 <script is:inline>
+  let isAnimating = false;
+  let currentAnimation = null;
+
+  // Typewriter animation function
+  function typeWriter(element, speed = 10) {
+    if (!element) return Promise.resolve();
+    
+    // Cancel any existing animation
+    if (currentAnimation) {
+      clearTimeout(currentAnimation);
+      currentAnimation = null;
+    }
+
+    // Store original content
+    const children = Array.from(element.children);
+    const originalHTML = element.innerHTML;
+    
+    return new Promise((resolve) => {
+      // For menu content: show children one by one
+      if (element.id === 'content') {
+        let index = 0;
+        
+        // Hide all children initially
+        children.forEach(child => {
+          child.style.opacity = '0';
+          child.style.display = 'none';
+        });
+        
+        function showNextChild() {
+          if (index < children.length) {
+            const child = children[index];
+            child.style.display = '';
+            child.style.opacity = '0';
+            
+            // Quick fade in
+            setTimeout(() => {
+              child.style.transition = 'opacity 50ms';
+              child.style.opacity = '1';
+            }, 10);
+            
+            index++;
+            currentAnimation = setTimeout(showNextChild, speed);
+          } else {
+            currentAnimation = null;
+            isAnimating = false;
+            resolve();
+          }
+        }
+        
+        showNextChild();
+      } 
+      // For title: character by character
+      else if (element.id === 'currentElement') {
+        const fullText = element.textContent.replace('|', '').trim();
+        const cursorSpan = element.querySelector('.animate-blink');
+        let textIndex = 0;
+        
+        // Clear text but keep the link structure
+        const link = element.querySelector('a') || element;
+        if (link) {
+          link.childNodes.forEach(node => {
+            if (node.nodeType === 3) { // Text node
+              node.textContent = '';
+            }
+          });
+        }
+        
+        function typeNextChar() {
+          if (textIndex < fullText.length) {
+            const textNode = link.childNodes[0];
+            if (textNode && textNode.nodeType === 3) {
+              textNode.textContent = fullText.substring(0, textIndex + 1);
+            } else {
+              link.insertBefore(document.createTextNode(fullText.substring(0, textIndex + 1)), link.firstChild);
+            }
+            textIndex++;
+            currentAnimation = setTimeout(typeNextChar, speed);
+          } else {
+            currentAnimation = null;
+            isAnimating = false;
+            resolve();
+          }
+        }
+        
+        typeNextChar();
+      } else {
+        resolve();
+      }
+    });
+  }
+
   function closeMenu() {
+    if (isAnimating) return;
+    
     const content = document.getElementById("content");
     const blinker = document.getElementById("blinker");
     const currentElement = document.getElementById("currentElement");
+    const k = document.getElementById("k");
+    
     currentElement.classList.remove("hidden");
     blinker.classList.remove("hidden");
     content.classList.add("hidden");
     content.classList.remove("inline");
     k.classList.toggle("rotate-180");
+    
+    // Trigger typewriter animation on title (slower speed)
+    isAnimating = true;
+    typeWriter(currentElement, 30);
   }
+
   function openMenu() {
+    if (isAnimating) return;
+    
     const content = document.getElementById("content");
     const blinker = document.getElementById("blinker");
     const k = document.getElementById("k");
     const currentElement = document.getElementById("currentElement");
+    
     currentElement.classList.add("hidden");
     blinker.classList.add("hidden");
     content.classList.remove("hidden");
     content.classList.add("inline");
     k.classList.toggle("rotate-180");
+    
+    // Trigger typewriter animation on menu content
+    isAnimating = true;
+    typeWriter(content, 35);
   }
+
   function tol() {
     const content = document.getElementById("content");
     if (content.classList.contains("hidden")) {
@@ -58,6 +166,46 @@ const slug = title.toLowerCase().replace(/ /g, "-");
         openMenu();
       } else {
         closeMenu();
+      }
+    }
+
+    // Add click handlers to all navigation links to close menu before navigation
+    const content = document.getElementById("content");
+    if (content) {
+      const navLinks = content.querySelectorAll('a[href^="/"], a[href^="http"]');
+      navLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+          const content = document.getElementById("content");
+          // Only close if menu is currently open
+          if (content && !content.classList.contains("hidden")) {
+            // Check if it's an internal link (not opening in new tab)
+            const isExternal = link.getAttribute('target') === '_blank' || 
+                             link.getAttribute('rel')?.includes('noreferrer');
+            if (!isExternal) {
+              // Let the navigation happen naturally, menu will close on page load
+              // No need to prevent default
+            }
+          }
+        });
+      });
+    }
+  });
+
+  // Close menu before page transition
+  document.addEventListener("astro:before-swap", () => {
+    const content = document.getElementById("content");
+    if (content && !content.classList.contains("hidden")) {
+      // Force close without animation for smooth transition
+      const blinker = document.getElementById("blinker");
+      const currentElement = document.getElementById("currentElement");
+      const k = document.getElementById("k");
+      
+      if (currentElement) currentElement.classList.remove("hidden");
+      if (blinker) blinker.classList.remove("hidden");
+      content.classList.add("hidden");
+      content.classList.remove("inline");
+      if (k && k.classList.contains("rotate-180")) {
+        k.classList.remove("rotate-180");
       }
     }
   });
