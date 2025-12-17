@@ -195,18 +195,64 @@ const slug = title.toLowerCase().replace(/ /g, "-");
   document.addEventListener("astro:before-swap", () => {
     const content = document.getElementById("content");
     if (content && !content.classList.contains("hidden")) {
-      // Force close without animation for smooth transition
-      const blinker = document.getElementById("blinker");
-      const currentElement = document.getElementById("currentElement");
-      const k = document.getElementById("k");
-      
-      if (currentElement) currentElement.classList.remove("hidden");
-      if (blinker) blinker.classList.remove("hidden");
-      content.classList.add("hidden");
-      content.classList.remove("inline");
-      if (k && k.classList.contains("rotate-180")) {
-        k.classList.remove("rotate-180");
+      // Mark that we're navigating from an open menu using sessionStorage
+      sessionStorage.setItem('menuWasOpen', 'true');
+      // Reset animation flag
+      isAnimating = false;
+    }
+  });
+  
+  // Override the open state if navigating from an open menu
+  document.addEventListener("astro:after-swap", () => {
+    const menuWasOpen = sessionStorage.getItem('menuWasOpen');
+    if (menuWasOpen === 'true') {
+      sessionStorage.removeItem('menuWasOpen');
+      // Force menu to be closed for this page load
+      // This will be picked up by the astro:page-load event
+      window.__forceMenuClosed = true;
+    }
+  });
+</script>
+<script define:vars={{ open, showContact }} is:inline>
+  document.addEventListener("astro:page-load", () => {
+    // Check if we should force the menu closed
+    const forceClose = window.__forceMenuClosed;
+    if (forceClose) {
+      window.__forceMenuClosed = false;
+      closeMenu();
+      return;
+    }
+    
+    if (showContact) {
+      console.log("showContact", showContact);
+      openMenu();
+    } else {
+      if (open) {
+        openMenu();
+      } else {
+        closeMenu();
       }
+    }
+
+    // Add click handlers to all navigation links to close menu before navigation
+    const content = document.getElementById("content");
+    if (content) {
+      const navLinks = content.querySelectorAll('a[href^="/"], a[href^="http"]');
+      navLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+          const content = document.getElementById("content");
+          // Only close if menu is currently open
+          if (content && !content.classList.contains("hidden")) {
+            // Check if it's an internal link (not opening in new tab)
+            const isExternal = link.getAttribute('target') === '_blank' || 
+                             link.getAttribute('rel')?.includes('noreferrer');
+            if (!isExternal) {
+              // Let the navigation happen naturally, menu will close on page load
+              // No need to prevent default
+            }
+          }
+        });
+      });
     }
   });
 </script>
