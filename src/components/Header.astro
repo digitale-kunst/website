@@ -24,7 +24,7 @@ const slug = title.toLowerCase().replace(/ /g, "-");
   // Typewriter animation function
   function typeWriter(element, speed = 10) {
     if (!element) return Promise.resolve();
-    
+
     // Cancel any existing animation
     if (currentAnimation) {
       clearTimeout(currentAnimation);
@@ -34,30 +34,30 @@ const slug = title.toLowerCase().replace(/ /g, "-");
     // Store original content
     const children = Array.from(element.children);
     const originalHTML = element.innerHTML;
-    
+
     return new Promise((resolve) => {
       // For menu content: show children one by one
-      if (element.id === 'content') {
+      if (element.id === "content") {
         let index = 0;
-        
+
         // Hide all children initially
-        children.forEach(child => {
-          child.style.opacity = '0';
-          child.style.display = 'none';
+        children.forEach((child) => {
+          child.style.opacity = "0";
+          child.style.display = "none";
         });
-        
+
         function showNextChild() {
           if (index < children.length) {
             const child = children[index];
-            child.style.display = '';
-            child.style.opacity = '0';
-            
+            child.style.display = "";
+            child.style.opacity = "0";
+
             // Quick fade in
             setTimeout(() => {
-              child.style.transition = 'opacity 50ms';
-              child.style.opacity = '1';
+              child.style.transition = "opacity 50ms";
+              child.style.opacity = "1";
             }, 10);
-            
+
             index++;
             currentAnimation = setTimeout(showNextChild, speed);
           } else {
@@ -66,32 +66,36 @@ const slug = title.toLowerCase().replace(/ /g, "-");
             resolve();
           }
         }
-        
+
         showNextChild();
-      } 
+      }
       // For title: character by character
-      else if (element.id === 'currentElement') {
-        const fullText = element.textContent.replace('|', '').trim();
-        const cursorSpan = element.querySelector('.animate-blink');
+      else if (element.id === "currentElement") {
+        const fullText = element.textContent.replace("|", "").trim();
+        const cursorSpan = element.querySelector(".animate-blink");
         let textIndex = 0;
-        
+
         // Clear text but keep the link structure
-        const link = element.querySelector('a') || element;
+        const link = element.querySelector("a") || element;
         if (link) {
-          link.childNodes.forEach(node => {
-            if (node.nodeType === 3) { // Text node
-              node.textContent = '';
+          link.childNodes.forEach((node) => {
+            if (node.nodeType === 3) {
+              // Text node
+              node.textContent = "";
             }
           });
         }
-        
+
         function typeNextChar() {
           if (textIndex < fullText.length) {
             const textNode = link.childNodes[0];
             if (textNode && textNode.nodeType === 3) {
               textNode.textContent = fullText.substring(0, textIndex + 1);
             } else {
-              link.insertBefore(document.createTextNode(fullText.substring(0, textIndex + 1)), link.firstChild);
+              link.insertBefore(
+                document.createTextNode(fullText.substring(0, textIndex + 1)),
+                link.firstChild
+              );
             }
             textIndex++;
             currentAnimation = setTimeout(typeNextChar, speed);
@@ -101,7 +105,7 @@ const slug = title.toLowerCase().replace(/ /g, "-");
             resolve();
           }
         }
-        
+
         typeNextChar();
       } else {
         resolve();
@@ -111,18 +115,18 @@ const slug = title.toLowerCase().replace(/ /g, "-");
 
   function closeMenu() {
     if (isAnimating) return;
-    
+
     const content = document.getElementById("content");
     const blinker = document.getElementById("blinker");
     const currentElement = document.getElementById("currentElement");
     const k = document.getElementById("k");
-    
+
     currentElement.classList.remove("hidden");
     blinker.classList.remove("hidden");
     content.classList.add("hidden");
     content.classList.remove("inline");
     k.classList.toggle("rotate-180");
-    
+
     // Trigger typewriter animation on title (slower speed)
     isAnimating = true;
     typeWriter(currentElement, 30);
@@ -130,18 +134,18 @@ const slug = title.toLowerCase().replace(/ /g, "-");
 
   function openMenu() {
     if (isAnimating) return;
-    
+
     const content = document.getElementById("content");
     const blinker = document.getElementById("blinker");
     const k = document.getElementById("k");
     const currentElement = document.getElementById("currentElement");
-    
+
     currentElement.classList.add("hidden");
     blinker.classList.add("hidden");
     content.classList.remove("hidden");
     content.classList.add("inline");
     k.classList.toggle("rotate-180");
-    
+
     // Trigger typewriter animation on menu content
     isAnimating = true;
     typeWriter(content, 35);
@@ -172,15 +176,18 @@ const slug = title.toLowerCase().replace(/ /g, "-");
     // Add click handlers to all navigation links to close menu before navigation
     const content = document.getElementById("content");
     if (content) {
-      const navLinks = content.querySelectorAll('a[href^="/"], a[href^="http"]');
-      navLinks.forEach(link => {
-        link.addEventListener('click', (e) => {
+      const navLinks = content.querySelectorAll(
+        'a[href^="/"], a[href^="http"]'
+      );
+      navLinks.forEach((link) => {
+        link.addEventListener("click", (e) => {
           const content = document.getElementById("content");
           // Only close if menu is currently open
           if (content && !content.classList.contains("hidden")) {
             // Check if it's an internal link (not opening in new tab)
-            const isExternal = link.getAttribute('target') === '_blank' || 
-                             link.getAttribute('rel')?.includes('noreferrer');
+            const isExternal =
+              link.getAttribute("target") === "_blank" ||
+              link.getAttribute("rel")?.includes("noreferrer");
             if (!isExternal) {
               // Let the navigation happen naturally, menu will close on page load
               // No need to prevent default
@@ -196,17 +203,17 @@ const slug = title.toLowerCase().replace(/ /g, "-");
     const content = document.getElementById("content");
     if (content && !content.classList.contains("hidden")) {
       // Mark that we're navigating from an open menu using sessionStorage
-      sessionStorage.setItem('menuWasOpen', 'true');
+      sessionStorage.setItem("menuWasOpen", "true");
       // Reset animation flag
       isAnimating = false;
     }
   });
-  
+
   // Override the open state if navigating from an open menu
   document.addEventListener("astro:after-swap", () => {
-    const menuWasOpen = sessionStorage.getItem('menuWasOpen');
-    if (menuWasOpen === 'true') {
-      sessionStorage.removeItem('menuWasOpen');
+    const menuWasOpen = sessionStorage.getItem("menuWasOpen");
+    if (menuWasOpen === "true") {
+      sessionStorage.removeItem("menuWasOpen");
       // Force menu to be closed for this page load
       // This will be picked up by the astro:page-load event
       window.__forceMenuClosed = true;
@@ -222,7 +229,7 @@ const slug = title.toLowerCase().replace(/ /g, "-");
       closeMenu();
       return;
     }
-    
+
     if (showContact) {
       console.log("showContact", showContact);
       openMenu();
@@ -237,15 +244,18 @@ const slug = title.toLowerCase().replace(/ /g, "-");
     // Add click handlers to all navigation links to close menu before navigation
     const content = document.getElementById("content");
     if (content) {
-      const navLinks = content.querySelectorAll('a[href^="/"], a[href^="http"]');
-      navLinks.forEach(link => {
-        link.addEventListener('click', (e) => {
+      const navLinks = content.querySelectorAll(
+        'a[href^="/"], a[href^="http"]'
+      );
+      navLinks.forEach((link) => {
+        link.addEventListener("click", (e) => {
           const content = document.getElementById("content");
           // Only close if menu is currently open
           if (content && !content.classList.contains("hidden")) {
             // Check if it's an internal link (not opening in new tab)
-            const isExternal = link.getAttribute('target') === '_blank' || 
-                             link.getAttribute('rel')?.includes('noreferrer');
+            const isExternal =
+              link.getAttribute("target") === "_blank" ||
+              link.getAttribute("rel")?.includes("noreferrer");
             if (!isExternal) {
               // Let the navigation happen naturally, menu will close on page load
               // No need to prevent default
@@ -320,26 +330,49 @@ const slug = title.toLowerCase().replace(/ /g, "-");
             </a>
             <span id="blinker" class="hidden font-normal animate-blink">|</span>
           </h1>
-          <a transition:name="admissions" class="text-green" href="/admissions">Admission</a>
+          <a transition:name="admissions" class="text-green" href="/admissions"
+            >Admission</a
+          >
           <a class="text-primary" href="/team">Team</a>
-          <a href="https://www.instagram.com/digitalekunstklasse/" target="_blank" rel="noreferrer"­><img
-            src={dotGELB.src}
-            class="h-[1.7rem] cursor-pointer md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem]"></a>
+          <a
+            href="https://www.instagram.com/digitalekunstklasse/"
+            target="_blank"
+            rel="noreferrer"
+            ­
+            ><img
+              src={dotGELB.src}
+              class="h-[1.7rem] cursor-pointer md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem]"
+            /></a
+          >
           <!--<a class=" text-green" href="/dkTalents">dkTalents</a>-->
           <a class="text-cyan" href="/labs">Labs</a>
           <a class="text-secondary" href="/open-house">Open House</a>
-          <a class="text-orange" href="/angewandte-festival">Angewandte Festival</a>
+          <a class="text-orange" href="/angewandte-festival"
+            >Angewandte Festival</a
+          >
           <a class="text-cyan" href="/diplomas">Diplomas</a>
-          <a href="https://www.instagram.com/ssspeedshows/" target="_blank" rel="noreferrer"­><img
-            src={dotPINK.src}
-            class="h-[1.7rem] cursor-pointer md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem]"></a>
-          <a href="https://objkt.com/galleries/department-dk" target="_blank" rel="noreferrer"­>NFT Gallery</a>
+          <a
+            href="https://www.instagram.com/ssspeedshows/"
+            target="_blank"
+            rel="noreferrer"
+            ­
+            ><img
+              src={dotPINK.src}
+              class="h-[1.7rem] cursor-pointer md:h-[2.3rem] inline-block transform md:translate-x-[0.2rem] -translate-y-[0.15rem] md:-translate-y-[0.25rem]"
+            /></a
+          >
+          <a
+            href="https://objkt.com/galleries/department-dk"
+            target="_blank"
+            rel="noreferrer"
+            ­>NFT Gallery</a
+          >
           <a class="text-secondary" href="/ssspeedshows">SSSpeedshows</a>
 
           <!-- <a class=" text-green" href="/studieninfo"
             >Studieninfo</a
           > -->
-          
+
           <a class="text-primary" href="/contact">Contact</a>
 
           <!-- {
