@@ -3,6 +3,9 @@ title: "SSSpeedshows"
 description: ""
 color: "purple"
 ---
+
+# View information materials
+
 # Schauraum MQ
 The Schauraum is the exhibition space of the Institute of Fine Arts at the University of Applied Arts at the MuseumsQuartier Wien MQ. It was run by the department of Digitale Kunst from 2010 to 2025.
 
