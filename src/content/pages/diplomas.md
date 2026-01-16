@@ -2,9 +2,7 @@
 title: Diplomas
 description: ""
 slider: [
-{ image: "./anzola.jpg", caption: "Sara Anzola D'Andrea" },
-    { image: "./guggenb.jpg", caption: "Michael Guggenbichler" },
-    { image: "./pfeife.jpg", caption: "Sebastian Pfeifhofer" },]
+{ image: "./anzola.jpg", caption: "Sara Anzola D'Andrea" },]
 color: "cyan"
 ---
 
