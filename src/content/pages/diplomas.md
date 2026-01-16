@@ -2,11 +2,30 @@
 title: Diplomas
 description: ""
 slider: [
+{ image: "./anzola.jpg", caption: "Sara Anzola D'Andrea" },
     { image: "./guggenb.jpg", caption: "Michael Guggenbichler" },
     { image: "./pfeife.jpg", caption: "Sebastian Pfeifhofer" },]
 color: "cyan"
 ---
 
+# Diplomas Winter Term 2025
+
+![](./diplomeWS25-poster.jpg)
+
+The diploma project is on show at the Digitale Kunst showing and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
+
+Sara Anzola D'Andrea<br/>
+Title: Mens Capta 
+
+## Showing
+23.01 - 24.01 2026, 11:00 – 19:00 <br/>
+
+## Location
+### Postsparkasse - GCP, Georg-Coch-Platz 2, 1010 Vienna, 1st floor, Immersive Lab, Room 170
+
+
+
+<!--
 # Diplomas Summer Term 2025
 
 ![](./diplomeS25-poster.jpg)
@@ -28,7 +47,7 @@ Sebastian Pfeifhofer: "Created System Cult" // 1st floor, room 123<br/>
 ### Oskar Kokoschka Platz - OKP, Schwanzertrakt, 1010 Vienna:
 Michael Guggenbichler: "Der Umfang meines Hirns war die Grenze meiner Welt" // 3rd floor, B3<br/>
 
-<!--
+
 # Diplomas Winter Term 2024
 Three diploma projects are on show at the Digitale Kunst exhibition and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
