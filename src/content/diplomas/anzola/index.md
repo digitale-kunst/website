@@ -1,7 +1,7 @@
 ---
 title: Sara Anzola D'Andrea
 description: Short Description
-date: 20/01/2025
+date: 10/10/2024
 slider: [{ image: "./anzola.jpg", caption: "Mens Capta" }]
 subFolder: "WS2025"
 ---
