@@ -4,7 +4,7 @@ description: ""
 color: "purple"
 ---
 
-# View information materials
+# View information materials (https://www.are.na/bern-out/dk-sss-s1-s2)
 
 # Schauraum MQ
 The Schauraum is the exhibition space of the Institute of Fine Arts at the University of Applied Arts at the MuseumsQuartier Wien MQ. It was run by the department of Digitale Kunst from 2010 to 2025.
