@@ -18,8 +18,7 @@ Title: Mens Capta
 ## Showing
 23.01 - 24.01 2026, 11:00 – 19:00 <br/>
 
-## Location
-### Postsparkasse - GCP, Georg-Coch-Platz 2, 1010 Vienna, 1st floor, Immersive Lab, Room 170
+## Location: Postsparkasse - GCP, Georg-Coch-Platz 2, 1010 Vienna, 1st floor, Immersive Lab, Room 170
 
 
 
