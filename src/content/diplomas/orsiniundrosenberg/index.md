@@ -1,7 +1,7 @@
 ---
 title: Isabelle Orsini und Rosenberg
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
-date: 10/11/2024 #fuer sortierung
+date: 11/11/2024 #fuer sortierung
 slider:
   [
     { image: "./1.jpg", caption: "Transit 1" },
