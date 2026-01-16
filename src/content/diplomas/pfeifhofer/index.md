@@ -1,7 +1,7 @@
 ---
 title: Sebastian Pfeifhofer
 description: Short Description #for meta description only (link verschicken etc. nicht auf der seite zu sehen)
-date: 06/16/2025 #fuer sortierung
+date: 10/10/2024 #fuer sortierung
 slider:
   [
     { image: "./Pfeifhofer.jpg", caption: "" },
