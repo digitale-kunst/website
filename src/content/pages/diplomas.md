@@ -12,7 +12,7 @@ color: "cyan"
 
 ![](./diplomeWS25-poster.jpg)
 
-The diploma project is on show at the Digitale Kunst showing and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
+The diploma project is on show at the Digitale Kunst and as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
 Sara Anzola D'Andrea<br/>
 Title: Mens Capta 
