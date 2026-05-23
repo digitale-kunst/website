@@ -2,13 +2,13 @@
 title: Andreas Rippl
 description: Short Description
 date: 05/21/2026
-slider: [{ image: "./rippl.jpg", caption: "Andreas Rippl, Anlassfall, 2026, interaktive Installation" }]
+slider: [{ image: "./rippl.jpg", caption: "Andreas Rippl, ✨You are doing amazing!, 2026, interaktive Installation" }]
 subFolder: "S2026"
 ---
 
 ### Andreas Rippl
 
-Anlassfall
+✨You are doing amazing!
 
 2026, interaktive Installation<br/>
 Betreut von Patrícia J. Reis
