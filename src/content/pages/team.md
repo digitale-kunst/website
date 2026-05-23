@@ -5,13 +5,13 @@ color: "primary"
 ---
 - **Team:**
 - [UBER](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=9169)[MORGEN](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?reserve-mode=active&content-id=1458930944469&Pe-Id=9170&rel=de)
+- [Bikramjit Chowdhury](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=10164)
 - [Bernhard Faiss](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=9446)
 - [Stefan Fischer](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=73)
 - [Martina Froeschl](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=7179)
 - [Nicolaj Kirisits](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=3249)
 - [Patricia Koestring](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=6610)
 - [Melissa E. Logan](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=9223)
-- [Burcu Oeztuerkler](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=10054)
 - [Ozan Türkkan Kumrular](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=10051)
 - [Susanne Wurm-Kukla](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1458930944469&Pe-Id=7541)
 
