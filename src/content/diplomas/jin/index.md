@@ -2,7 +2,7 @@
 title: Biin Jin
 description: Short Description
 date: 05/21/2026
-slider: [{ image: "./jin.jpg", caption: "Pulsar, 2026, audiovisuelle Installation" }]
+slider: [{ image: "./jin.jpg", caption: "Biin Jin, Pulsar, 2026, audiovisuelle Installation" }]
 subFolder: "S2026"
 ---
 
