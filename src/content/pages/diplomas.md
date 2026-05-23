@@ -19,25 +19,23 @@ color: "cyan"
 The diploma projects are on show at the Digitale Kunst as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
 ## Locations: 
-## Expositur Postsparkasse (PSK), Georg-Coch-Platz 2, 1010 Wien
-1st floor, Digitale Kunst
-## Oskar-Kokoschka-platz (OKP), Schwanzer Trakt, 1010 Wien
-Star 6, Star 8
+Expositur Postsparkasse (PSK), Georg-Coch-Platz 2, 1010 Wien, 1st floor, Digitale Kunst
+Oskar-Kokoschka-platz (OKP), Schwanzer Trakt, 1010 Wien, Star 6, Star 8
 
-# Biin Jin, "Pulsar" 
-PSK/DK/SoundArtLab (room 114) <br/>
-# Andreas Rippl, " ✨You are doing amazing!"
-PSK/DK/room 129<br/>
-# Anastasia Voloshina, "Die mediale Ausgrabung"
-PSK/DK/ImmersiveLab (room 170)<br/>
-# Calolina Rivera Aboleda, "Black Box Noise (for non-human perception)"
-PSK/DK/room 122<br/>
-# Bokan Mohammad Assad, "پھ نھان / Verborgen"
-PSK/DK/Dirty Room (room 130)<br/>
-# Iris Kienzl, "Inventur"
-OKP/Schwanzer Trakt/Star 8<br/>
-# Lena-Maria Kalleitner, "Anlassfall"
-OKP/Schwanzer Trakt/Star 6
+Biin Jin
+Title: "Pulsar", Location: PSK/DK/SoundArtLab,room 114 <br/>
+Andreas Rippl 
+Title:" ✨You are doing amazing!", Location: PSK/DK/room 129<br/>
+Anastasia Voloshina
+Title: "Die mediale Ausgrabung",Location: PSK/DK/ImmersiveLab (room 170)<br/>
+Calolina Rivera Aboleda
+Title: "Black Box Noise (for non-human perception)", Location: PSK/DK/room 122<br/>
+Bokan Mohammad Assad
+Title: "پھ نھان / Verborgen", Location: PSK/DK/Dirty Room (room 130)<br/>
+Iris Kienzl
+Title: "Inventur", Location: OKP/Schwanzer Trakt/Star 8<br/>
+Lena-Maria Kalleitner
+Title: "Anlassfall", Location: OKP/Schwanzer Trakt/Star 6
 
 ## Showing
 01.07 - 04.07 2026, 11:00 – 21:00 <br/>
