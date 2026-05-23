@@ -2,7 +2,7 @@
 title: Bokan Mohammad Assad
 description: Short Description
 date: 05/21/2026
-slider: [{ image: "./mohammad_assad.jpg", caption: "Pulsar", 2026, Videoinstallation }]
+slider: [{ image: "./mohammad_assad.jpg", caption: "Verborgen", 2026, Videoinstallation }]
 subFolder: "S2026"
 ---
 
