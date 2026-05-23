@@ -19,7 +19,7 @@ color: "cyan"
 The diploma projects are on show at the Digitale Kunst as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
 ## Locations: 
-Expositur Postsparkasse (PSK), Georg-Coch-Platz 2, 1010 Wien, 1st floor, Digitale Kunst
+Expositur Postsparkasse (PSK), Georg-Coch-Platz 2, 1010 Wien, 1st floor, Digitale Kunst<br/>
 Oskar-Kokoschka-platz (OKP), Schwanzer Trakt, 1010 Wien, Star 6, Star 8
 
 Biin Jin
