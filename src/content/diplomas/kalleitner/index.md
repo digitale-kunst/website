@@ -10,7 +10,7 @@ subFolder: "S2026"
 
 Anlassfall
 
-2026, Installation 
+2026, Installation <br/>
 Betreut von Liz Haas
 
 Macht artikuliert sich als Heilsversprechen,
@@ -18,4 +18,5 @@ Peter Thiel nennt das Monopol Erlösung
 und den Wettbewerb den Anfang vom Ende.
 Die Apokalypse wird zur Erzählung der Kontrolle,
 zum Altar, auf dem Zentralisierung sich heiligt.
+
 lenakalleitner.at
