@@ -2,7 +2,7 @@
 title: Iris Kienzl
 description: Short Description
 date: 05/21/2026
-slider: [{ image: "./kienzl.jpg", caption: "Inventur",2026, Installation, Untersuchungssystem }]
+slider: [{ image: "./kienzl.jpg", caption: "Inventur,2026, Installation, Untersuchungssystem" }]
 subFolder: "S2026"
 ---
 
