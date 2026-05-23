@@ -2,7 +2,8 @@
 title: Carolina Rivera Aboleda
 description: Short Description
 date: 05/21/2026
-slider: [{ image: "./rivera_aboleda.jpg", caption: "Verborgen, 2026, Videoinstallation" }]
+slider: [{ image: "./rivera_aboleda.jpg", caption: "Black Box Noise 
+for non-human perception, 2026, Wandobjekte " }]
 subFolder: "S2026"
 ---
 
