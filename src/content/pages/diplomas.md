@@ -4,7 +4,7 @@ description: ""
 slider: [
 { image: "./jin.jpg", caption: "Biin Jin" },
 { image: "./kalleitner.jpg", caption: "Lena-Maria kalleitner" },
-{ image: "./rippl.jpg", caption: "Andreas rippl" },
+{ image: "./rippl.jpg", caption: "Andreas Rippl" },
 { image: "./voloshina.jpg", caption: "Anastasia Voloshina" },
 { image: "./kienzl.jpg", caption: "Iris Kienzl" },
 { image: "./riveraaboleda.jpg", caption: "Carolina Rivera Aboleda" },
