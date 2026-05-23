@@ -2,13 +2,11 @@
 title: Diplomas
 description: ""
 slider: [
-{ image: "./jin.jpg", caption: "Biin Jin" },
-{ image: "./kalleitner.jpg", caption: "Lena-Maria kalleitner" },
-{ image: "./rippl.jpg", caption: "Andreas Rippl" },
-{ image: "./voloshina.jpg", caption: "Anastasia Voloshina" },
-{ image: "./kienzl.jpg", caption: "Iris Kienzl" },
-{ image: "./riveraaboleda.jpg", caption: "Carolina Rivera Aboleda" },
-{ image: "./mohammadassad.jpg", caption: "Bokan Mohammad Assad" }]
+{ image: "./diplomS26jin.jpg", caption: "Biin Jin" },
+{ image: "./diplomS26voloshina.jpg", caption: "Anastasia Voloshina" },
+{ image: "./diplomS26kienzl.jpg", caption: "Iris Kienzl" },
+{ image: "./diplomS26riveraaboleda.jpg", caption: "Carolina Rivera Aboleda" },
+{ image: "./diplomS26mohammadassad.jpg", caption: "Bokan Mohammad Assad" }]
 color: "cyan"
 ---
 # Diplomas Summer Term 2026
