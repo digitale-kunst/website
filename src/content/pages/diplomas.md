@@ -23,7 +23,7 @@ Oskar-Kokoschka-platz (OKP), Schwanzer Trakt, 1010 Wien, Star 6, Star 8
 Biin Jin
 Title: "Pulsar", Location: PSK/DK/SoundArtLab,room 114 <br/>
 Andreas Rippl 
-Title:" ✨You are doing amazing!", Location: PSK/DK/room 129<br/>
+Title:»✨You are doing amazing!«, Location: PSK/DK/room 129<br/>
 Anastasia Voloshina
 Title: "Die mediale Ausgrabung",Location: PSK/DK/ImmersiveLab (room 170)<br/>
 Calolina Rivera Aboleda
