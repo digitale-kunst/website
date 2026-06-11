@@ -2,7 +2,8 @@
 title: Anastasia Voloshina
 description: Short Description
 date: 05/21/2026
-slider: [{ image: "./voloshina.jpg", caption: "Anastasia Voloshina, Die mediale Ausgrabung, 2026" }]
+slider: [{ image: "./voloshina.jpg", caption: "Anastasia Voloshina, Die mediale Ausgrabung, 2026" }
+{ image: "./Voloshina2.jpg", caption: "Anastasia Voloshina, Die mediale Ausgrabung, 2026" },]
 subFolder: "S2026"
 ---
 
