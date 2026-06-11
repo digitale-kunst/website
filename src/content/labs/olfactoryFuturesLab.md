@@ -2,7 +2,7 @@
 title: OLFACTORY FUTURES LAB 
 description: Dere
 date: 10/12/2024
-slider: [{image: "./ofl_1.jpg",caption: "MUELLER-DIVJAK © Nakowitz/Horak"},{image: "./ofl_2.jpg",caption: ""},{image: "./ofl_3.jpg", caption: ""},{image: "./ofl_4.jpg",caption: ""},{image: "./ofl_5.jpg",caption: ""},]
+slider: [{image: "./ofl_1.jpg",caption: "MUELLER-DIVJAK © Nakowitz/Horak"},{image: "./ofl_2.jpg",caption: ""},{image: "./ofl_3.jpg", caption: ""},{image: "./ofl_4.jpg",caption: ""},{image: "./ofl_5.jpg",caption: ""}, ]
 ---
 # OLFACTORY FUTURES LAB 
 Leitung: MUELLER-DIVJAK
