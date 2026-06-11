@@ -11,7 +11,7 @@ slider:
 
 ![](./victoria-keddie.jpg)
 
-## Sound Artist Victoria Keddie 12.06.2026
+## Sound Artist Victoria Keddie 11.06.2026
 15:00-17:00
 Digitale Kunst Department, Immersive Lab
 
