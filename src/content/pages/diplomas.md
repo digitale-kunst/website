@@ -10,9 +10,9 @@ slider: [
 color: "cyan"
 ---
 # Diplomas Summer Term 2026
-<!--
+
 ![](./diplomeS26-poster.jpg)
--->
+
 
 The diploma projects are on show at the Digitale Kunst as part of the AAA (Angewandte Abschluss Arbeiten).<br/>
 
