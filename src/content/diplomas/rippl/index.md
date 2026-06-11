@@ -2,7 +2,10 @@
 title: Andreas Rippl
 description: Short Description
 date: 05/21/2026
-slider: [{ image: "./rippl.jpg", caption: "Andreas Rippl, ✨You are doing amazing!, 2026, interaktive Installation" }]
+slider: [{ image: "./rippl.jpg", caption: "Andreas Rippl, ✨You are doing amazing!, 2026, interaktive Installation" },
+{ image: "./Rippl1.jpg", caption: "Andreas Rippl, ✨You are doing amazing!, 2026, interaktive Installation" },
+{ image: "./Rippl2.jpg", caption: "Andreas Rippl, ✨You are doing amazing!, 2026, interaktive Installation" },
+{ image: "./Rippl3.jpg", caption: "Andreas Rippl, ✨You are doing amazing!, 2026, interaktive Installation" },]
 subFolder: "S2026"
 ---
 
