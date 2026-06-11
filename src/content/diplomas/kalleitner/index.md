@@ -2,11 +2,11 @@
 title: Lena Kalleitner
 description: Short Description
 date: 05/21/2026
-slider: [{ image: "./kalleitner.png", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" },
- image: "./Kalleitner1.jpg", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" }
-  image: "./Kalleitner2.jpg", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" }
-   image: "./Kalleitner3.jpg", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" }
-    image: "./Kalleitner4.jpg", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" },]
+slider: [{ image: "./kalleitner.png", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" }, 
+{image: "./Kalleitner1.jpg", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" },
+{image: "./Kalleitner2.jpg", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" },
+{image: "./Kalleitner3.jpg", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" },
+{image: "./Kalleitner4.jpg", caption: "Lena Kalleitner, Anlassfall, 2026, Installation" },]
 subFolder: "S2026"
 ---
 
