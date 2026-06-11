@@ -2,7 +2,12 @@
 title: Iris Kienzl
 description: Short Description
 date: 05/21/2026
-slider: [{ image: "./kienzl.jpg", caption: "Iris Kienzl, Inventur, 2026, Installation, Untersuchungssystem" }]
+slider: [{ image: "./Kienzl1.jpg", caption: "Iris Kienzl, Inventur, 2026, Installation, Untersuchungssystem" },
+{ image: "./Kienzl2.jpg", caption: "Iris Kienzl, Inventur, 2026, Installation, Untersuchungssystem" },
+{ image: "./Kienzl3.jpg", caption: "Iris Kienzl, Inventur, 2026, Installation, Untersuchungssystem" },
+{ image: "./Kienzl4.jpg", caption: "Iris Kienzl, Inventur, 2026, Installation, Untersuchungssystem" },
+{ image: "./Kienzl5.jpg", caption: "Iris Kienzl, Inventur, 2026, Installation, Untersuchungssystem" },
+{ image: "./Kienzl6.jpg", caption: "Iris Kienzl, Inventur, 2026, Installation, Untersuchungssystem" }]
 subFolder: "S2026"
 ---
 
