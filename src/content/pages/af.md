@@ -3,6 +3,32 @@ title: Angewandte Festival
 description: ""
 color: "orange"
 ---
+
+# Angewandte Festival 2026
+
+## Students EXHIBITION at Digitale Kunst, 02-04/07/26
+
+## Life Acts & Performances
+# Sound Improvisation Session 
+Featuring: EMILIO YÁÑEZ & VÍCTOR BADILLO
+02+03/07/26, 18:00-20:00, Oskar-Kokoschka-Platz
+# Live Coding AV Performance
+04/07/26, 14:00-18:00, Georg-Coch-Platz, Outside Area
+# Selected Live Performances
+02+03/07/26, Oskar-Kokoschka-Platz Courtyard, Georg-Coch-Platz
+
+## Renés Collapse Collection 
+02-04/07/26, 2–3h performance per day
+
+## DIPLOMA SHOWING (AAA-Angewandte Abschluss Arbeiten)
+The diploma projects are on show at the Digitale Kunst as part of the AAA
+01-04/07/26, 11:00-21:00, 
+Department Digitale Kunst, rooms: 122, 130, 129, Sound Lab, Immersive Lab, star 5 (OKP), star 8 (OKP)
+
+## VIDEO SCREENING 
+01-04/07/26,Audimax, Vordere Zollamtstrasse 7
+
+<!--
 # Angewandte Festival 2025
 
 ## EXHIBITION at Digitale Kunst OPENING Wed 25/06/25, 6:00 pm
@@ -42,14 +68,6 @@ Science Visualization Lab, Department Digitale Kunst, Georg-Coch-Platz 2, 1 Floo
 
 ## [ÆSR Lab / Digitale Kunst / mdw](https://digitalekunst.click/angewandte-festival/AF2025/16_2025_asr_lab/)
 Presentations
-
-
-
-
-
-
-
-<!--
 
 ## TAVOLATA. On standing out and fitting in
 
