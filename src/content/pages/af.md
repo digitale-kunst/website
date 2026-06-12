@@ -6,7 +6,7 @@ color: "orange"
 
 # Angewandte Festival 2026
 
-# Students EXHIBITION at Digitale Kunst, 02-04/07/26
+## Students EXHIBITION at Digitale Kunst, 02-04/07/26
 
 # Life Acts & Performances
 ## Sound Improvisation Session 
