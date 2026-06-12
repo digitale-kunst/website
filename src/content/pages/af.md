@@ -20,12 +20,12 @@ Featuring: EMILIO YÁÑEZ & VÍCTOR BADILLO
 # Renés Collapse Collection 
 02-04/07/26, 2–3h performance per day
 
-# DIPLOMA SHOWING (AAA-Angewandte Abschluss Arbeiten)
+# Diploma Showing (AAA-Angewandte Abschluss Arbeiten)
 The diploma projects are on show at the Digitale Kunst as part of the AAA
 01-04/07/26, 11:00-21:00, 
 Department Digitale Kunst, rooms: 122, 130, 129, Sound Lab, Immersive Lab, star 5 (OKP), star 8 (OKP)
 
-# VIDEO SCREENING 
+# Videa Screening 
 01-04/07/26,Audimax, Vordere Zollamtstrasse 7
 
 <!--
