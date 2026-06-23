@@ -12,11 +12,18 @@ Students EXHIBITION at Digitale Kunst, 02-04/07/26
 ![](./AF26-livesurfaces-poster.jpg)
 
 ## Life Acts & Performances
-### Sound Improvisation Session 
+
+### From Beets To Beats - The Crisp Sound Of Plants
+Sound Improvisation Session 
+MAXX HYPER (Max Bauer), Margherita Pruneti, Sei Jeung, Sofia, Hartwin Haselbauer with
+Martina Fröschl
+03/07/26, 18:00-20:00, Oskar-Kokoschka-Platz, Stage
+
+### Electroceramics
+Live Coding AV Performance
 Featuring: EMILIO YÁÑEZ & VÍCTOR BADILLO
 02+03/07/26, 18:00-20:00, Oskar-Kokoschka-Platz
-### Live Coding AV Performance
-04/07/26, 14:00-18:00, Georg-Coch-Platz, Outside Area
+
 ### Selected Live Performances
 02+03/07/26, Oskar-Kokoschka-Platz Courtyard, Georg-Coch-Platz
 
