@@ -8,6 +8,8 @@ color: "orange"
 
 ## Students EXHIBITION at Digitale Kunst, 02-04/07/26
 
+![](./AF26-livesurfaces-poster.jpg)
+
 ## Life Acts & Performances
 ### Sound Improvisation Session 
 Featuring: EMILIO YÁÑEZ & VÍCTOR BADILLO
