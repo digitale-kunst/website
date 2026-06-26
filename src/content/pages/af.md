@@ -7,53 +7,54 @@ color: "orange"
 # Angewandte Festival 2026
 
 ## LIVE SURFACES_PULSE, PRESENCE, RESONANCE
-Students EXHIBITION at Digitale Kunst, 02-04/07/26
+Students´ EXHIBITION at Digitale Kunst, 01-04/07/26
 
 ![](./AF26-livesurfaces-poster.jpg)
 
 ### Diploma Showing (AAA-Angewandte Abschluss Arbeiten)
-The diploma projects are on show at the Digitale Kunst as part of the AAA
-01-04/07/26, 11:00-21:00, 
-Department Digitale Kunst, rooms: 122, 130, 129, Sound Lab, Immersive Lab, star 6 (OKP), star 8 (OKP)
-
-### From Beets To Beats - The Crisp Sound Of Plants
-Sound Improvisation Session 
-MAXX HYPER (Max Bauer), Margherita Pruneti, Sei Jeung, Sofia, Hartwin Haselbauer with Martina Fröschl
-03/07/26, 18:00-20:00, Oskar-Kokoschka-Platz, Stage
-
-### Electroceramics
-Live Coding AV Performance
-Featuring: EMILIO YÁÑEZ & VÍCTOR BADILLO, Nicolas Henao Bonnet, Jens Vetter
-02+03/07/26, 18:00-20:00, Oskar-Kokoschka-Platz, Courtyard
+The diploma projects are on show at the Digitale Kunst as part of the AAA 01-04/07/26, 
+during the Festival opening hours. Department Digitale Kunst, rooms: 122, 130, 129, Sound Lab, Immersive Lab, Star 6 (OKP), Star 8 (OKP)
 
 ### Sonido Chamuco
-Selected Live Performances
-Featuring: David Zirahuen Reyes Nares
+Live Performance by Zira Reyes Nares
+02/07/26, 19:00-22:00, room 169 (DK Kitchen)
+
+### From Beets To Beats - The Crisp Sound Of Plants
+Sound Improvisation MAXX HYPER, Margherita Pruneti, Sei Jeung, Sofia Gutierrez Escobar (FIA), Hartwin Haselbauer with Martina R. Fröschl 
+03/07/26, 18:00-20:00, Oskar-Kokoschka-Platz, Stage
+
+### Live Coding AV Performance 
+Featuring: 45 grados, Nicolás Henao Bonnet, Jens Vetter 
+04/07/26, 15:00-18:00, Oskar-Kokoschka-Platz, Courtyard
+
 
 ### Live Surfaces
 Students Exhibition
 
-An Angel's Wings are Like a Shark's Teeth/Alena Prinz, MAMA/Claudia Anahi Juárez Suárez, Digital Handicraft/Yifan Li, Isometric Memory Spaces/Mariia Tikhomirova, Pretty Attractive/Ivan Sai, Scaling/Jazmin Sanzana Montenegro, whatmetaowesyou.org/Sara Martinez Ortiz and Nicolás Henao Bonnet, Claw Purgatory/Jorge Emilio Fernandez and Victor Badillo and Amanda Montenegro, Seed Studies/Amanda Montengro Ávila, Mannequins/Ryta Kulyk
+An angel’s wings are like a shark’s teeth/Alena Prinz, Seed Studies Part I/Amanda Montengro, Memplex Zone Version 2.0/Bobby Rajesh Malhotra, Digital Handicraft/Element Lee, becoming digitális szabadságharcos/Franci Kas, Ordnung V1/A Letter to Maria/Hannah Hutterer, Pretty Attractive/Ivan Sai, Scaling/Jazmín Sanzana, Claw Purgatory/ Jorge Emilio Yáñez, Victor Badillo and Amanda Montenegro, MAMA/Juárez Suárez, Isometric Memory Spaces/Mariia Tikhomirova, whatmetaowesyou.org/NotToday, minigolf server/Oscar Zickler, Mannequins/Ryta Kulyk, ICE/Zira Reyesna 
 01/07/26, 16:00-21:00, 02+03/07/26, 11:00-21:00, 04/07/26, 11:00-18:00, DK Jungle
 
-Sonic Gestures/Margherita Pruneti, Retrouvailles/Dongjoo Kim, LONELY ROOM PROTOCOL/Matthias Sanoll, Will 1,024 Seconds of Gaze Make You Love This Place/Wenlu Sun, BF [butterfly]/Hartwin Haselbauer , Four Phrases/Xu Huang
+BF [butterfly]/AEON GAWA, Retrouvailles/Dongjoo Kim, Sonic Gestures/Margherita Pruneti, LONELY ROOM PROTOCOL/Matthias Sanoll, Will 1,024 Seconds of Gaze Make You Love This Place/Wenlu Sun, Four Phrases/Xu Huang, Im Bade 2026/Zita Kayser
 01/07/26, 16:00-21:00, 02+03/07/26, 11:00-21:00, 04/07/26, 11:00-18:00, DK Hallway
 
-Ordnung V1/(A) letter to Maria/Hannah Hutterer, im Bad 200/Zita Kayser, minigolf server/Oscar Zickler, ICE/David Zirahuen Reyes Nares, Oscillaris/Matthias Sanoll, ASP (Active Surveillance Program) | DREAMTECH/Xenia Kamensky, Speiseeis bei einsetzender Dunkelheit/MAXX HYPER (Max Engelbert Bauer)
-01/07/26, 16:00-21:00, 02+03/07/26, 11:00-21:00, 04/07/26, 11:00-18:00, IMMERSIVE LAB BACK STAGE
+DREAMTECH | ASP/AIXENI, Oscillaris/Matthias Sanoll, Speiseeis bei einsetzender Dunkelheit/MAXX HYPER 
+01/07/26, 16:00-21:00, 02+03/07/26, 11:00-21:00, 04/07/26, 11:00-18:00, DK Immersive Lab Back Stage
 
 ### Immersive Installations - INTERVENTION
-Can something random be interpreted as meaningful?/Grisha Terno and Roma Bogdanov, Poems from a Sushi Shop/Xu Huang, All Inclusive AI Hell Cruise/Malpractice (Chiara Kristler & Marcin Ratajczyk)
-01/07/26, 20:00-21:00 DK Immersive Lab
+Can something random be interpreted as meaningful?/Grisha Terno and Roma Bogdanov, All Inclusive AI Hell Cruise/Malpractice, Poems from a Sushi Shop and Xu´s unofficial Report to Lenin, Winter Twenty Twenty-Five/Xu Huang 
+01/07/26, 20:00-21:00, 02-04/07/26, 13:00-14:00, DK Immersive Lab
+
+### The Narrative Network
+Collaborative installation 
+01/07/26, 16:00-21:00, 02+03/07/26, 11:00-21:00, 04/07/26, 11:00-18:00, DK Research Lab
 
 ### Collapse Collection: Take Over
-Renés Collapse Collection 
-Margherita Pruneti, Sei Jeung, Ghanishka Kedar, GhazalL Naemi, Koschka Cosma Keye, Ulrike Fritzsche, Claudia Anahi Juarez Suarez, Roma Bogdanov, Jazmín SanzanaA, Jorge Emilio YÁÑEZ, Grigorii Terno, Nicolas Henao Bonnet, Dongjoo Kim
-02-04/07/26, PSK big Kassenhalle
+Renés Collapse Collection featuring Margherita Pruneti, Sei Jeung, Ghanishka Kedar, Ghazal Naemi, Koschka Cosma Keye, Ulrike Fritzsche, Juárez Suárez, Roma Bogdanov and Grisha Terno, Jazmín Sanzana, Jorge Emilio Yáñez, Nicolás Henao Bonnet, Dongjoo Kim 
+02-04/07/26, PSK Kassenhalle
 
-### Video Screening 
-Like, Share and Subscribe/Anton Paievski, Bosnian Pyramid Routine by Daki R./David Obradović, You could have done better/Zita Kayser, Instruments/Ryta Kulyk, Fatigue Archive/Malpractice, Tofuism/Sei Jeung, At the End of Meaning/Nicolas Henao Bonnet and Werzog and Herner, on the lookout/Andreas Rippl, In deiner Nähe/Iris Kienzl
-01-04/07/26, Audimax VZA7
+### Angewandte Video Screening VZA 7
+Like, Share and Subscribe/Anton Paievski, Bosnian Pyramid Routine by Daki R./David Obradović, You could have done better/Zita Kayser, Instruments/Ryta Kulyk, Fatigue Archive/Malpractice, Tofuism/Sei Jeung, At the End of Meaning/Herner Werzog, on the lookout/Andreas Rippl, In deiner Nähe/Iris Kienzl 
+01-04/07/26, Auditorium VZA7
 
 <!--
 # Angewandte Festival 2025
