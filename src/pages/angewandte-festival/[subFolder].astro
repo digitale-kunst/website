@@ -35,7 +35,7 @@ const groupedBySubFolder: Group = collection.reduce((acc, item) => {
 }, {} as Group);
 const { title, description, color } = indexPage.data;
 const subFolder = Astro.params.subFolder;
-const { Content } = !== undefined;
+const { Content } = await indexPage.render();
 ---
 
 <Layout {title} {description} {color}>
