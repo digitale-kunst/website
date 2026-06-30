@@ -1,7 +1,7 @@
 ---
 title: Angewandte Festival
 description: ""
-color: "orange"
+color: "primary"
 ---
 
 ## Angewandte Festival 2026
