@@ -1,5 +1,5 @@
 ---
-title: "Narrating the Network"
+title: "Renés COLLAPSE COLLECTION"
 description: Dere
 date: 05/06/2025
 slider: [ { image: "./CollapseCollection.png", caption: "Courtesy of the Artist" },]
