@@ -2,7 +2,7 @@
 title: "Immersive Interventions"
 description: Dere
 date: 05/06/2026
-slider: [ { image: "./Bogdanov_Terno.jpg", caption: "" },]
+slider: [ { image: "./BogdanovTerno.jpg", caption: "" },]
 subFolder: "AF2026"
 ---
 
