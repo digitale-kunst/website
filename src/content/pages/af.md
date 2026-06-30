@@ -27,10 +27,8 @@ Sound Improvisation MAXX HYPER, Margherita Pruneti, Sei Jeung, Sofia Gutierrez E
 Featuring: 45 grados, Nicolás Henao Bonnet, Jens Vetter 
 04/07/26, 15:00-18:00, Oskar-Kokoschka-Platz, Courtyard
 
-
 ### Live Surfaces
 Students Exhibition
-
 An angel’s wings are like a shark’s teeth/Alena Prinz, Seed Studies Part I/Amanda Montengro, Memplex Zone Version 2.0/Bobby Rajesh Malhotra, Digital Handicraft/Element Lee, becoming digitális szabadságharcos/Franci Kas, Ordnung V1/A Letter to Maria/Hannah Hutterer, Pretty Attractive/Ivan Sai, Scaling/Jazmín Sanzana, Claw Purgatory/ Jorge Emilio Yáñez, Victor Badillo and Amanda Montenegro, MAMA/Juárez Suárez, Isometric Memory Spaces/Mariia Tikhomirova, whatmetaowesyou.org/NotToday, minigolf server/Oscar Zickler, Mannequins/Ryta Kulyk, ICE/Zira Reyesna 
 01/07/26, 16:00-21:00, 02+03/07/26, 11:00-21:00, 04/07/26, 11:00-18:00, DK Jungle
 
