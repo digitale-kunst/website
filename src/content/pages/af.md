@@ -1,12 +1,12 @@
 ---
 title: Angewandte Festival
 description: ""
-color: "orange"
+color: "yellow"
 ---
 
-# Angewandte Festival 2026
+## Angewandte Festival 2026
 
-## LIVE SURFACES_PULSE, PRESENCE, RESONANCE
+## LIVE SURFACES_PULSE, PRESENCE, RESONANCE curated by Burcu Öztürkler
 Students´ EXHIBITION at Digitale Kunst, 01-04/07/26
 
 ![](./AF26-livesurfaces-poster.jpg)
