@@ -18,7 +18,7 @@ export async function getStaticPaths() {
   }));
 }
 const collection = await getCollection("af");
-const festival = await getEntry("pages", "af");
+const indexPage = await getEntry("pages", "af");
 interface Group {
   [season: string]: CollectionEntry<"af">[];
 }
@@ -31,7 +31,7 @@ const groupedBySubFolder: Group = collection.reduce((acc, item) => {
   acc[key].push(item);
   return acc;
 }, {} as Group);
-const { title, description, color } = festival.data;
+const { title, description, color } = indexPage.data;
 const subFolder = Astro.params.subFolder;
 const { Content } = await indexPage.render();
 ---
