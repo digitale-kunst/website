@@ -1,5 +1,5 @@
 ---
-title: "SONIDO CHMUCHO"
+title: "PERFORMANCE Sonido Chmucho"
 description: Dere
 date: 05/06/2025
 slider: [ { image: "./SonidoChamucho1.jpg", caption: "Courtesy of the Artist" },
