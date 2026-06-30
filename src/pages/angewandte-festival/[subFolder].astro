@@ -18,7 +18,8 @@ export async function getStaticPaths() {
   }));
 }
 const collection = await getCollection("af");
-const indexPage = await getEntry("pages", "af");
+
+
 interface Group {
   [season: string]: CollectionEntry<"af">[];
 }
