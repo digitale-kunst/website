@@ -2,7 +2,7 @@
 title: "Narrating the Network"
 description: Dere
 date: 05/06/2025
-slider: [ { image: "./NarratingTheNetwork", caption: "Courtesy of the Artist" },]
+slider: [ { image: "./NarratingTheNetwork.jpg", caption: "Courtesy of the Artist" },]
 subFolder: "AF2026"
 ---
 # Narrating the Network
