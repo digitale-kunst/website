@@ -2,6 +2,7 @@
 title: "IMMERSIVE INTERVENTION"
 description: Dere
 date: 05/06/2025
+slider: [ { image: "./BoganovTerno.jpg", caption: "" },]
 subFolder: "AF2026"
 ---
 # IMMERSIVE INTERVENTION
