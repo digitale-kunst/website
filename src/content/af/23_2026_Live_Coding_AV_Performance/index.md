@@ -1,5 +1,5 @@
 ---
-title: "LIVE CODING SESSION"
+title: "LIVE CODING AV Performance"
 description: Dere
 date: 05/06/2025
 slider: [ { image: "./LiveCodingAV1.png", caption: "Courtesy of the Artist" },
@@ -7,7 +7,7 @@ slider: [ { image: "./LiveCodingAV1.png", caption: "Courtesy of the Artist" },
 { image: "./LiveCodingAV3.jpg", caption: "Courtesy of the Artist" },]
 subFolder: "AF2026"
 ---
-# Live Coding Session 
+# Live Coding AV Performance
 Code-based performances by Jens Vetter, 45 grados (Emilio Yáñez & Víctor Badillo) and Nicolás Henao Bonnet
 
 ## Location: OKP courtyard
