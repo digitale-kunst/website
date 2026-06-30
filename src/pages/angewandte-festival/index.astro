@@ -4,7 +4,7 @@ import Container from "@layouts/Container.astro";
 import { getEntry, getCollection } from "astro:content";
 import { Image } from "astro:assets";
 
-const indexPage = await getEntry("pages", "");
+const indexPage = await getEntry("pages", "af");
 const collection = await getCollection("af");
 
 const { Content, headings } = await indexPage.render();
