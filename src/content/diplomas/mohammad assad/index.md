@@ -8,7 +8,7 @@ subFolder: "S2026"
 
 ### Bokan Mohammad Assad
 
-Title: پھ نھان / Verborgen
+Title: پەنهان / Verborgen
 
 2026, Videoinstallation<br/>
 Betreut von Martina Fröschl
