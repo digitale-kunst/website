@@ -29,7 +29,7 @@ Title: "Die mediale Ausgrabung",Location: PSK/DK/ImmersiveLab (room 170)<br/>
 Calolina Rivera Aboleda
 Title: "Black Box Noise (for non-human perception)", Location: PSK/DK/room 122<br/>
 Bokan Mohammad Assad
-Title: "پھ نھان / Verborgen", Location: PSK/DK/Dirty Room (room 130)<br/>
+Title: "پەنهان / Verborgen", Location: PSK/DK/Dirty Room (room 130)<br/>
 Iris Kienzl
 Title: "Inventur", Location: OKP/Schwanzer Trakt/Star 8<br/>
 Lena-Maria Kalleitner
