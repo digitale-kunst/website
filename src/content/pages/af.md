@@ -40,7 +40,7 @@ DREAMTECH | ASP/AIXENI, Oscillaris/Matthias Sanoll, Speiseeis bei einsetzender D
 
 ### Immersive Installations - INTERVENTION
 Can something random be interpreted as meaningful?/Grisha Terno and Roma Bogdanov, All Inclusive AI Hell Cruise/Malpractice, Poems from a Sushi Shop and Xu´s unofficial Report to Lenin, Winter Twenty Twenty-Five/Xu Huang 
-01/07/26, 20:00-21:00, 02-04/07/26, 13:00-14:00, DK Immersive Lab
+01/07/26, 20:00-21:00, 02-04/07/26, 17:00-18:00, DK Immersive Lab
 
 ### The Narrative Network
 Collaborative installation 
