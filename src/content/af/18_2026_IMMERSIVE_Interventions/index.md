@@ -8,7 +8,7 @@ subFolder: "AF2026"
 # IMMERSIVE INTERVENTION
 
 ## Location: DK Immersive Lab
-## Time: 01.07.2026, 20:00 – 21:00, 02.07. – 04.07.2026, 13:00 – 14:00
+## Time: 01.07.2026, 20:00 – 21:00, 02.07. – 04.07.2026, 17:00 – 18:00
 A 1-hour intervention program throughout the festival with works by Malpractice, Roma Bogdanov and Grisha Terno, Xu Huang.
 ## Program:
 Malpractice (Chiara Kristler and Marcin Ratajczyk) – All Inclusive AI Hell Cruise, 30 mins
